@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Chapter1_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 0cf0cb56eeeb0a345b8656ecbe8f6d7d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 194137604096
+    m_Localized: "Narodziny cywilizacji\n(ok. 3000\u2013800 p.n.e.)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 419519684198400
+    m_Localized: "To czas, gdy cz\u0142owiek zacz\u0105\u0142 budowa\u0107 pierwsze
+      miasta, organizowa\u0107 pa\u0144stwa i tworzy\u0107 pisma. W dolinach rzek
+      \u2013 Nilu, Eufratu, Indusu i Huang He \u2013 rozwija\u0142y si\u0119 wielkie
+      cywilizacje. Powsta\u0142y z\u0142o\u017Cone religie, prawa i struktury spo\u0142eczne.
+      Rolnictwo, rzemios\u0142o i handel tworzy\u0142y podstawy \u015Bwiata, kt\xF3ry
+      dopiero zaczyna\u0142 rozumie\u0107 siebie i swoje mo\u017Cliwo\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420319173066752
+    m_Localized: "Staro\u017Cytny uczony Strabon pisa\u0142, \u017Ce ta rzeka \u201Eprzynosi
+      Egipcjanom \u017Cycie, tak jak dusza cia\u0142u.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420360214331392
+    m_Localized: "Coroczne wylewy tej rzeki nanosi\u0142y \u017Cyzny mu\u0142, u\u017Cy\u017Aniaj\u0105c
+      ziemi\u0119 pod uprawy, co by\u0142o podstaw\u0105 pot\u0119gi tej cywilizacji."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420364521881600
+    m_Localized: Tygrys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420368980426752
+    m_Localized: Eufrat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 419809409941504
+    m_Localized: Indus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420571884077056
+    m_Localized: Nil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421364313931776
+    m_Localized: "Historyk Samuel Noah Kramer nazwa\u0142 je \"pierwszymi zapisanymi
+      s\u0142owami cz\u0142owieka, ryte w glinie, \u015Bwiadectwo praw i codzienno\u015Bci
+      Sumer\xF3w.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421545541419008
+    m_Localized: "Ten system pisma, u\u017Cywany g\u0142\xF3wnie do cel\xF3w administracyjnych
+      i religijnych w Mezopotamii, sk\u0142ada\u0142 si\u0119 z klinowych znak\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421548573900800
+    m_Localized: Hieroglify
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421551132426240
+    m_Localized: Alfabet fenicki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421559130963968
+    m_Localized: Pismo klinowe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421562410909696
+    m_Localized: Pismo obrazkowe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422509723828224
+    m_Localized: "Ten w\u0142adca znany jest z kodeksu, w kt\xF3rym zapisano m.in.:
+      \u201EJe\u015Bli obywatel wybi\u0142 oko obywatelowi, to nale\u017Cy mu wybi\u0107
+      oko.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422513725194240
+    m_Localized: "Rz\u0105dzi\u0142 Babiloni\u0105, jednym z g\u0142\xF3wnych pa\u0144stw
+      staro\u017Cytnej Mezopotamii, i zas\u0142yn\u0105\u0142 jako tw\xF3rca jednego
+      z pierwszych znanych system\xF3w prawa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422516011089920
+    m_Localized: Ramzes II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422517743337472
+    m_Localized: Hammurabi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422519500750848
+    m_Localized: Cyrus Wielki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422521316884480
+    m_Localized: Aszurbanipal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423663392309248
+    m_Localized: "Jak uj\u0105\u0142 to V. Gordon Childe: \"Rewolucja neolityczna,
+      kt\xF3rej sercem by\u0142o rolnictwo, sta\u0142a si\u0119 fundamentem dla wszystkiego,
+      co nast\u0105pi\u0142o p\xF3\u017Aniej.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423665757896704
+    m_Localized: "Dost\u0119pno\u015B\u0107 wody i \u017Cyznej ziemi sprzyja\u0142a
+      rozwojowi tej ga\u0142\u0119zi gospodarki, kt\xF3ra sta\u0142a si\u0119 podstaw\u0105
+      dla powstania miast i osiad\u0142ego trybu \u017Cycia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423667523698688
+    m_Localized: "My\u015Blistwo i zbieractwo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423669151088640
+    m_Localized: "Rolnictwo i rzemios\u0142o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423669851537408
+    m_Localized: "Pasterstwo i rybo\u0142\xF3wstwo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423670551986176
+    m_Localized: "Handel i \u017Cegluga"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424615188938752
+    m_Localized: "Konfucjusz mawia\u0142: \"Rzeka nosi ziemi\u0119, daje \u017Cycie
+      i formuje ducha narodu.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424617063792640
+    m_Localized: "Jej wylewy, cho\u0107 cz\u0119sto niszczycielskie, przynosi\u0142y
+      te\u017C \u017Cyzny mu\u0142, tworz\u0105c podstawy dla rolnictwa w staro\u017Cytnych
+      Chinach i s\u0105 nazywane \"kolebk\u0105 chi\u0144skiej cywilizacji\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424618884120576
+    m_Localized: Jangcy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424620482150400
+    m_Localized: Mekong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424621308428288
+    m_Localized: Huang He
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424622038237184
+    m_Localized: Ganges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425744509485056
+    m_Localized: "W Tekstach Piramid zapisano o nim: \u201EJest tym, kt\xF3ry wschodzi
+      ka\u017Cdego ranka, daj\u0105c \u017Cycie \u015Bwiatu i jest panem niebios.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425746577276928
+    m_Localized: "By\u0142 najwa\u017Cniejszym b\xF3stwem w staro\u017Cytnym Egipcie,
+      cz\u0119sto przedstawianym z g\u0142ow\u0105 ptaka i symbolem najwa\u017Cniejszego
+      cia\u0142a niebieskiego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425748485685248
+    m_Localized: Ozyrys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425750050160640
+    m_Localized: Horus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425750574448640
+    m_Localized: Ra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425751270703104
+    m_Localized: Anubis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426730741350400
+    m_Localized: "Pliniusz Starszy w \"Historii Naturalnej\" opisywa\u0142: \"Z trzciny
+      tej, rosn\u0105cej obficie nad Nilem, Egipcjanie wytwarzali lekki i trwa\u0142y
+      materia\u0142 do pisania.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426731429216256
+    m_Localized: "Wytwarzano go z ro\u015Bliny rosn\u0105cej obficie nad Nilem i
+      by\u0142 g\u0142\xF3wnym materia\u0142em pisarskim w staro\u017Cytnym pa\u0144stwie
+      faraon\xF3w, u\u017Cywanym przez tysi\u0105ce lat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426732142247936
+    m_Localized: Papirus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426732754616320
+    m_Localized: Pergamin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426733408927744
+    m_Localized: Woskowe tabliczki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426735552217088
+    m_Localized: 'Zwoje jedwabne '
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

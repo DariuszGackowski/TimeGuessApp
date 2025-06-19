@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Chapter1_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0cf0cb56eeeb0a345b8656ecbe8f6d7d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 194137604096
+    m_Localized: "The Birth of Civilization\r\n(ca. 3000\u2013800 BCE)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 419519684198400
+    m_Localized: "This is the time when man began to build the first cities, organize
+      states, and create writings. In the river valleys \u2013 the Nile, Euphrates,
+      Indus, and Huang He \u2013 great civilizations developed. Complex religions,
+      laws, and social structures emerged. Agriculture, crafts, and trade formed
+      the foundations of a world that was only just beginning to understand itself
+      and its possibilities."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 419809409941504
+    m_Localized: Indus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421364313931776
+    m_Localized: "Historian Samuel Noah Kramer called it \u201Cthe first written
+      words of man, carved in clay \u2014 a testimony to the laws and daily life
+      of the Sumerians.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420319173066752
+    m_Localized: "The ancient scholar Strabo wrote that this river \u201Cbrings life
+      to the Egyptians just as the soul does to the body.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420360214331392
+    m_Localized: " The river\u2019s annual floods deposited fertile silt, enriching
+      the soil for crops \u2014 a foundation of this civilization\u2019s power."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420364521881600
+    m_Localized: Tigris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420368980426752
+    m_Localized: Euphrates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420571884077056
+    m_Localized: Nile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421545541419008
+    m_Localized: This writing system, used mainly for administrative and religious
+      purposes in Mesopotamia, consisted of wedge-shaped symbols.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421548573900800
+    m_Localized: Hieroglyphs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421551132426240
+    m_Localized: Phoenician alphabet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421559130963968
+    m_Localized: Cuneiform
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421562410909696
+    m_Localized: Pictographs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422509723828224
+    m_Localized: This ruler is famous for a code stating, among other things, "If
+      a citizen blinds another citizen, then his eye shall be blinded."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422513725194240
+    m_Localized: He ruled Babylon, one of the main states in ancient Mesopotamia,
+      and is known as the creator of one of the earliest known legal systems.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422516011089920
+    m_Localized: Ramses II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422517743337472
+    m_Localized: Hammurabi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422519500750848
+    m_Localized: Cyrus the Great
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422521316884480
+    m_Localized: Ashurbanipal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423663392309248
+    m_Localized: "As V. Gordon Childe put it: \u201CThe Neolithic Revolution, centered
+      on agriculture, became the foundation for everything that followed.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423665757896704
+    m_Localized: The availability of water and fertile land encouraged the development
+      of this branch of the economy, which became the basis for the rise of cities
+      and settled life.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423667523698688
+    m_Localized: Hunting and gathering
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423669151088640
+    m_Localized: Agriculture and crafts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423669851537408
+    m_Localized: Pastoralism and fishing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423670551986176
+    m_Localized: Trade and navigation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424615188938752
+    m_Localized: Confucius said, "The river carries the soil, gives life, and shapes
+      the spirit of the nation."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424617063792640
+    m_Localized: Its floods, though often destructive, also brought fertile silt,
+      forming the foundation of agriculture in ancient China, and it is called "the
+      cradle of Chinese civilization."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424618884120576
+    m_Localized: Yangtze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424620482150400
+    m_Localized: Mekong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424621308428288
+    m_Localized: Huang He
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424622038237184
+    m_Localized: Ganges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425744509485056
+    m_Localized: "The Pyramid Texts say of him: \u201CHe is the one who rises each
+      morning, giving life to the world and ruling the skies.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425746577276928
+    m_Localized: "He was the most important deity in ancient Egypt, often depicted
+      with a bird\u2019s head and the symbol of the most important celestial body."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425748485685248
+    m_Localized: Osiris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425750050160640
+    m_Localized: Horus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425750574448640
+    m_Localized: Ra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425751270703104
+    m_Localized: Anubis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426735552217088
+    m_Localized: Silk scrolls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426733408927744
+    m_Localized: Wax tablets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426730741350400
+    m_Localized: "Pliny the Elder in Natural History described: \u201CFrom this reed,
+      growing abundantly along the Nile, the Egyptians made a light and durable writing
+      material.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426731429216256
+    m_Localized: It was made from a plant growing abundantly by the Nile and was
+      the main writing material in the ancient pharaonic state, used for thousands
+      of years.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426732142247936
+    m_Localized: Papyrus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426732754616320
+    m_Localized: Parchment
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
