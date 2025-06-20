@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: Chapter1_es
+  m_Name: chapter1_es
   m_EditorClassIdentifier: 
   m_LocaleId:
     m_Code: es
@@ -18,112 +18,8 @@ MonoBehaviour:
   m_Metadata:
     m_Items: []
   m_TableData:
-  - m_Id: 9
-    m_Localized: "Chinos de la dinast\xEDa Shang"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8
-    m_Localized: Antiguos Egipcios
-    m_Metadata:
-      m_Items: []
-  - m_Id: 7
-    m_Localized: Harappa y Mohenjo-Daro
-    m_Metadata:
-      m_Items: []
-  - m_Id: 6
-    m_Localized: Sumerios y Acadios
-    m_Metadata:
-      m_Items: []
-  - m_Id: 5
-    m_Localized: "El desarrollo agr\xEDcola a gran escala en esta regi\xF3n era imposible
-      sin complejos sistemas de canales, presas y diques, que permit\xEDan controlar
-      las inundaciones de los r\xEDos e irrigar vastas \xE1reas cultivadas, creando
-      excedentes alimentarios."
-    m_Metadata:
-      m_Items: []
-  - m_Id: 4
-    m_Localized: "La profesora Gwendolyn Leick escribi\xF3: \"Sus vidas estaban inextricablemente
-      ligadas al ritmo de dos r\xEDos, y su ingenier\xEDa hidr\xE1ulica fue la clave
-      para la supervivencia y la prosperidad.\""
-    m_Metadata:
-      m_Items: []
   - m_Id: 1
-    m_Localized: "Nacimiento de la Civilizaci\xF3n (aprox. 3000\u2013800 a.C.)"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 24
-    m_Localized: "\xBFQu\xE9 papel desempe\xF1\xF3 el \"Nilo Generoso\" en el Antiguo
-      Egipto, cuyas inundaciones anuales eran tan cruciales para la agricultura?"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 23
-    m_Localized: Nippur
-    m_Metadata:
-      m_Items: []
-  - m_Id: 22
-    m_Localized: Ur
-    m_Metadata:
-      m_Items: []
-  - m_Id: 21
-    m_Localized: Lagash
-    m_Metadata:
-      m_Items: []
-  - m_Id: 20
-    m_Localized: Uruk
-    m_Metadata:
-      m_Items: []
-  - m_Id: 19
-    m_Localized: "Fue una de las ciudades-estado sumerias m\xE1s importantes, ubicada
-      en el \xC9ufrates, famosa por su impresionante zigurat y tumbas reales, que
-      proporcionaron mucha informaci\xF3n sobre la cultura y el arte locales."
-    m_Metadata:
-      m_Items: []
-  - m_Id: 18
-    m_Localized: "Sir Leonard Woolley, quien realiz\xF3 descubrimientos all\xED,
-      la llam\xF3 \"el mayor tesoro de Mesopotamia, un testimonio de la incre\xEDble
-      riqueza y maestr\xEDa art\xEDstica de los sumerios del per\xEDodo din\xE1stico
-      temprano.\""
-    m_Metadata:
-      m_Items: []
-  - m_Id: 16
-    m_Localized: Hititas
-    m_Metadata:
-      m_Items: []
-  - m_Id: 15
-    m_Localized: Asirios
-    m_Metadata:
-      m_Items: []
-  - m_Id: 14
-    m_Localized: Babilonios
-    m_Metadata:
-      m_Items: []
-  - m_Id: 13
-    m_Localized: Sumerios
-    m_Metadata:
-      m_Items: []
-  - m_Id: 12
-    m_Localized: "Cre\xEDan en numerosas deidades que controlaban varios aspectos
-      de la vida y la naturaleza. La religi\xF3n estaba fuertemente ligada al estado,
-      y los templos serv\xEDan como centros administrativos y econ\xF3micos, lo que
-      era t\xEDpico de esta regi\xF3n."
-    m_Metadata:
-      m_Items: []
-  - m_Id: 11
-    m_Localized: "Como afirm\xF3 Thorkild Jacobsen, estudioso de la mitolog\xEDa
-      mesopot\xE1mica: \"Su pante\xF3n reflejaba la imprevisibilidad de la naturaleza,
-      con deidades poderosas como Enlil, Enki o la diosa del amor y la guerra, que
-      exig\xEDan constante veneraci\xF3n.\""
-    m_Metadata:
-      m_Items: []
-  - m_Id: 10
-    m_Localized: "\xBFCon qu\xE9 civilizaci\xF3n de Mesopotamia est\xE1 asociado
-      el culto a deidades como Enlil, Enki o la diosa del amor y la guerra?"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3
-    m_Localized: "\xBFQu\xE9 civilizaciones, bas\xE1ndose en una gesti\xF3n avanzada
-      de los recursos h\xEDdricos, fueron pioneras en la ingenier\xEDa hidr\xE1ulica
-      a gran escala?"
+    m_Localized: "El Nacimiento de la Civilizaci\xF3n"
     m_Metadata:
       m_Items: []
   - m_Id: 2
@@ -135,15 +31,119 @@ MonoBehaviour:
       de un mundo que apenas comenzaba a comprenderse a s\xED mismo y sus posibilidades."
     m_Metadata:
       m_Items: []
-  - m_Id: 25
-    m_Localized: "Plutarco, aunque escribiendo m\xE1s tarde, cit\xF3 a los egipcios:
-      \"El Nilo es vida, y su inundaci\xF3n \u2013 una bendici\xF3n de los dioses,
-      de la que depende nuestro destino.\""
+  - m_Id: 3
+    m_Localized: "\xBFQu\xE9 civilizaciones, bas\xE1ndose en una gesti\xF3n avanzada
+      de los recursos h\xEDdricos, fueron pioneras en la ingenier\xEDa hidr\xE1ulica
+      a gran escala?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: "La profesora Gwendolyn Leick escribi\xF3: \"Sus vidas estaban inextricablemente
+      ligadas al ritmo de dos r\xEDos, y su ingenier\xEDa hidr\xE1ulica fue la clave
+      para la supervivencia y la prosperidad.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: "El desarrollo agr\xEDcola a gran escala en esta regi\xF3n era imposible
+      sin complejos sistemas de canales, presas y diques, que permit\xEDan controlar
+      las inundaciones de los r\xEDos e irrigar vastas \xE1reas cultivadas, creando
+      excedentes alimentarios."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Sumerios y Acadios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Harappa y Mohenjo-Daro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Antiguos Egipcios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: "Chinos de la dinast\xEDa Shang"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: "\xBFCon qu\xE9 civilizaci\xF3n de Mesopotamia est\xE1 asociado
+      el culto a deidades como Enlil, Enki o la diosa del amor y la guerra?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: "Como afirm\xF3 Thorkild Jacobsen, estudioso de la mitolog\xEDa
+      mesopot\xE1mica: \"Su pante\xF3n reflejaba la imprevisibilidad de la naturaleza,
+      con deidades poderosas como Enlil, Enki o la diosa del amor y la guerra, que
+      exig\xEDan constante veneraci\xF3n.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: "Cre\xEDan en numerosas deidades que controlaban varios aspectos
+      de la vida y la naturaleza. La religi\xF3n estaba fuertemente ligada al estado,
+      y los templos serv\xEDan como centros administrativos y econ\xF3micos, lo que
+      era t\xEDpico de esta regi\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Sumerios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: Babilonios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Asirios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: Hititas
     m_Metadata:
       m_Items: []
   - m_Id: 17
     m_Localized: "\xBFDe qu\xE9 famosa ciudad-estado, conocida por sus riquezas funerarias
       y su desarrollada administraci\xF3n, provienen estos artefactos?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: "Sir Leonard Woolley, quien realiz\xF3 descubrimientos all\xED,
+      la llam\xF3 \"el mayor tesoro de Mesopotamia, un testimonio de la incre\xEDble
+      riqueza y maestr\xEDa art\xEDstica de los sumerios del per\xEDodo din\xE1stico
+      temprano.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: "Fue una de las ciudades-estado sumerias m\xE1s importantes, ubicada
+      en el \xC9ufrates, famosa por su impresionante zigurat y tumbas reales, que
+      proporcionaron mucha informaci\xF3n sobre la cultura y el arte locales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Uruk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Lagash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Ur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Nippur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: "\xBFQu\xE9 papel desempe\xF1\xF3 el \"Nilo Generoso\" en el Antiguo
+      Egipto, cuyas inundaciones anuales eran tan cruciales para la agricultura?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: "Plutarco, aunque escribiendo m\xE1s tarde, cit\xF3 a los egipcios:
+      \"El Nilo es vida, y su inundaci\xF3n \u2013 una bendici\xF3n de los dioses,
+      de la que depende nuestro destino.\""
     m_Metadata:
       m_Items: []
   - m_Id: 26

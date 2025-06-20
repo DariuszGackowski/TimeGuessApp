@@ -13,9 +13,10 @@ MonoBehaviour:
   m_Name: Questions
   m_EditorClassIdentifier: 
   Chapters:
-  - LocalizationTableName: Chapter1
-    NameID: Chapter1_Name
-    DescriptionID: Chapter1_Description
+  - Icon: {fileID: -7431931245510559275, guid: b2285da73658fe744ad25efaa973c961, type: 3}
+    LocalizationTableName: chapter1
+    NameID: chapter1_Name
+    DescriptionID: chapter1_Background
     Questions:
     - Icon: {fileID: 2427746327287094008, guid: 58818c3f0ab869e45afbd3cb608e7db1, type: 3}
       QuestionTextID: question_1

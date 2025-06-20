@@ -16,7 +16,7 @@ MonoBehaviour:
   m_GUID: afdc7c684440a1a4c8b5094cd71d43ee
   m_SerializeEntries:
   - m_GUID: 75133202698d77743bbc5bd35065bb7b
-    m_Address: Chapter1_ja
+    m_Address: chapter1_ja
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-ja

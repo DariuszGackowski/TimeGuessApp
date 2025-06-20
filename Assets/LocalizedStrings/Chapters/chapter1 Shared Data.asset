@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
-  m_Name: Chapter1 Shared Data
+  m_Name: chapter1 Shared Data
   m_EditorClassIdentifier: 
-  m_TableCollectionName: Chapter1
+  m_TableCollectionName: chapter1
   m_TableCollectionNameGuidString: 89c6d6642ba1ce6448b0ef3110967008
   m_Entries:
   - m_Id: 1
@@ -726,11 +726,11 @@ MonoBehaviour:
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
-    rid: 5813119506385731655
+    rid: 5813119550454497554
   references:
     version: 2
     RefIds:
-    - rid: 5813119506385731655
+    - rid: 5813119550454497554
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
-        m_CustomEpoch: 1750294596484
+        m_CustomEpoch: 1750461640768

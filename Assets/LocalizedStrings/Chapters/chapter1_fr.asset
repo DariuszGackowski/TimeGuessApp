@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: Chapter1_fr
+  m_Name: chapter1_fr
   m_EditorClassIdentifier: 
   m_LocaleId:
     m_Code: fr
@@ -18,114 +18,8 @@ MonoBehaviour:
   m_Metadata:
     m_Items: []
   m_TableData:
-  - m_Id: 9
-    m_Localized: Chinois de la dynastie Shang
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8
-    m_Localized: "Anciens \xC9gyptiens"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 7
-    m_Localized: Harappa et Mohenjo-Daro
-    m_Metadata:
-      m_Items: []
-  - m_Id: 6
-    m_Localized: "Sum\xE9riens et Akkadiens"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 5
-    m_Localized: "Le d\xE9veloppement de l'agriculture \xE0 grande \xE9chelle dans
-      cette r\xE9gion \xE9tait impossible sans des syst\xE8mes complexes de canaux,
-      de barrages et de digues, qui permettaient de contr\xF4ler les crues des fleuves
-      et d'irriguer de vastes zones cultiv\xE9es, cr\xE9ant ainsi des surplus alimentaires."
-    m_Metadata:
-      m_Items: []
-  - m_Id: 4
-    m_Localized: "La professeure Gwendolyn Leick \xE9crivit : \"Leur vie \xE9tait
-      inextricablement li\xE9e au rythme de deux fleuves, et leur ing\xE9nierie hydraulique
-      \xE9tait la cl\xE9 de leur survie et de leur prosp\xE9rit\xE9.\""
-    m_Metadata:
-      m_Items: []
   - m_Id: 1
-    m_Localized: "Naissance de la Civilisation (env. 3000\u2013800 av. J.-C.)"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 24
-    m_Localized: "Quel r\xF4le jouait le \"Nil G\xE9n\xE9reux\" dans l'\xC9gypte
-      ancienne, dont les crues annuelles \xE9taient si cruciales pour l'agriculture
-      ?"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 23
-    m_Localized: Nippur
-    m_Metadata:
-      m_Items: []
-  - m_Id: 22
-    m_Localized: Ur
-    m_Metadata:
-      m_Items: []
-  - m_Id: 21
-    m_Localized: Lagash
-    m_Metadata:
-      m_Items: []
-  - m_Id: 20
-    m_Localized: Uruk
-    m_Metadata:
-      m_Items: []
-  - m_Id: 19
-    m_Localized: "C'\xE9tait l'une des plus importantes cit\xE9s-\xE9tats sum\xE9riennes,
-      situ\xE9e sur l'Euphrate, c\xE9l\xE8bre pour son impressionnant ziggourat et
-      ses tombes royales, qui ont fourni de nombreuses informations sur la culture
-      et l'art de l'\xE9poque."
-    m_Metadata:
-      m_Items: []
-  - m_Id: 18
-    m_Localized: "Sir Leonard Woolley, qui y fit des d\xE9couvertes, la qualifia
-      de \"plus grand tr\xE9sor de M\xE9sopotamie, t\xE9moin de la richesse et de
-      l'artisanat in\xE9gal\xE9s des Sum\xE9riens de la p\xE9riode dynastique ancienne.\""
-    m_Metadata:
-      m_Items: []
-  - m_Id: 16
-    m_Localized: Hittites
-    m_Metadata:
-      m_Items: []
-  - m_Id: 15
-    m_Localized: Assyriens
-    m_Metadata:
-      m_Items: []
-  - m_Id: 14
-    m_Localized: Babyloniens
-    m_Metadata:
-      m_Items: []
-  - m_Id: 13
-    m_Localized: "Sum\xE9riens"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 12
-    m_Localized: "Ils croyaient en de nombreuses divinit\xE9s qui contr\xF4laient
-      divers aspects de la vie et de la nature. La religion \xE9tait fortement li\xE9e
-      \xE0 l'\xC9tat, et les temples servaient de centres administratifs et \xE9conomiques,
-      ce qui \xE9tait typique de cette r\xE9gion."
-    m_Metadata:
-      m_Items: []
-  - m_Id: 11
-    m_Localized: "Comme l'a d\xE9clar\xE9 Thorkild Jacobsen, chercheur en mythologie
-      m\xE9sopotamienne, \"Leur panth\xE9on refl\xE9tait l'impr\xE9visibilit\xE9
-      de la nature, avec des divinit\xE9s puissantes telles qu'Enlil, Enki ou la
-      d\xE9esse de l'amour et de la guerre, qui exigeaient une v\xE9n\xE9ration constante.\""
-    m_Metadata:
-      m_Items: []
-  - m_Id: 10
-    m_Localized: "\xC0 laquelle des civilisations de M\xE9sopotamie est associ\xE9
-      le culte de divinit\xE9s telles qu'Enlil, Enki ou la d\xE9esse de l'amour et
-      de la guerre ?"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3
-    m_Localized: "Quelles civilisations, bas\xE9es sur une gestion avanc\xE9e des
-      ressources en eau, furent les pionni\xE8res de l'ing\xE9nierie hydraulique
-      \xE0 grande \xE9chelle ?"
+    m_Localized: La Naissance de la Civilisation
     m_Metadata:
       m_Items: []
   - m_Id: 2
@@ -138,16 +32,122 @@ MonoBehaviour:
       tout juste \xE0 se comprendre et \xE0 comprendre ses possibilit\xE9s."
     m_Metadata:
       m_Items: []
-  - m_Id: 25
-    m_Localized: "Plutarque, bien qu'il \xE9crivit plus tard, cita les \xC9gyptiens
-      : \"Le Nil est la vie, et sa crue - une b\xE9n\xE9diction des dieux, dont d\xE9pend
-      notre destin.\""
+  - m_Id: 3
+    m_Localized: "Quelles civilisations, bas\xE9es sur une gestion avanc\xE9e des
+      ressources en eau, furent les pionni\xE8res de l'ing\xE9nierie hydraulique
+      \xE0 grande \xE9chelle ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: "La professeure Gwendolyn Leick \xE9crivit : \"Leur vie \xE9tait
+      inextricablement li\xE9e au rythme de deux fleuves, et leur ing\xE9nierie hydraulique
+      \xE9tait la cl\xE9 de leur survie et de leur prosp\xE9rit\xE9.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: "Le d\xE9veloppement de l'agriculture \xE0 grande \xE9chelle dans
+      cette r\xE9gion \xE9tait impossible sans des syst\xE8mes complexes de canaux,
+      de barrages et de digues, qui permettaient de contr\xF4ler les crues des fleuves
+      et d'irriguer de vastes zones cultiv\xE9es, cr\xE9ant ainsi des surplus alimentaires."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: "Sum\xE9riens et Akkadiens"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Harappa et Mohenjo-Daro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: "Anciens \xC9gyptiens"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Chinois de la dynastie Shang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: "\xC0 laquelle des civilisations de M\xE9sopotamie est associ\xE9
+      le culte de divinit\xE9s telles qu'Enlil, Enki ou la d\xE9esse de l'amour et
+      de la guerre ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: "Comme l'a d\xE9clar\xE9 Thorkild Jacobsen, chercheur en mythologie
+      m\xE9sopotamienne, \"Leur panth\xE9on refl\xE9tait l'impr\xE9visibilit\xE9
+      de la nature, avec des divinit\xE9s puissantes telles qu'Enlil, Enki ou la
+      d\xE9esse de l'amour et de la guerre, qui exigeaient une v\xE9n\xE9ration constante.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: "Ils croyaient en de nombreuses divinit\xE9s qui contr\xF4laient
+      divers aspects de la vie et de la nature. La religion \xE9tait fortement li\xE9e
+      \xE0 l'\xC9tat, et les temples servaient de centres administratifs et \xE9conomiques,
+      ce qui \xE9tait typique de cette r\xE9gion."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: "Sum\xE9riens"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: Babyloniens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Assyriens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: Hittites
     m_Metadata:
       m_Items: []
   - m_Id: 17
     m_Localized: "De quelle c\xE9l\xE8bre cit\xE9-\xE9tat, connue pour ses richesses
       fun\xE9raires et son administration d\xE9velopp\xE9e, proviennent ces artefacts
       ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: "Sir Leonard Woolley, qui y fit des d\xE9couvertes, la qualifia
+      de \"plus grand tr\xE9sor de M\xE9sopotamie, t\xE9moin de la richesse et de
+      l'artisanat in\xE9gal\xE9s des Sum\xE9riens de la p\xE9riode dynastique ancienne.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: "C'\xE9tait l'une des plus importantes cit\xE9s-\xE9tats sum\xE9riennes,
+      situ\xE9e sur l'Euphrate, c\xE9l\xE8bre pour son impressionnant ziggourat et
+      ses tombes royales, qui ont fourni de nombreuses informations sur la culture
+      et l'art de l'\xE9poque."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Uruk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Lagash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Ur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Nippur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: "Quel r\xF4le jouait le \"Nil G\xE9n\xE9reux\" dans l'\xC9gypte
+      ancienne, dont les crues annuelles \xE9taient si cruciales pour l'agriculture
+      ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: "Plutarque, bien qu'il \xE9crivit plus tard, cita les \xC9gyptiens
+      : \"Le Nil est la vie, et sa crue - une b\xE9n\xE9diction des dieux, dont d\xE9pend
+      notre destin.\""
     m_Metadata:
       m_Items: []
   - m_Id: 26

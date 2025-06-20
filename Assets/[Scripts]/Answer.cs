@@ -1,6 +1,4 @@
 
-using UnityEngine.Localization;
-
 namespace Core
 {
     [System.Serializable]

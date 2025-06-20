@@ -843,10 +843,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: ChapterButton
       objectReference: {fileID: 0}
-    - target: {fileID: 2684536992049874159, guid: a1282a0d47e18bf44893bfabde795c07, type: 3}
-      propertyPath: m_text
-      value: 0/25
-      objectReference: {fileID: 0}
     - target: {fileID: 7550606191563877168, guid: a1282a0d47e18bf44893bfabde795c07, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5

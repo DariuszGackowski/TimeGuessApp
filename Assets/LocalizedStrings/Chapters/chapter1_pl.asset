@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: Chapter1_pl
+  m_Name: chapter1_pl
   m_EditorClassIdentifier: 
   m_LocaleId:
     m_Code: pl
@@ -18,113 +18,8 @@ MonoBehaviour:
   m_Metadata:
     m_Items: []
   m_TableData:
-  - m_Id: 9
-    m_Localized: "Chi\u0144czycy z dynastii Shang"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8
-    m_Localized: "Staro\u017Cytni Egipcjanie"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 7
-    m_Localized: Harappa i Mohenjo-Daro
-    m_Metadata:
-      m_Items: []
-  - m_Id: 6
-    m_Localized: Sumerowie i Akadowie
-    m_Metadata:
-      m_Items: []
-  - m_Id: 5
-    m_Localized: "Rozw\xF3j rolnictwa na du\u017C\u0105 skal\u0119 w tym regionie
-      by\u0142 niemo\u017Cliwy bez z\u0142o\u017Conych system\xF3w kana\u0142\xF3w,
-      tam i wa\u0142\xF3w, kt\xF3re pozwala\u0142y na kontrolowanie wylew\xF3w rzek
-      i nawadnianie rozleg\u0142ych teren\xF3w uprawnych, tworz\u0105c nadwy\u017Cki
-      \u017Cywno\u015Bci."
-    m_Metadata:
-      m_Items: []
-  - m_Id: 4
-    m_Localized: "Profesor Gwendolyn Leick pisa\u0142a: \"Ich \u017Cycie by\u0142o
-      nierozerwalnie zwi\u0105zane z rytmem dw\xF3ch rzek, a ich in\u017Cynieria
-      wodna by\u0142a kluczem do przetrwania i dobrobytu.\""
-    m_Metadata:
-      m_Items: []
   - m_Id: 1
-    m_Localized: "Narodziny Cywilizacji (ok. 3000\u2013800 p.n.e.)"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 24
-    m_Localized: "Jak\u0105 rol\u0119 w staro\u017Cytnym Egipcie odgrywa\u0142 \"Wielkoduszny
-      Nil\", kt\xF3rego coroczne wylewy by\u0142y tak kluczowe dla rolnictwa?"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 23
-    m_Localized: Nippur
-    m_Metadata:
-      m_Items: []
-  - m_Id: 22
-    m_Localized: Ur
-    m_Metadata:
-      m_Items: []
-  - m_Id: 21
-    m_Localized: Lagash
-    m_Metadata:
-      m_Items: []
-  - m_Id: 20
-    m_Localized: Uruk
-    m_Metadata:
-      m_Items: []
-  - m_Id: 19
-    m_Localized: "By\u0142o to jedno z najwa\u017Cniejszych sumeryjskich miast-pa\u0144stw,
-      po\u0142o\u017Cone nad Eufratem, s\u0142yn\u0105ce z imponuj\u0105cego zigguratu
-      i grobowc\xF3w kr\xF3lewskich, kt\xF3re dostarczy\u0142y wielu informacji o
-      tamtejszej kulturze i sztuce."
-    m_Metadata:
-      m_Items: []
-  - m_Id: 18
-    m_Localized: "Sir Leonard Woolley, kt\xF3ry dokona\u0142 tam odkry\u0107, nazwa\u0142
-      je \"najwi\u0119kszym skarbem Mezopotamii, \u015Bwiadectwem niezr\xF3wnanego
-      bogactwa i kunsztu Sumer\xF3w z wczesnego okresu dynastycznego.\""
-    m_Metadata:
-      m_Items: []
-  - m_Id: 16
-    m_Localized: Hetyci
-    m_Metadata:
-      m_Items: []
-  - m_Id: 15
-    m_Localized: Asyryjczycy
-    m_Metadata:
-      m_Items: []
-  - m_Id: 14
-    m_Localized: "Babilo\u0144czycy"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 13
-    m_Localized: Sumerowie
-    m_Metadata:
-      m_Items: []
-  - m_Id: 12
-    m_Localized: "Wierzyli w liczne b\xF3stwa kontroluj\u0105ce r\xF3\u017Cne aspekty
-      \u017Cycia i natury. Religia by\u0142a silnie zwi\u0105zana z pa\u0144stwem,
-      a \u015Bwi\u0105tynie pe\u0142ni\u0142y funkcje administracyjne i gospodarcze,
-      co by\u0142o typowe dla tego regionu."
-    m_Metadata:
-      m_Items: []
-  - m_Id: 11
-    m_Localized: "Jak stwierdzi\u0142 Thorkild Jacobsen, badacz mezopotamskiej mitologii:
-      \"Ich panteon odzwierciedla\u0142 nieprzewidywalno\u015B\u0107 natury, z pot\u0119\u017Cnymi
-      b\xF3stwami takimi jak Enlil, Enki czy bogini mi\u0142o\u015Bci i wojny, kt\xF3re
-      wymaga\u0142y sta\u0142ego oddania.\""
-    m_Metadata:
-      m_Items: []
-  - m_Id: 10
-    m_Localized: "Z kt\xF3r\u0105 cywilizacj\u0105 Mezopotamii zwi\u0105zany jest
-      kult b\xF3stw takich jak Enlil, Enki czy bogini mi\u0142o\u015Bci i wojny?"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3
-    m_Localized: "Kt\xF3re cywilizacje, bazuj\u0105c na zaawansowanym zarz\u0105dzaniu
-      zasobami wodnymi, by\u0142y pionierami w zakresie in\u017Cynierii hydraulicznej
-      na du\u017C\u0105 skal\u0119?"
+    m_Localized: Narodziny Cywilizacji
     m_Metadata:
       m_Items: []
   - m_Id: 2
@@ -137,15 +32,120 @@ MonoBehaviour:
       i swoje mo\u017Cliwo\u015Bci."
     m_Metadata:
       m_Items: []
-  - m_Id: 25
-    m_Localized: "Plutarch, cho\u0107 pisa\u0142 p\xF3\u017Aniej, cytowa\u0142 Egipcjan:
-      \"Nil jest \u017Cyciem, a jego wylew \u2013 b\u0142ogos\u0142awie\u0144stwem
-      bog\xF3w, od kt\xF3rego zale\u017Cy nasz los.\""
+  - m_Id: 3
+    m_Localized: "Kt\xF3re cywilizacje, bazuj\u0105c na zaawansowanym zarz\u0105dzaniu
+      zasobami wodnymi, by\u0142y pionierami w zakresie in\u017Cynierii hydraulicznej
+      na du\u017C\u0105 skal\u0119?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: "Profesor Gwendolyn Leick pisa\u0142a: \"Ich \u017Cycie by\u0142o
+      nierozerwalnie zwi\u0105zane z rytmem dw\xF3ch rzek, a ich in\u017Cynieria
+      wodna by\u0142a kluczem do przetrwania i dobrobytu.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: "Rozw\xF3j rolnictwa na du\u017C\u0105 skal\u0119 w tym regionie
+      by\u0142 niemo\u017Cliwy bez z\u0142o\u017Conych system\xF3w kana\u0142\xF3w,
+      tam i wa\u0142\xF3w, kt\xF3re pozwala\u0142y na kontrolowanie wylew\xF3w rzek
+      i nawadnianie rozleg\u0142ych teren\xF3w uprawnych, tworz\u0105c nadwy\u017Cki
+      \u017Cywno\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Sumerowie i Akadowie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Harappa i Mohenjo-Daro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: "Staro\u017Cytni Egipcjanie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: "Chi\u0144czycy z dynastii Shang"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: "Z kt\xF3r\u0105 cywilizacj\u0105 Mezopotamii zwi\u0105zany jest
+      kult b\xF3stw takich jak Enlil, Enki czy bogini mi\u0142o\u015Bci i wojny?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: "Jak stwierdzi\u0142 Thorkild Jacobsen, badacz mezopotamskiej mitologii:
+      \"Ich panteon odzwierciedla\u0142 nieprzewidywalno\u015B\u0107 natury, z pot\u0119\u017Cnymi
+      b\xF3stwami takimi jak Enlil, Enki czy bogini mi\u0142o\u015Bci i wojny, kt\xF3re
+      wymaga\u0142y sta\u0142ego oddania.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: "Wierzyli w liczne b\xF3stwa kontroluj\u0105ce r\xF3\u017Cne aspekty
+      \u017Cycia i natury. Religia by\u0142a silnie zwi\u0105zana z pa\u0144stwem,
+      a \u015Bwi\u0105tynie pe\u0142ni\u0142y funkcje administracyjne i gospodarcze,
+      co by\u0142o typowe dla tego regionu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Sumerowie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: "Babilo\u0144czycy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Asyryjczycy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: Hetyci
     m_Metadata:
       m_Items: []
   - m_Id: 17
     m_Localized: "Z kt\xF3rego s\u0142ynnego miasta-pa\u0144stwa, znanego z bogactw
       grobowych i rozwini\u0119tej administracji, pochodz\u0105 te artefakty?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: "Sir Leonard Woolley, kt\xF3ry dokona\u0142 tam odkry\u0107, nazwa\u0142
+      je \"najwi\u0119kszym skarbem Mezopotamii, \u015Bwiadectwem niezr\xF3wnanego
+      bogactwa i kunsztu Sumer\xF3w z wczesnego okresu dynastycznego.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: "By\u0142o to jedno z najwa\u017Cniejszych sumeryjskich miast-pa\u0144stw,
+      po\u0142o\u017Cone nad Eufratem, s\u0142yn\u0105ce z imponuj\u0105cego zigguratu
+      i grobowc\xF3w kr\xF3lewskich, kt\xF3re dostarczy\u0142y wielu informacji o
+      tamtejszej kulturze i sztuce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Uruk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Lagash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Ur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Nippur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: "Jak\u0105 rol\u0119 w staro\u017Cytnym Egipcie odgrywa\u0142 \"Wielkoduszny
+      Nil\", kt\xF3rego coroczne wylewy by\u0142y tak kluczowe dla rolnictwa?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: "Plutarch, cho\u0107 pisa\u0142 p\xF3\u017Aniej, cytowa\u0142 Egipcjan:
+      \"Nil jest \u017Cyciem, a jego wylew \u2013 b\u0142ogos\u0142awie\u0144stwem
+      bog\xF3w, od kt\xF3rego zale\u017Cy nasz los.\""
     m_Metadata:
       m_Items: []
   - m_Id: 26

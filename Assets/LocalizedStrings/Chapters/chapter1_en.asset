@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: Chapter1_en
+  m_Name: chapter1_en
   m_EditorClassIdentifier: 
   m_LocaleId:
     m_Code: en
@@ -18,108 +18,8 @@ MonoBehaviour:
   m_Metadata:
     m_Items: []
   m_TableData:
-  - m_Id: 9
-    m_Localized: Chinese from the Shang Dynasty
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8
-    m_Localized: Ancient Egyptians
-    m_Metadata:
-      m_Items: []
-  - m_Id: 7
-    m_Localized: Harappa and Mohenjo-Daro
-    m_Metadata:
-      m_Items: []
-  - m_Id: 6
-    m_Localized: Sumerians and Akkadians
-    m_Metadata:
-      m_Items: []
-  - m_Id: 5
-    m_Localized: Large-scale agricultural development in this region was impossible
-      without complex systems of canals, dams, and dikes, which allowed for the control
-      of river floods and the irrigation of vast cultivated areas, creating food
-      surpluses.
-    m_Metadata:
-      m_Items: []
-  - m_Id: 4
-    m_Localized: 'Professor Gwendolyn Leick wrote: "Their life was inextricably linked
-      with the rhythm of two rivers, and their hydraulic engineering was key to survival
-      and prosperity."'
-    m_Metadata:
-      m_Items: []
   - m_Id: 1
-    m_Localized: "Birth of Civilization (c. 3000\u2013800 BCE)"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 24
-    m_Localized: What role did the "Generous Nile" play in ancient Egypt, whose annual
-      floods were so crucial for agriculture?
-    m_Metadata:
-      m_Items: []
-  - m_Id: 23
-    m_Localized: Nippur
-    m_Metadata:
-      m_Items: []
-  - m_Id: 22
-    m_Localized: Ur
-    m_Metadata:
-      m_Items: []
-  - m_Id: 21
-    m_Localized: Lagash
-    m_Metadata:
-      m_Items: []
-  - m_Id: 20
-    m_Localized: Uruk
-    m_Metadata:
-      m_Items: []
-  - m_Id: 19
-    m_Localized: It was one of the most important Sumerian city-states, located on
-      the Euphrates, famous for its impressive ziggurat and royal tombs, which provided
-      much information about the local culture and art.
-    m_Metadata:
-      m_Items: []
-  - m_Id: 18
-    m_Localized: Sir Leonard Woolley, who made discoveries there, called it "the
-      greatest treasure of Mesopotamia, a testament to the incredible wealth and
-      artistry of the Sumerians in the Early Dynastic period."
-    m_Metadata:
-      m_Items: []
-  - m_Id: 16
-    m_Localized: Hittites
-    m_Metadata:
-      m_Items: []
-  - m_Id: 15
-    m_Localized: Assyrians
-    m_Metadata:
-      m_Items: []
-  - m_Id: 14
-    m_Localized: Babylonians
-    m_Metadata:
-      m_Items: []
-  - m_Id: 13
-    m_Localized: Sumerians
-    m_Metadata:
-      m_Items: []
-  - m_Id: 12
-    m_Localized: They believed in numerous deities who controlled various aspects
-      of life and nature. Religion was strongly linked to the state, and temples
-      served as administrative and economic centers, which was typical for this region.
-    m_Metadata:
-      m_Items: []
-  - m_Id: 11
-    m_Localized: As Thorkild Jacobsen, a scholar of Mesopotamian mythology, stated,
-      "Their pantheon reflected the unpredictability of nature, with powerful deities
-      such as Enlil, Enki or the goddess of love and war, who demanded constant worship."
-    m_Metadata:
-      m_Items: []
-  - m_Id: 10
-    m_Localized: With which of the Mesopotamian civilizations is the cult of deities
-      such as Enlil, Enki, or the goddess of love and war associated?
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3
-    m_Localized: Which civilizations, based on advanced water resource management,
-      were pioneers in large-scale hydraulic engineering?
+    m_Localized: The Birth of Civilization
     m_Metadata:
       m_Items: []
   - m_Id: 2
@@ -131,14 +31,114 @@ MonoBehaviour:
       its possibilities."
     m_Metadata:
       m_Items: []
-  - m_Id: 25
-    m_Localized: 'Plutarch, though writing later, quoted Egyptians: "The Nile is
-      life, and its flood - a blessing from the gods, from which our fate depends."'
+  - m_Id: 3
+    m_Localized: Which civilizations, based on advanced water resource management,
+      were pioneers in large-scale hydraulic engineering?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: 'Professor Gwendolyn Leick wrote: "Their life was inextricably linked
+      with the rhythm of two rivers, and their hydraulic engineering was key to survival
+      and prosperity."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Large-scale agricultural development in this region was impossible
+      without complex systems of canals, dams, and dikes, which allowed for the control
+      of river floods and the irrigation of vast cultivated areas, creating food
+      surpluses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Sumerians and Akkadians
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Harappa and Mohenjo-Daro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Ancient Egyptians
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Chinese from the Shang Dynasty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: With which of the Mesopotamian civilizations is the cult of deities
+      such as Enlil, Enki, or the goddess of love and war associated?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: As Thorkild Jacobsen, a scholar of Mesopotamian mythology, stated,
+      "Their pantheon reflected the unpredictability of nature, with powerful deities
+      such as Enlil, Enki or the goddess of love and war, who demanded constant worship."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: They believed in numerous deities who controlled various aspects
+      of life and nature. Religion was strongly linked to the state, and temples
+      served as administrative and economic centers, which was typical for this region.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Sumerians
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: Babylonians
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Assyrians
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: Hittites
     m_Metadata:
       m_Items: []
   - m_Id: 17
     m_Localized: From which famous city-state, known for its grave riches and extensive
       administration, do these artifacts originate?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: Sir Leonard Woolley, who made discoveries there, called it "the
+      greatest treasure of Mesopotamia, a testament to the incredible wealth and
+      artistry of the Sumerians in the Early Dynastic period."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: It was one of the most important Sumerian city-states, located on
+      the Euphrates, famous for its impressive ziggurat and royal tombs, which provided
+      much information about the local culture and art.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Uruk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Lagash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Ur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Nippur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: What role did the "Generous Nile" play in ancient Egypt, whose annual
+      floods were so crucial for agriculture?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: 'Plutarch, though writing later, quoted Egyptians: "The Nile is
+      life, and its flood - a blessing from the gods, from which our fate depends."'
     m_Metadata:
       m_Items: []
   - m_Id: 26
