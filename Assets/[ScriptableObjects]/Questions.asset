@@ -13,92 +13,332 @@ MonoBehaviour:
   m_Name: Questions
   m_EditorClassIdentifier: 
   Chapters:
-  - Name:
-      m_TableReference:
-        m_TableCollectionName: GUID:0cf0cb56eeeb0a345b8656ecbe8f6d7d
-      m_TableEntryReference:
-        m_KeyId: 194137604096
-        m_Key: 
-      m_FallbackState: 0
-      m_WaitForCompletion: 0
-      m_LocalVariables: []
-    Description:
-      m_TableReference:
-        m_TableCollectionName: GUID:0cf0cb56eeeb0a345b8656ecbe8f6d7d
-      m_TableEntryReference:
-        m_KeyId: 419519684198400
-        m_Key: 
-      m_FallbackState: 0
-      m_WaitForCompletion: 0
-      m_LocalVariables: []
+  - LocalizationTableName: Chapter1
+    NameID: Chapter1_Name
+    DescriptionID: Chapter1_Description
     Questions:
-    - Icon: {fileID: 0}
-      Quote:
-        m_TableReference:
-          m_TableCollectionName: 
-        m_TableEntryReference:
-          m_KeyId: 0
-          m_Key: 
-        m_FallbackState: 0
-        m_WaitForCompletion: 0
-        m_LocalVariables: []
-      HistoricalBackground:
-        m_TableReference:
-          m_TableCollectionName: 
-        m_TableEntryReference:
-          m_KeyId: 0
-          m_Key: 
-        m_FallbackState: 0
-        m_WaitForCompletion: 0
-        m_LocalVariables: []
+    - Icon: {fileID: 2427746327287094008, guid: 58818c3f0ab869e45afbd3cb608e7db1, type: 3}
+      QuestionTextID: question_1
+      QuoteID: hint_1_1
+      HistoricalBackgroundID: hint_1_2
       Answers:
-      - AnswerText:
-          m_TableReference:
-            m_TableCollectionName: 
-          m_TableEntryReference:
-            m_KeyId: 0
-            m_Key: 
-          m_FallbackState: 0
-          m_WaitForCompletion: 0
-          m_LocalVariables: []
+      - AnswerID: answer_1_A
         IsCorrect: 0
-      - AnswerText:
-          m_TableReference:
-            m_TableCollectionName: 
-          m_TableEntryReference:
-            m_KeyId: 0
-            m_Key: 
-          m_FallbackState: 0
-          m_WaitForCompletion: 0
-          m_LocalVariables: []
+      - AnswerID: answer_1_B
         IsCorrect: 0
-      - AnswerText:
-          m_TableReference:
-            m_TableCollectionName: 
-          m_TableEntryReference:
-            m_KeyId: 0
-            m_Key: 
-          m_FallbackState: 0
-          m_WaitForCompletion: 0
-          m_LocalVariables: []
+      - AnswerID: answer_1_C
         IsCorrect: 0
-      - AnswerText:
-          m_TableReference:
-            m_TableCollectionName: 
-          m_TableEntryReference:
-            m_KeyId: 0
-            m_Key: 
-          m_FallbackState: 0
-          m_WaitForCompletion: 0
-          m_LocalVariables: []
+      - AnswerID: answer_1_D
         IsCorrect: 0
-      HintQuoteUsed: 0
-      HintBackgroundUsed: 0
-      HintFiftyFiftyUsed: 0
-      Points: 0
-      ScoredPoints: 0
-      HintValue: 0
-    ScoredPoints: 0
-  references:
-    version: 2
-    RefIds: []
+    - Icon: {fileID: -4348151466833338593, guid: 5dea25b373cc36342a57fc0847bd2a6b, type: 3}
+      QuestionTextID: question_2
+      QuoteID: hint_2_1
+      HistoricalBackgroundID: hint_2_2
+      Answers:
+      - AnswerID: answer_2_A
+        IsCorrect: 0
+      - AnswerID: answer_2_B
+        IsCorrect: 0
+      - AnswerID: answer_2_C
+        IsCorrect: 0
+      - AnswerID: answer_2_D
+        IsCorrect: 0
+    - Icon: {fileID: -4034764374325351151, guid: c596475b3c5cb2b4c887acf83dc8bd9c, type: 3}
+      QuestionTextID: question_3
+      QuoteID: hint_3_1
+      HistoricalBackgroundID: hint_3_2
+      Answers:
+      - AnswerID: answer_3_A
+        IsCorrect: 0
+      - AnswerID: answer_3_B
+        IsCorrect: 0
+      - AnswerID: answer_3_C
+        IsCorrect: 0
+      - AnswerID: answer_3_D
+        IsCorrect: 0
+    - Icon: {fileID: 1584123985093356135, guid: 9a3c294f353d8f349985ce53988380c1, type: 3}
+      QuestionTextID: question_4
+      QuoteID: hint_4_1
+      HistoricalBackgroundID: hint_4_2
+      Answers:
+      - AnswerID: answer_4_A
+        IsCorrect: 0
+      - AnswerID: answer_4_B
+        IsCorrect: 0
+      - AnswerID: answer_4_C
+        IsCorrect: 0
+      - AnswerID: answer_4_D
+        IsCorrect: 0
+    - Icon: {fileID: -8590391583691187296, guid: dceb410d74c1e3a49a4e10a469f1c3ea, type: 3}
+      QuestionTextID: question_5
+      QuoteID: hint_5_1
+      HistoricalBackgroundID: hint_5_2
+      Answers:
+      - AnswerID: answer_5_A
+        IsCorrect: 0
+      - AnswerID: answer_5_B
+        IsCorrect: 0
+      - AnswerID: answer_5_C
+        IsCorrect: 0
+      - AnswerID: answer_5_D
+        IsCorrect: 0
+    - Icon: {fileID: -7431931245510559275, guid: b2285da73658fe744ad25efaa973c961, type: 3}
+      QuestionTextID: question_6
+      QuoteID: hint_6_1
+      HistoricalBackgroundID: hint_6_2
+      Answers:
+      - AnswerID: answer_6_A
+        IsCorrect: 0
+      - AnswerID: answer_6_B
+        IsCorrect: 0
+      - AnswerID: answer_6_C
+        IsCorrect: 0
+      - AnswerID: answer_6_D
+        IsCorrect: 0
+    - Icon: {fileID: 5800737153306221770, guid: c0ff149c0c0ed8d4898e978784c1e59b, type: 3}
+      QuestionTextID: question_7
+      QuoteID: hint_7_1
+      HistoricalBackgroundID: hint_7_2
+      Answers:
+      - AnswerID: answer_7_A
+        IsCorrect: 0
+      - AnswerID: answer_7_B
+        IsCorrect: 0
+      - AnswerID: answer_7_C
+        IsCorrect: 0
+      - AnswerID: answer_7_D
+        IsCorrect: 0
+    - Icon: {fileID: -8905441033904635491, guid: 207dbf653d72bc945ba4943c635ae090, type: 3}
+      QuestionTextID: question_8
+      QuoteID: hint_8_1
+      HistoricalBackgroundID: hint_8_2
+      Answers:
+      - AnswerID: answer_8_A
+        IsCorrect: 0
+      - AnswerID: answer_8_B
+        IsCorrect: 0
+      - AnswerID: answer_8_C
+        IsCorrect: 0
+      - AnswerID: answer_8_D
+        IsCorrect: 0
+    - Icon: {fileID: 4616980411442860765, guid: bf19cb9d70ac14042b2bbd4fb81673b9, type: 3}
+      QuestionTextID: question_9
+      QuoteID: hint_9_1
+      HistoricalBackgroundID: hint_9_2
+      Answers:
+      - AnswerID: answer_9_A
+        IsCorrect: 0
+      - AnswerID: answer_9_B
+        IsCorrect: 0
+      - AnswerID: answer_9_C
+        IsCorrect: 0
+      - AnswerID: answer_9_D
+        IsCorrect: 0
+    - Icon: {fileID: 8544849995725584909, guid: 871e3f2f2f34d9e43b5217d9e07ed875, type: 3}
+      QuestionTextID: question_10
+      QuoteID: hint_10_1
+      HistoricalBackgroundID: hint_10_2
+      Answers:
+      - AnswerID: answer_10_A
+        IsCorrect: 0
+      - AnswerID: answer_10_B
+        IsCorrect: 0
+      - AnswerID: answer_10_C
+        IsCorrect: 0
+      - AnswerID: answer_10_D
+        IsCorrect: 0
+    - Icon: {fileID: 1158586580618190406, guid: f8611aa8d810fd54ab6f8508496ef5f2, type: 3}
+      QuestionTextID: question_11
+      QuoteID: hint_11_1
+      HistoricalBackgroundID: hint_11_2
+      Answers:
+      - AnswerID: answer_11_A
+        IsCorrect: 0
+      - AnswerID: answer_11_B
+        IsCorrect: 0
+      - AnswerID: answer_11_C
+        IsCorrect: 0
+      - AnswerID: answer_11_D
+        IsCorrect: 0
+    - Icon: {fileID: 2886511891058375133, guid: d55ea55eac0e97749b68e022465c5bde, type: 3}
+      QuestionTextID: question_12
+      QuoteID: hint_12_1
+      HistoricalBackgroundID: hint_12_2
+      Answers:
+      - AnswerID: answer_12_A
+        IsCorrect: 0
+      - AnswerID: answer_12_B
+        IsCorrect: 0
+      - AnswerID: answer_12_C
+        IsCorrect: 0
+      - AnswerID: answer_12_D
+        IsCorrect: 0
+    - Icon: {fileID: -5309137651548512536, guid: b0d682974d646f647835edca15e1192f, type: 3}
+      QuestionTextID: question_13
+      QuoteID: hint_13_1
+      HistoricalBackgroundID: hint_13_2
+      Answers:
+      - AnswerID: answer_13_A
+        IsCorrect: 0
+      - AnswerID: answer_13_B
+        IsCorrect: 0
+      - AnswerID: answer_13_C
+        IsCorrect: 0
+      - AnswerID: answer_13_D
+        IsCorrect: 0
+    - Icon: {fileID: -8446801555065560512, guid: 8d5effb635df51e4fa45cfc52a7051f4, type: 3}
+      QuestionTextID: question_14
+      QuoteID: hint_14_1
+      HistoricalBackgroundID: hint_14_2
+      Answers:
+      - AnswerID: answer_14_A
+        IsCorrect: 0
+      - AnswerID: answer_14_B
+        IsCorrect: 0
+      - AnswerID: answer_14_C
+        IsCorrect: 0
+      - AnswerID: answer_14_D
+        IsCorrect: 0
+    - Icon: {fileID: -4340555563429219445, guid: bae45d8234dd11d4798370281a873e4e, type: 3}
+      QuestionTextID: question_15
+      QuoteID: hint_15_1
+      HistoricalBackgroundID: hint_15_2
+      Answers:
+      - AnswerID: answer_15_A
+        IsCorrect: 0
+      - AnswerID: answer_15_B
+        IsCorrect: 0
+      - AnswerID: answer_15_C
+        IsCorrect: 0
+      - AnswerID: answer_15_D
+        IsCorrect: 0
+    - Icon: {fileID: -3163746401553648307, guid: 6a3c910994d82974198be75b746f3138, type: 3}
+      QuestionTextID: question_16
+      QuoteID: hint_16_1
+      HistoricalBackgroundID: hint_16_2
+      Answers:
+      - AnswerID: answer_16_A
+        IsCorrect: 0
+      - AnswerID: answer_16_B
+        IsCorrect: 0
+      - AnswerID: answer_16_C
+        IsCorrect: 0
+      - AnswerID: answer_16_D
+        IsCorrect: 0
+    - Icon: {fileID: 974592184774228177, guid: 7348963cb8bddbf47924ade57eb0e341, type: 3}
+      QuestionTextID: question_17
+      QuoteID: hint_17_1
+      HistoricalBackgroundID: hint_17_2
+      Answers:
+      - AnswerID: answer_17_A
+        IsCorrect: 0
+      - AnswerID: answer_17_B
+        IsCorrect: 0
+      - AnswerID: answer_17_C
+        IsCorrect: 0
+      - AnswerID: answer_17_D
+        IsCorrect: 0
+    - Icon: {fileID: -7931020889087377492, guid: a1211165f4c79bf4399520994165fe80, type: 3}
+      QuestionTextID: question_18
+      QuoteID: hint_18_1
+      HistoricalBackgroundID: hint_18_2
+      Answers:
+      - AnswerID: answer_18_A
+        IsCorrect: 0
+      - AnswerID: answer_18_B
+        IsCorrect: 0
+      - AnswerID: answer_18_C
+        IsCorrect: 0
+      - AnswerID: answer_18_D
+        IsCorrect: 0
+    - Icon: {fileID: -4508972055436290301, guid: 41ac07b9484507245ac388a2361e236b, type: 3}
+      QuestionTextID: question_19
+      QuoteID: hint_19_1
+      HistoricalBackgroundID: hint_19_2
+      Answers:
+      - AnswerID: answer_19_A
+        IsCorrect: 0
+      - AnswerID: answer_19_B
+        IsCorrect: 0
+      - AnswerID: answer_19_C
+        IsCorrect: 0
+      - AnswerID: answer_19_D
+        IsCorrect: 0
+    - Icon: {fileID: -8210942391624698166, guid: 2e31af372e93e9f4188c251cbc2f4658, type: 3}
+      QuestionTextID: question_20
+      QuoteID: hint_20_1
+      HistoricalBackgroundID: hint_20_2
+      Answers:
+      - AnswerID: answer_20_A
+        IsCorrect: 0
+      - AnswerID: answer_20_B
+        IsCorrect: 0
+      - AnswerID: answer_20_C
+        IsCorrect: 0
+      - AnswerID: answer_20_D
+        IsCorrect: 0
+    - Icon: {fileID: -2258093249671089742, guid: 8db38765767c82a4db6440a197506f4e, type: 3}
+      QuestionTextID: question_21
+      QuoteID: hint_21_1
+      HistoricalBackgroundID: hint_21_2
+      Answers:
+      - AnswerID: answer_21_A
+        IsCorrect: 0
+      - AnswerID: answer_21_B
+        IsCorrect: 0
+      - AnswerID: answer_21_C
+        IsCorrect: 0
+      - AnswerID: answer_21_D
+        IsCorrect: 0
+    - Icon: {fileID: -5419849664299633614, guid: 10f5beaab3b17c743b2b85928b88009e, type: 3}
+      QuestionTextID: question_22
+      QuoteID: hint_22_1
+      HistoricalBackgroundID: hint_22_2
+      Answers:
+      - AnswerID: answer_22_A
+        IsCorrect: 0
+      - AnswerID: answer_22_B
+        IsCorrect: 0
+      - AnswerID: answer_22_C
+        IsCorrect: 0
+      - AnswerID: answer_22_D
+        IsCorrect: 0
+    - Icon: {fileID: 3834589246446577110, guid: ceb38a80d1fba454fb136c8d32437734, type: 3}
+      QuestionTextID: question_23
+      QuoteID: hint_23_1
+      HistoricalBackgroundID: hint_23_2
+      Answers:
+      - AnswerID: answer_23_A
+        IsCorrect: 0
+      - AnswerID: answer_23_B
+        IsCorrect: 0
+      - AnswerID: answer_23_C
+        IsCorrect: 0
+      - AnswerID: answer_23_D
+        IsCorrect: 0
+    - Icon: {fileID: -4868777757341443155, guid: ea8544126f04569498e236ed30fab5e0, type: 3}
+      QuestionTextID: question_24
+      QuoteID: hint_24_1
+      HistoricalBackgroundID: hint_24_2
+      Answers:
+      - AnswerID: answer_24_A
+        IsCorrect: 0
+      - AnswerID: answer_24_B
+        IsCorrect: 0
+      - AnswerID: answer_24_C
+        IsCorrect: 0
+      - AnswerID: answer_24_D
+        IsCorrect: 0
+    - Icon: {fileID: -6776206808829413568, guid: 297f9222b110c0744aac572ea0faf82b, type: 3}
+      QuestionTextID: question_25
+      QuoteID: hint_25_1
+      HistoricalBackgroundID: hint_25_2
+      Answers:
+      - AnswerID: answer_25_A
+        IsCorrect: 0
+      - AnswerID: answer_25_B
+        IsCorrect: 0
+      - AnswerID: answer_25_C
+        IsCorrect: 0
+      - AnswerID: answer_25_D
+        IsCorrect: 0

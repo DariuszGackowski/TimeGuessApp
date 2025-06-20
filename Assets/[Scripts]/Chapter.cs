@@ -1,19 +1,20 @@
+using System;
 using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.Localization;
 
 namespace Core
 {
     [System.Serializable]
     public class Chapter
     {
-        public LocalizedString Name;
+        public string LocalizationTableName;
 
-        public LocalizedString Description;
+        public string NameID;
+
+        public string DescriptionID;
 
         public List<Question> Questions = new List<Question>();
 
-        public int ScoredPoints = 0;
+        [NonSerialized] public int ScoredPoints = 0;
 
         public void GetScoredPoints()
         {
@@ -21,6 +22,6 @@ namespace Core
             {
                 ScoredPoints += (int)question.ScoredPoints;
             }
-        }        
+        }
     }
 }

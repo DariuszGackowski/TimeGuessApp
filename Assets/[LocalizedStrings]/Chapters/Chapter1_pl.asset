@@ -1,0 +1,898 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Chapter1_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 89c6d6642ba1ce6448b0ef3110967008, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9
+    m_Localized: "Chi\u0144czycy z dynastii Shang"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: "Staro\u017Cytni Egipcjanie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Harappa i Mohenjo-Daro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Sumerowie i Akadowie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: "Rozw\xF3j rolnictwa na du\u017C\u0105 skal\u0119 w tym regionie
+      by\u0142 niemo\u017Cliwy bez z\u0142o\u017Conych system\xF3w kana\u0142\xF3w,
+      tam i wa\u0142\xF3w, kt\xF3re pozwala\u0142y na kontrolowanie wylew\xF3w rzek
+      i nawadnianie rozleg\u0142ych teren\xF3w uprawnych, tworz\u0105c nadwy\u017Cki
+      \u017Cywno\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: "Profesor Gwendolyn Leick pisa\u0142a: \"Ich \u017Cycie by\u0142o
+      nierozerwalnie zwi\u0105zane z rytmem dw\xF3ch rzek, a ich in\u017Cynieria
+      wodna by\u0142a kluczem do przetrwania i dobrobytu.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1
+    m_Localized: "Narodziny Cywilizacji (ok. 3000\u2013800 p.n.e.)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: "Jak\u0105 rol\u0119 w staro\u017Cytnym Egipcie odgrywa\u0142 \"Wielkoduszny
+      Nil\", kt\xF3rego coroczne wylewy by\u0142y tak kluczowe dla rolnictwa?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Nippur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Ur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Lagash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Uruk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: "By\u0142o to jedno z najwa\u017Cniejszych sumeryjskich miast-pa\u0144stw,
+      po\u0142o\u017Cone nad Eufratem, s\u0142yn\u0105ce z imponuj\u0105cego zigguratu
+      i grobowc\xF3w kr\xF3lewskich, kt\xF3re dostarczy\u0142y wielu informacji o
+      tamtejszej kulturze i sztuce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: "Sir Leonard Woolley, kt\xF3ry dokona\u0142 tam odkry\u0107, nazwa\u0142
+      je \"najwi\u0119kszym skarbem Mezopotamii, \u015Bwiadectwem niezr\xF3wnanego
+      bogactwa i kunsztu Sumer\xF3w z wczesnego okresu dynastycznego.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: Hetyci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Asyryjczycy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: "Babilo\u0144czycy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Sumerowie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: "Wierzyli w liczne b\xF3stwa kontroluj\u0105ce r\xF3\u017Cne aspekty
+      \u017Cycia i natury. Religia by\u0142a silnie zwi\u0105zana z pa\u0144stwem,
+      a \u015Bwi\u0105tynie pe\u0142ni\u0142y funkcje administracyjne i gospodarcze,
+      co by\u0142o typowe dla tego regionu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: "Jak stwierdzi\u0142 Thorkild Jacobsen, badacz mezopotamskiej mitologii:
+      \"Ich panteon odzwierciedla\u0142 nieprzewidywalno\u015B\u0107 natury, z pot\u0119\u017Cnymi
+      b\xF3stwami takimi jak Enlil, Enki czy bogini mi\u0142o\u015Bci i wojny, kt\xF3re
+      wymaga\u0142y sta\u0142ego oddania.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: "Z kt\xF3r\u0105 cywilizacj\u0105 Mezopotamii zwi\u0105zany jest
+      kult b\xF3stw takich jak Enlil, Enki czy bogini mi\u0142o\u015Bci i wojny?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: "Kt\xF3re cywilizacje, bazuj\u0105c na zaawansowanym zarz\u0105dzaniu
+      zasobami wodnymi, by\u0142y pionierami w zakresie in\u017Cynierii hydraulicznej
+      na du\u017C\u0105 skal\u0119?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: "By\u0142 to czas, gdy cz\u0142owiek zacz\u0105\u0142 budowa\u0107
+      pierwsze miasta, organizowa\u0107 pa\u0144stwa i tworzy\u0107 systemy pisma.
+      W dolinach rzek \u2013 Nilu, Eufratu, Indusu i Huang He \u2013 rozwija\u0142y
+      si\u0119 wielkie cywilizacje. Powstawa\u0142y z\u0142o\u017Cone religie, prawa
+      i struktury spo\u0142eczne. Rolnictwo, rzemios\u0142o i handel tworzy\u0142y
+      podwaliny \u015Bwiata, kt\xF3ry dopiero zaczyna\u0142 rozumie\u0107 siebie
+      i swoje mo\u017Cliwo\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: "Plutarch, cho\u0107 pisa\u0142 p\xF3\u017Aniej, cytowa\u0142 Egipcjan:
+      \"Nil jest \u017Cyciem, a jego wylew \u2013 b\u0142ogos\u0142awie\u0144stwem
+      bog\xF3w, od kt\xF3rego zale\u017Cy nasz los.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: "Z kt\xF3rego s\u0142ynnego miasta-pa\u0144stwa, znanego z bogactw
+      grobowych i rozwini\u0119tej administracji, pochodz\u0105 te artefakty?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: "Wylewy rzeki, nios\u0105ce \u017Cyzny mu\u0142, by\u0142y naturalnym
+      nawozem. Bez nich uprawa zb\xF3\u017C (g\u0142\xF3wnie j\u0119czmienia i pszenicy)
+      by\u0142aby niemo\u017Cliwa na tak\u0105 skal\u0119, a co za tym idzie, ca\u0142a
+      egipska cywilizacja nie mog\u0142aby rozkwitn\u0105\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: "By\u0142 g\u0142\xF3wnie szlakiem handlowym."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: "S\u0142u\u017Cy\u0142 jako bariera obronna."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: "Umo\u017Cliwia\u0142 obfite plony dzi\u0119ki osadzaniu mu\u0142u."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: "By\u0142 \u017Ar\xF3d\u0142em kamienia budowlanego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: "Kt\xF3ry z faraon\xF3w IV dynastii jest tradycyjnie \u0142\u0105czony
+      z budow\u0105 drugiej co do wielko\u015Bci piramidy w Gizie oraz Wielkiego
+      Sfinksa?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: "Maneton, staro\u017Cytny historyk, wymieni\u0142 go jako w\u0142adc\u0119,
+      kt\xF3ry \"wzni\xF3s\u0142 drug\u0105 piramid\u0119, a tak\u017Ce Sfinksa,
+      strzeg\u0105cego jego wiecznego spoczynku.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: "Jego kompleks grobowy w Gizie jest jednym z najbardziej rozpoznawalnych
+      symboli staro\u017Cytnego Egiptu, a sam w\u0142adca by\u0142 synem Cheopsa
+      (Chufu)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34
+    m_Localized: "D\u017Coser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: Cheops (Chufu)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: Chefren (Chafre)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: Mykerinos (Menkaure)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: "Jaki by\u0142 g\u0142\xF3wny cel \"Ksi\u0119gi Umar\u0142ych\"
+      i do czego s\u0142u\u017Cy\u0142a ona w wierzeniach staro\u017Cytnych Egipcjan?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: "Jak g\u0142osi\u0142 tekst z Papirusu Ani: \"O, Ozyrysie, Panie
+      Wieczno\u015Bci, pozw\xF3l mi przej\u015B\u0107 przez Twoje wrota, niech moje
+      serce nie \u015Bwiadczy przeciwko mnie.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40
+    m_Localized: "By\u0142 to zbi\xF3r zakl\u0119\u0107, modlitw i hymn\xF3w, kt\xF3re
+      mia\u0142y pom\xF3c zmar\u0142emu bezpiecznie przej\u015B\u0107 przez za\u015Bwiaty
+      i pomy\u015Blnie zda\u0107 s\u0105d przed Ozyrysem, co zapewni\u0142oby mu
+      wieczne \u017Cycie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: "Zapisywanie praw kr\xF3lewskich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42
+    m_Localized: Prowadzenie kronik wojennych
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: "Przewodnik po za\u015Bwiatach dla zmar\u0142ych"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: "Administracyjne rejestry \u015Bwi\u0105ty\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: "Co stanowi najwi\u0119ksz\u0105 zagadk\u0119 dotycz\u0105c\u0105
+      Cywilizacji Doliny Indusu, kt\xF3ra wci\u0105\u017C uniemo\u017Cliwia pe\u0142ne
+      zrozumienie ich kultury?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: "Sir Mortimer Wheeler, cho\u0107 podziwia\u0142 ich miasta, przyzna\u0142:
+      \"Ich pismo pozostaje dla nas zagadkowym hieroglifem, niemym \u015Bwiadkiem
+      utraconego j\u0119zyka.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: "Mimo odkrycia tysi\u0119cy piecz\u0119ci i artefakt\xF3w z inskrypcjami,
+      pr\xF3by rozszyfrowania tego systemu pisma dotychczas nie przynios\u0142y jednoznacznych
+      rezultat\xF3w, co utrudnia poznanie ich historii i wierze\u0144."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48
+    m_Localized: Brak monumentalnych budowli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: "Brak dowod\xF3w na handel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: Nierozszyfrowane pismo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: "Brak dowod\xF3w na istnienie w\u0142adc\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52
+    m_Localized: "Kt\xF3ra staro\u017Cytna chi\u0144ska dynastia by\u0142a znana
+      z niezwyk\u0142ych artefakt\xF3w z br\u0105zu oraz wykorzystywania ko\u015Bci
+      wr\xF3\u017Cebnych do komunikacji z przodkami?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: "Historyk Kwang-chih Chang zauwa\u017Cy\u0142: \"Podczas tej dynastii
+      sztuka br\u0105zu osi\u0105gn\u0119\u0142a bezprecedensow\u0105 bieg\u0142o\u015B\u0107,
+      a rytua\u0142y ko\u015Bci wr\xF3\u017Cebnych stanowi\u0142y o\u015B ich religii
+      i polityki.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: "By\u0142a to pierwsza dynastia, kt\xF3rej istnienie potwierdzaj\u0105
+      znaleziska archeologiczne. Jej kultura opiera\u0142a si\u0119 na kulcie przodk\xF3w
+      i boga Shangdi, a rzemie\u015Blnicy tworzyli skomplikowane rytualne naczynia
+      z br\u0105zu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Dynastia Xia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: Dynastia Zhou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Dynastia Qin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58
+    m_Localized: Dynastia Shang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: "Jakie by\u0142o g\u0142\xF3wne znaczenie religijne i spo\u0142eczne
+      budowli takich jak te, wznoszonych w Mezopotamii?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60
+    m_Localized: "Staro\u017Cytni Sumerowie w swych hymnach nazywali je \"g\xF3r\u0105
+      bog\xF3w, \u0142\u0105cz\u0105c\u0105 niebo z ziemi\u0105, gdzie ludzie mog\u0105
+      zbli\u017Cy\u0107 si\u0119 do swoich tw\xF3rc\xF3w.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: "Te monumentalne, pi\u0119trowe wie\u017Ce \u015Bwi\u0105tynne stanowi\u0142y
+      centralny punkt ka\u017Cdego miasta-pa\u0144stwa. By\u0142y miejscami kultu
+      najwa\u017Cniejszych b\xF3stw, magazynami \u017Cywno\u015Bci oraz symbolami
+      pot\u0119gi w\u0142adzy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62
+    m_Localized: "Grobowce kr\xF3l\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: Obserwatoria astronomiczne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64
+    m_Localized: "Siedziby bog\xF3w i centra kultu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: Fortyfikacje obronne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66
+    m_Localized: "Jakie innowacyjne podej\u015Bcie do prawa wprowadzi\u0142 Kodeks
+      Hammurabiego w staro\u017Cytnym Babilonie?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: "Hammurabi w przedmowie do Kodeksu o\u015Bwiadczy\u0142: \"Aby silny
+      nie krzywdzi\u0142 s\u0142abego, aby sprawiedliwo\u015B\u0107 ja\u015Bnia\u0142a
+      w kraju, i aby ka\u017Cdy pozna\u0142 swoje prawa i obowi\u0105zki.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68
+    m_Localized: "By\u0142 to jeden z najstarszych pisanych kodeks\xF3w prawnych,
+      obejmuj\u0105cy niemal wszystkie aspekty \u017Cycia spo\u0142ecznego, od prawa
+      rodzinnego po handlowe, oraz ustalaj\u0105cy zasad\u0119 \"oko za oko, z\u0105b
+      za z\u0105b\" (lex talionis), cho\u0107 z r\xF3\u017Cnicami klasowymi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69
+    m_Localized: Demokracja prawna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70
+    m_Localized: Prawo oparte na tradycji ustnej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71
+    m_Localized: "Zunifikowane i spisane prawo, publicznie dost\u0119pne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: "Prawo regulowane wy\u0142\u0105cznie przez kap\u0142an\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: "Kt\xF3ry z faraon\xF3w Nowego Pa\u0144stwa Egiptu zosta\u0142 nazwany
+      \"Napoleonem Egiptu\" ze wzgl\u0119du na liczne i zwyci\u0119skie kampanie
+      militarne, kt\xF3re rozszerzy\u0142y imperium egipskie?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: "Sam zapisa\u0142 na steli: \"Moje zwyci\u0119stwa nie maj\u0105
+      sobie r\xF3wnych, a ziemie podbite s\u0105 tak liczne jak piasek na pustyni.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75
+    m_Localized: "Panowa\u0142 w XVIII dynastii i przeprowadzi\u0142 co najmniej
+      siedemna\u015Bcie kampanii wojskowych, g\u0142\xF3wnie w Azji, zdobywaj\u0105c
+      ogromne bogactwa i ugruntowuj\u0105c pozycj\u0119 Egiptu jako pot\u0119gi regionalnej."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76
+    m_Localized: Ramzes II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77
+    m_Localized: Echnaton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78
+    m_Localized: Totmes III
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79
+    m_Localized: Seti I
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80
+    m_Localized: "W kt\xF3rej s\u0142ynnej bitwie staro\u017Cytnego Egiptu, stoczonej
+      z Hetytami, dosz\u0142o prawdopodobnie do najwi\u0119kszego starcia rydwan\xF3w
+      w historii?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81
+    m_Localized: "Ramzes II, zwyci\u0119ski kr\xF3l Egiptu, opisa\u0142 j\u0105:
+      \"By\u0142em sam z moimi rydwanami przeciw tysi\u0105com wrog\xF3w, lecz Amon
+      by\u0142 ze mn\u0105.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82
+    m_Localized: "Rozegra\u0142a si\u0119 oko\u0142o 1274 r. p.n.e. na terenie dzisiejszej
+      Syrii i cho\u0107 obie strony ro\u015Bci\u0142y sobie prawo do zwyci\u0119stwa,
+      w rzeczywisto\u015Bci by\u0142 to remis, co doprowadzi\u0142o do pierwszego
+      znanego w historii traktatu pokojowego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83
+    m_Localized: Bitwa pod Megiddo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84
+    m_Localized: Bitwa pod Kadesz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85
+    m_Localized: Bitwa pod Pi-Ramzesem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86
+    m_Localized: Bitwa pod Tanis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87
+    m_Localized: "Jaka by\u0142a najbardziej unikalna i zaawansowana cecha urbanistyczna
+      miast Cywilizacji Doliny Indusu, takich jak Mohenjo-Daro?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88
+    m_Localized: "Profesor Gregory Possehl, archeolog, podkre\u015Bla\u0142: \"Ich
+      dba\u0142o\u015B\u0107 o czysto\u015B\u0107 i in\u017Cynieria wodna, z sieci\u0105
+      studni i kana\u0142\xF3w \u015Bciekowych, wyprzedza\u0142y swoj\u0105 epok\u0119
+      o tysi\u0105clecia.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89
+    m_Localized: "Miasta te, budowane z wypalanej ceg\u0142y, mia\u0142y plan siatki,
+      co by\u0142o rzadko\u015Bci\u0105 w tamtych czasach. Ich mieszka\u0144cy korzystali
+      z publicznych \u0142a\u017Ani, a domy cz\u0119sto posiada\u0142y w\u0142asne
+      \u0142azienki i latryny po\u0142\u0105czone z sieci\u0105 miejsk\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90
+    m_Localized: "Monumentalne \u015Bwi\u0105tynie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91
+    m_Localized: Kamienne piramidy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92
+    m_Localized: "Rozbudowany system kanalizacyjny i wodoci\u0105gowy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93
+    m_Localized: Metalowe fortyfikacje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94
+    m_Localized: "Jakie by\u0142o znaczenie technologii br\u0105zu dla pot\u0119gi
+      i kultury dynastii Shang w Chinach?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95
+    m_Localized: "Chi\u0144ski filozof Mencjusz (\u017Cyj\u0105cy p\xF3\u017Aniej,
+      ale odwo\u0142uj\u0105cy si\u0119 do tradycji) m\xF3wi\u0142 o \"br\u0105zowych
+      naczyniach rytualnych, kt\xF3re by\u0142y znakiem nieba i w\u0142adzy w\u0142adcy.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96
+    m_Localized: "Rzemie\u015Blnicy tej dynastii osi\u0105gn\u0119li mistrzostwo
+      w odlewaniu skomplikowanych rytualnych naczy\u0144, broni i narz\u0119dzi z
+      br\u0105zu. Posiadanie i kontrola tej technologii by\u0142y symbolem w\u0142adzy,
+      bogactwa i sakralnego statusu panuj\u0105cej dynastii."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97
+    m_Localized: "By\u0142a wykorzystywana g\u0142\xF3wnie do produkcji narz\u0119dzi
+      rolniczych."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98
+    m_Localized: "S\u0142u\u017Cy\u0142a do budowy fortyfikacji obronnych."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99
+    m_Localized: "Stanowi\u0142a podstaw\u0119 produkcji naczy\u0144 rytualnych,
+      broni i symboli w\u0142adzy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100
+    m_Localized: "By\u0142a g\u0142\xF3wnym towarem eksportowym do Europy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101
+    m_Localized: "Kt\xF3ry z faraon\xF3w pr\xF3bowa\u0142, na kr\xF3tki czas, wprowadzi\u0107
+      rewolucj\u0119 religijn\u0105 w staro\u017Cytnym Egipcie, promuj\u0105c monolatryczny
+      kult jednego boga?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102
+    m_Localized: "Sam og\u0142osi\u0142: \"Jest tylko jeden b\xF3g, Aton, a ja jestem
+      jego jedynym prorokiem na ziemi.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103
+    m_Localized: "By\u0142 to w\u0142adca z XVIII dynastii, kt\xF3ry zmieni\u0142
+      swoje imi\u0119 z Amenhotepa IV, przeni\xF3s\u0142 stolic\u0119 do Amarny i
+      skoncentrowa\u0142 kult na b\xF3stwie s\u0142onecznym Atonie, eliminuj\u0105c
+      wp\u0142ywy kap\u0142an\xF3w Amona."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104
+    m_Localized: Tutanchamon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105
+    m_Localized: Ramzes II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106
+    m_Localized: Hatszepsut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107
+    m_Localized: Echnaton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108
+    m_Localized: "Kt\xF3ra staro\u017Cytna epopeja, wywodz\u0105ca si\u0119 z Mezopotamii,
+      opowiada o kr\xF3lu-herosie poszukuj\u0105cym nie\u015Bmiertelno\u015Bci i
+      zawiera opis wielkiego potopu?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109
+    m_Localized: "Staro\u017Cytni skrybowie pisali: \"Jego podr\xF3\u017C by\u0142a
+      d\u0142uga i bolesna, szuka\u0142 \u017Cycia wiecznego, a opowie\u015B\u0107
+      o wielkim potopie wyp\u0142yn\u0119\u0142a z ust Utnapisztima.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110
+    m_Localized: "Jest to jedno z najstarszych dzie\u0142 literackich \u015Bwiata,
+      opowiadaj\u0105ce o losach mitycznego kr\xF3la Uruk i jego przyjaciela Enkidu.
+      Zawiera wiele uniwersalnych motyw\xF3w, w tym opowie\u015B\u0107 o katastrofalnej
+      powodzi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111
+    m_Localized: Odyseja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112
+    m_Localized: "Ksi\u0119ga Umar\u0142ych"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113
+    m_Localized: Epos o Gilgameszu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114
+    m_Localized: Mahabharata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115
+    m_Localized: "Kto w staro\u017Cytnym Egipcie pe\u0142ni\u0142 rol\u0119 pisarza,
+      prawnika, ksi\u0119gowego i cz\u0119sto urz\u0119dnika, b\u0119d\u0105c kluczowym
+      dla funkcjonowania pa\u0144stwa?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116
+    m_Localized: "M\u0105dry Amenemope radzi\u0142 swemu synowi: \"B\u0105d\u017A
+      skryb\u0105, a b\u0119dziesz panem swego losu, zasi\u0105dziesz z szacunkiem,
+      a twoje s\u0142owa b\u0119d\u0105 mia\u0142y moc.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117
+    m_Localized: "By\u0142a to grupa wykszta\u0142conych ludzi, kt\xF3rzy posiadali
+      umiej\u0119tno\u015B\u0107 czytania i pisania hieroglif\xF3w, co by\u0142o
+      rzadko\u015Bci\u0105. Ich praca stanowi\u0142a podstaw\u0119 administracji,
+      religii i gospodarki, zapewniaj\u0105c im wysoki status spo\u0142eczny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118
+    m_Localized: Wojownicy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119
+    m_Localized: Rolnicy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120
+    m_Localized: Skrybowie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121
+    m_Localized: Architekci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122
+    m_Localized: "Jaka by\u0142a g\u0142\xF3wna si\u0142a robocza wykorzystywana
+      do budowy monumentalnych budowli w staro\u017Cytnym Egipcie?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123
+    m_Localized: "Herodot, opisuj\u0105c budow\u0119 piramid, pisa\u0142: \"Nie niewolnicy,
+      lecz wolni Egipcjanie, kt\xF3rzy pracowali za zbo\u017Ce, gdy Nil wylewa\u0142
+      i nie mogli uprawia\u0107 ziemi.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124
+    m_Localized: "Wi\u0119kszo\u015B\u0107 si\u0142y roboczej pochodzi\u0142a z ch\u0142op\xF3w,
+      kt\xF3rzy byli zatrudniani do prac publicznych w okresach wylew\xF3w Nilu,
+      gdy ich pola by\u0142y zalane. Otrzymywali wynagrodzenie w postaci \u017Cywno\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125
+    m_Localized: Niewolnicy z podbitych ziem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126
+    m_Localized: "Ch\u0142opi pracuj\u0105cy w ramach obowi\u0105zk\xF3w pa\u0144stwowych"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127
+    m_Localized: "\u017Bo\u0142nierze"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128
+    m_Localized: Najemnicy zagraniczni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129
+    m_Localized: "Kt\xF3re b\xF3stwo sta\u0142o si\u0119 najwa\u017Cniejszym bogiem
+      pa\u0144stwowym Nowego Pa\u0144stwa Egiptu, zw\u0142aszcza po zjednoczeniu
+      G\xF3rnego i Dolnego Egiptu?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130
+    m_Localized: "Inskrypcje z Karnaku g\u0142osi\u0142y: \"Amon-Re, kr\xF3l bog\xF3w,
+      pan tron\xF3w \u015Bwiata, od kt\xF3rego pochodzi wszelkie \u017Cycie i w\u0142adza
+      faraona.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131
+    m_Localized: "Pocz\u0105tkowo lokalne b\xF3stwo z Teb, po wyparciu Hyksos\xF3w
+      i zjednoczeniu Egiptu przez w\u0142adc\xF3w teba\u0144skich, jego kult po\u0142\u0105czy\u0142
+      si\u0119 z kultem Re, staj\u0105c si\u0119 centralnym elementem religii pa\u0144stwowej."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132
+    m_Localized: Ozyrys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133
+    m_Localized: Horus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134
+    m_Localized: Amon-Re
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135
+    m_Localized: Ptah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136
+    m_Localized: "Z kt\xF3rego okresu neolitu w Chinach pochodz\u0105 najwcze\u015Bniejsze
+      dowody uprawy prosa i ry\u017Cu oraz rozwoju zaawansowanej ceramiki malowanej?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137
+    m_Localized: "Archeolog Li Ji pisa\u0142 o \"naczyniach, kt\xF3re opowiadaj\u0105
+      histori\u0119 staro\u017Cytnych osad, ich rolnictwa i rodz\u0105cej si\u0119
+      sztuki.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138
+    m_Localized: "By\u0142y to kultury neolityczne rozwijaj\u0105ce si\u0119 w dorzeczach
+      rzek \u017B\xF3\u0142tej i Jangcy, kt\xF3re po\u0142o\u017Cy\u0142y podwaliny
+      pod cywilizacj\u0119 chi\u0144sk\u0105, wprowadzaj\u0105c rolnictwo na du\u017C\u0105
+      skal\u0119 i charakterystyczne formy artystyczne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139
+    m_Localized: "Epoka kamienia \u0142upanego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140
+    m_Localized: Kultury Yangshao i Longshan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141
+    m_Localized: Okres dynastii Xia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142
+    m_Localized: "Okres Walcz\u0105cych Kr\xF3lestw"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143
+    m_Localized: "Kt\xF3ry w\u0142adca, przedstawiony na obrazie, stworzy\u0142 pierwsze
+      imperium w historii, jednocz\u0105c mezopotamskie miasta-pa\u0144stwa pod jednym
+      panowaniem?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144
+    m_Localized: "Akadyjskie inskrypcje g\u0142osi\u0142y: \"Sargon, kr\xF3l Akadu,
+      kr\xF3l Kisz, zdobywca, kt\xF3ry podbi\u0142 ca\u0142y Sumer i rozszerzy\u0142
+      swoje panowanie a\u017C do Morza G\xF3rnego i Dolnego.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145
+    m_Localized: "Jego panowanie zapocz\u0105tkowa\u0142o okres dominacji Akadu nad
+      Sumerem oko\u0142o 2334 r. p.n.e. Stworzy\u0142 scentralizowane pa\u0144stwo
+      ze zjednoczon\u0105 administracj\u0105, kt\xF3re sta\u0142o si\u0119 wzorem
+      dla p\xF3\u017Aniejszych imperi\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146
+    m_Localized: Hammurabi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147
+    m_Localized: Ur-Nammu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148
+    m_Localized: Sargon Wielki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149
+    m_Localized: Gudea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150
+    m_Localized: "Do czego s\u0142u\u017Cy\u0142y te charakterystyczne dla Mezopotamii
+      przedmioty, cz\u0119sto zdobione scenami mitologicznymi lub religijnymi?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151
+    m_Localized: "Archeolog Henri Frankfort opisa\u0142 je jako \"miniaturowe \u015Bwiaty,
+      noszone przy sobie i u\u017Cywane do piecz\u0119towania dokument\xF3w, symbolizuj\u0105ce
+      status i autorytet.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152
+    m_Localized: "By\u0142y to ma\u0142e cylindryczne przedmioty wykonane z kamienia,
+      z wygrawerowanymi wzorami. Toczone po glinie, pozostawia\u0142y powtarzalny
+      odcisk, s\u0142u\u017C\u0105c jako osobisty podpis, piecz\u0119\u0107 do zabezpieczania
+      w\u0142asno\u015Bci, a tak\u017Ce jako amulet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153
+    m_Localized: Monety
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154
+    m_Localized: "Elementy bi\u017Cuterii"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155
+    m_Localized: "Piecz\u0119cie do oznaczania dokument\xF3w i w\u0142asno\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156
+    m_Localized: "Narz\u0119dzia do pisania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157
+    m_Localized: "Kt\xF3re egipskie b\xF3stwo symbolizowa\u0142o zmartwychwstanie,
+      \u017Cycie pozagrobowe i p\u0142odno\u015B\u0107, pe\u0142ni\u0105c rol\u0119
+      s\u0119dziego zmar\u0142ych?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158
+    m_Localized: "W hymnach do Ozyrysa g\u0142oszono: \"Oto kr\xF3l umar\u0142ych,
+      ten, kt\xF3ry powsta\u0142 z grobu, obdarzaj\u0105cy \u017Cyciem wiecznym tych,
+      kt\xF3rzy za nim pod\u0105\u017Caj\u0105.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159
+    m_Localized: "Jego mit o \u015Bmierci i odrodzeniu by\u0142 centralny dla egipskich
+      wierze\u0144 dotycz\u0105cych \u017Cycia pozagrobowego. By\u0142 r\xF3wnie\u017C
+      zwi\u0105zany z wylewami Nilu i odradzaj\u0105c\u0105 si\u0119 natur\u0105,
+      a jego kult by\u0142 rozpowszechniony we wszystkich warstwach spo\u0142ecznych."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160
+    m_Localized: Re
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161
+    m_Localized: Set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162
+    m_Localized: Anubis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163
+    m_Localized: Ozyrys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164
+    m_Localized: "Jaki by\u0142 g\u0142\xF3wny pow\xF3d budowania monumentalnych
+      mur\xF3w obronnych wok\xF3\u0142 miast i osad w staro\u017Cytnych Chinach?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 165
+    m_Localized: "Jak podkre\u015Blali staro\u017Cytni chi\u0144scy stratedzy: \"Mury
+      to si\u0142a pa\u0144stwa, ochrona przed barbarzy\u0144cami i znak cywilizacji
+      w obliczu chaosu.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166
+    m_Localized: "W czasach wczesnych dynastii i p\xF3\u017Aniej, zagro\u017Cenie
+      ze strony koczowniczych lud\xF3w z p\xF3\u0142nocy oraz wewn\u0119trzne konflikty
+      mi\u0119dzy pa\u0144stwami sprzyja\u0142y rozwojowi pot\u0119\u017Cnych system\xF3w
+      obronnych z ubitej ziemi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 167
+    m_Localized: "Chroni\u0142 przed wylewami rzek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 168
+    m_Localized: "S\u0142u\u017Cy\u0142y jako symbol statusu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 169
+    m_Localized: "Obrona przed najazdami i wewn\u0119trznymi wrogami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170
+    m_Localized: "By\u0142y miejscem dla \u015Bwi\u0105ty\u0144."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 171
+    m_Localized: "Jakie by\u0142o g\u0142\xF3wne znaczenie ekonomiczne szlak\xF3w
+      handlowych, takich jak te z Mezopotamii do Doliny Indusu, w epoce br\u0105zu?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 172
+    m_Localized: "Staro\u017Cytni kupcy m\xF3wili: \"Droga jest d\u0142uga, ale towary
+      cenne, a bogactwo p\u0142ynie z wymiany tego, czego nam brakuje, na to, co
+      maj\u0105 inni.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173
+    m_Localized: "Umo\u017Cliwia\u0142y wymian\u0119 surowc\xF3w (np. metali, kamieni
+      szlachetnych, drewna), kt\xF3re by\u0142y rzadkie w danym regionie, na gotowe
+      produkty, \u017Cywno\u015B\u0107 lub inne dobra. By\u0142y motorem rozwoju
+      gospodarczego i kulturowego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 174
+    m_Localized: "U\u0142atwia\u0142y migracje ludno\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175
+    m_Localized: "Zapewnia\u0142y dost\u0119p do rzadkich surowc\xF3w i d\xF3br luksusowych."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176
+    m_Localized: "By\u0142y wykorzystywane do przemieszczania wojsk."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177
+    m_Localized: "By\u0142y szlakami pielgrzymek religijnych."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

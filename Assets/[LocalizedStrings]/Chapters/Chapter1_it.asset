@@ -1,0 +1,869 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Chapter1_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 89c6d6642ba1ce6448b0ef3110967008, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9
+    m_Localized: Cinesi della dinastia Shang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Antichi Egizi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Harappa e Mohenjo-Daro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Sumeri e Accadi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Lo sviluppo agricolo su larga scala in questa regione era impossibile
+      senza complessi sistemi di canali, dighe e argini, che permettevano di controllare
+      le inondazioni dei fiumi e di irrigare vaste aree coltivate, creando eccedenze
+      alimentari.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: "La professoressa Gwendolyn Leick scrisse: \"La loro vita era inestricabilmente
+      legata al ritmo di due fiumi, e la loro ingegneria idraulica era la chiave
+      per la sopravvivenza e la prosperit\xE0.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1
+    m_Localized: "Nascita della Civilt\xE0 (ca. 3000\u2013800 a.C.)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: "Quale ruolo ebbe il \"Nilo Generoso\" nell'antico Egitto, le cui
+      inondazioni annuali erano cos\xEC cruciali per l'agricoltura?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Nippur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Ur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Lagas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Uruk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: "Era una delle pi\xF9 importanti citt\xE0-stato sumeriche, situata
+      sull'Eufrate, famosa per il suo imponente ziqqurat e le tombe reali, che fornirono
+      molte informazioni sulla cultura e l'arte locali."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: "Sir Leonard Woolley, che vi fece scoperte, la defin\xEC \"il pi\xF9
+      grande tesoro della Mesopotamia, una testimonianza dell'incredibile ricchezza
+      e maestria artistica dei Sumeri nel periodo protodinastico.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: Ittiti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Assiri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: Babilonesi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Sumeri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: "Credevano in numerose divinit\xE0 che controllavano vari aspetti
+      della vita e della natura. La religione era fortemente legata allo stato e
+      i templi fungevano da centri amministrativi ed economici, il che era tipico
+      di questa regione."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: "Come affermato da Thorkild Jacobsen, studioso di mitologia mesopotamica:
+      \"Il loro pantheon rifletteva l'imprevedibilit\xE0 della natura, con divinit\xE0
+      potenti come Enlil, Enki o la dea dell'amore e della guerra, che richiedevano
+      una costante adorazione.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: "A quale delle civilt\xE0 mesopotamiche \xE8 associato il culto
+      di divinit\xE0 come Enlil, Enki o la dea dell'amore e della guerra?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: "Quali civilt\xE0, basandosi su una gestione avanzata delle risorse
+      idriche, furono pioniere nell'ingegneria idraulica su larga scala?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: "Questo fu un periodo in cui gli esseri umani iniziarono a costruire
+      le prime citt\xE0, a organizzare stati e a creare sistemi di scrittura. Nelle
+      valli fluviali \u2013 il Nilo, l'Eufrate, l'Indo e il Fiume Giallo (Huang He)
+      \u2013 si svilupparono grandi civilt\xE0. Emersero religioni complesse, leggi
+      e strutture sociali. Agricoltura, artigianato e commercio formarono le fondamenta
+      di un mondo che stava appena iniziando a comprendere se stesso e le sue possibilit\xE0."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: "Plutarco, pur scrivendo pi\xF9 tardi, cit\xF2 gli Egizi: \"Il Nilo
+      \xE8 vita, e la sua inondazione - una benedizione degli dei, da cui dipende
+      il nostro destino.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: "Da quale famosa citt\xE0-stato, conosciuta per le sue ricchezze
+      tombali e l'ampia amministrazione, provengono questi manufatti?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: "Le inondazioni del fiume, trasportando limo fertile, erano un fertilizzante
+      naturale. Senza di esse, la coltivazione dei cereali (principalmente orzo e
+      grano) sarebbe stata impossibile su tale scala e, di conseguenza, l'intera
+      civilt\xE0 egizia non avrebbe potuto fiorire."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: Era principalmente una via commerciale.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: Serviva da barriera difensiva.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: Permetteva abbondanti raccolti grazie al limo depositato.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Era una fonte di pietra da costruzione.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: "Quale dei faraoni della IV dinastia \xE8 tradizionalmente collegato
+      alla costruzione della seconda piramide pi\xF9 grande di Giza e della Grande
+      Sfinge?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: "Manetone, uno storico antico, lo menzion\xF2 come un sovrano che
+      \"erigesse la seconda piramide, e anche la Sfinge, a guardia del suo eterno
+      riposo.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: "Il suo complesso funerario a Giza \xE8 uno dei simboli pi\xF9 riconoscibili
+      dell'antico Egitto, e il sovrano stesso era figlio di Cheope (Khufu)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34
+    m_Localized: Djoser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: Cheope (Khufu)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: Chefren (Khafre)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: Micerino (Menkaure)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: Qual era lo scopo principale del "Libro dei Morti" e quale era il
+      suo utilizzo nelle credenze degli antichi Egizi?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: "Come proclamava il testo del Papiro di Ani: \"Oh, Osiride, Signore
+      dell'Eternit\xE0, concedimi il passaggio attraverso le Tue porte, che il mio
+      cuore non testimoni contro di me.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40
+    m_Localized: "Era una raccolta di incantesimi, preghiere e inni che avevano lo
+      scopo di aiutare il defunto a passare in sicurezza nell'aldil\xE0 e a superare
+      con successo il giudizio davanti a Osiride, il che avrebbe assicurato la vita
+      eterna."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: Registrazione delle leggi reali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42
+    m_Localized: Tenuta delle cronache di guerra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: "Una guida per l'aldil\xE0 per i defunti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: Registri amministrativi dei templi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: "Qual \xE8 il pi\xF9 grande mistero riguardante la Civilt\xE0 della
+      Valle dell'Indo, che impedisce ancora una piena comprensione della loro cultura?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: "Sir Mortimer Wheeler, pur ammirando le loro citt\xE0, ammise: \"La
+      loro scrittura ci rimane un enigmatico geroglifico, un testimone silenzioso
+      di una lingua perduta.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: Nonostante la scoperta di migliaia di sigilli e manufatti con iscrizioni,
+      i tentativi di decifrare questo sistema di scrittura non hanno finora prodotto
+      risultati univoci, il che ostacola la comprensione della loro storia e delle
+      loro credenze.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48
+    m_Localized: Mancanza di edifici monumentali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: Mancanza di prove di commercio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: Scrittura indecifrata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: Mancanza di prove di governanti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52
+    m_Localized: Quale antica dinastia cinese era conosciuta per i suoi straordinari
+      manufatti in bronzo e l'uso di ossa oracolari per la comunicazione con gli
+      antenati?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: "Lo storico Kwang-chih Chang not\xF2: \"Durante questa dinastia,
+      l'artigianato del bronzo raggiunse una maestria senza precedenti, e i rituali
+      delle ossa oracolari formarono l'asse della loro religione e politica.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: "Fu la prima dinastia la cui esistenza \xE8 confermata da ritrovamenti
+      archeologici. La sua cultura si basava sul culto degli antenati e del dio Shangdi,
+      e gli artigiani creavano intricati vasi rituali in bronzo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Dinastia Xia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: Dinastia Zhou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Dinastia Qin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58
+    m_Localized: Dinastia Shang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: Qual era il principale significato religioso e sociale di strutture
+      come queste, erette in Mesopotamia?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60
+    m_Localized: Gli antichi Sumeri nei loro inni li chiamavano "la montagna degli
+      dei, che collega il cielo con la terra, dove le persone possono avvicinarsi
+      ai loro creatori."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: "Queste monumentali torri-tempio a gradoni costituivano il punto
+      centrale di ogni citt\xE0-stato. Erano luoghi di culto per le divinit\xE0 pi\xF9
+      importanti, depositi di cibo e simboli del potere dell'autorit\xE0."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62
+    m_Localized: Tombe dei re
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: Osservatori astronomici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64
+    m_Localized: Dimore degli dei e centri di culto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: Fortificazioni difensive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66
+    m_Localized: Quale approccio innovativo al diritto introdusse il Codice di Hammurabi
+      nell'antica Babilonia?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: "Hammurabi, nella prefazione al Codice, dichiar\xF2: \"Affinch\xE9
+      il forte non danneggi il debole, che la giustizia splenda nella terra, e che
+      ognuno conosca i propri diritti e doveri.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68
+    m_Localized: "Fu uno dei primi codici legali scritti, che copriva quasi tutti
+      gli aspetti della vita sociale, dal diritto di famiglia al diritto commerciale,
+      e stabil\xEC il principio \"occhio per occhio, dente per dente\" (lex talionis),
+      sebbene con differenze di classe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69
+    m_Localized: Democrazia legale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70
+    m_Localized: Diritto basato sulla tradizione orale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71
+    m_Localized: Diritto unificato e pubblicamente disponibile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: Diritto regolato esclusivamente dai sacerdoti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: Quale dei faraoni del Nuovo Regno d'Egitto fu chiamato il "Napoleone
+      d'Egitto" a causa delle sue numerose e vittoriose campagne militari che espansero
+      l'impero egiziano?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: 'Sam incise sulla stele: "Le mie vittorie non hanno eguali, e le
+      terre conquistate sono numerose come la sabbia nel deserto."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75
+    m_Localized: "Regn\xF2 nella XVIII dinastia e condusse almeno diciassette campagne
+      militari, principalmente in Asia, acquisendo enormi ricchezze e stabilendo
+      l'Egitto come potenza regionale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76
+    m_Localized: Ramses II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77
+    m_Localized: Akhenaton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78
+    m_Localized: Thutmose III
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79
+    m_Localized: Seti I
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80
+    m_Localized: "In quale famosa battaglia dell'antico Egitto, combattuta con gli
+      Ittiti, si verific\xF2 probabilmente il pi\xF9 grande scontro di carri della
+      storia?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81
+    m_Localized: 'Ramses II, il re vittorioso d''Egitto, la descrisse: "Ero solo
+      con i miei carri contro migliaia di nemici, ma Amon era con me."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82
+    m_Localized: "Si svolse intorno al 1274 a.C. nell'attuale Siria, e sebbene entrambe
+      le parti dichiarassero vittoria, fu in realt\xE0 un pareggio, che port\xF2
+      al primo trattato di pace conosciuto nella storia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83
+    m_Localized: Battaglia di Megiddo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84
+    m_Localized: Battaglia di Kadesh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85
+    m_Localized: Battaglia di Pi-Ramses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86
+    m_Localized: Battaglia di Tanis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87
+    m_Localized: "Qual era la caratteristica urbana pi\xF9 unica e avanzata delle
+      citt\xE0 della Civilt\xE0 della Valle dell'Indo, come Mohenjo-Daro?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88
+    m_Localized: "Il professor Gregory Possehl, archeologo, sottoline\xF2: \"La loro
+      preoccupazione per la pulizia e l'ingegneria idraulica, con una rete di pozzi
+      e sistemi fognari, erano millenni avanti rispetto ai loro tempi.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89
+    m_Localized: "Queste citt\xE0, costruite in mattoni cotti, avevano una pianta
+      a griglia, il che era raro all'epoca. I loro abitanti usavano bagni pubblici
+      e le case avevano spesso i propri bagni e latrine collegati alla rete cittadina."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90
+    m_Localized: Templi monumentali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91
+    m_Localized: Piramidi di pietra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92
+    m_Localized: Ampio sistema fognario e di approvvigionamento idrico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93
+    m_Localized: Fortificazioni metalliche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94
+    m_Localized: Quale fu il significato della tecnologia del bronzo per il potere
+      e la cultura della dinastia Shang in Cina?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95
+    m_Localized: "Il filosofo cinese Mencio (vissuto in seguito, ma riferendosi alla
+      tradizione) parl\xF2 di \"vasi rituali in bronzo, che erano un segno del cielo
+      e del potere del sovrano.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96
+    m_Localized: Gli artigiani di questa dinastia raggiunsero la maestria nella fusione
+      di intricati vasi rituali, armi e strumenti in bronzo. Il possesso e il controllo
+      di questa tecnologia erano un simbolo di potere, ricchezza e dello status sacro
+      della dinastia regnante.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97
+    m_Localized: Era utilizzata principalmente per la produzione di attrezzi agricoli.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98
+    m_Localized: Era utilizzata per la costruzione di fortificazioni difensive.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99
+    m_Localized: Era la base per la produzione di vasi rituali, armi e simboli di
+      potere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100
+    m_Localized: Era la principale merce di esportazione verso l'Europa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101
+    m_Localized: "Quale dei faraoni, per un breve periodo, cerc\xF2 di introdurre
+      una rivoluzione religiosa nell'antico Egitto, promuovendo il culto monolatrico
+      di un solo dio?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102
+    m_Localized: "Lui stesso proclam\xF2: \"C'\xE8 un solo dio, Aton, e solo io sono
+      il suo unico profeta sulla terra.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103
+    m_Localized: "Fu un sovrano della XVIII dinastia che cambi\xF2 il suo nome da
+      Amenhotep IV, spost\xF2 la capitale ad Amarna e concentr\xF2 il culto sulla
+      divinit\xE0 solare Aton, rimuovendo l'influenza dei sacerdoti di Amon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104
+    m_Localized: Tutankhamon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105
+    m_Localized: Ramses II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106
+    m_Localized: Hatshepsut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107
+    m_Localized: Akhenaton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108
+    m_Localized: "Quale antica epopea, originaria della Mesopotamia, narra di un
+      re-eroe che cerca l'immortalit\xE0 e contiene una descrizione del grande diluvio?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109
+    m_Localized: "Antichi scribi scrissero: \"Il suo viaggio fu lungo e doloroso,
+      cerc\xF2 la vita eterna, e la storia del grande diluvio sgorg\xF2 dalle labbra
+      di Utnapishtim.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110
+    m_Localized: "\xC8 una delle pi\xF9 antiche opere letterarie del mondo, che racconta
+      le vicende del mitico re di Uruk e del suo amico Enkidu. Contiene molti motivi
+      universali, inclusa la storia di una catastrofica inondazione."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111
+    m_Localized: Odissea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112
+    m_Localized: Libro dei Morti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113
+    m_Localized: Epopea di Gilgamesh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114
+    m_Localized: Mahabharata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115
+    m_Localized: Chi nell'antico Egitto ricopriva il ruolo di scriba, avvocato, contabile
+      e spesso funzionario, essendo cruciale per il funzionamento dello stato?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116
+    m_Localized: "Il saggio Amenemope consigli\xF2 al figlio: \"Sii scriba, e sarai
+      padrone del tuo destino, siederai con rispetto, e le tue parole avranno potere.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117
+    m_Localized: "Era un gruppo di persone istruite che avevano la capacit\xE0 di
+      leggere e scrivere geroglifici, cosa rara. Il loro lavoro era alla base dell'amministrazione,
+      della religione e dell'economia, assicurando loro un elevato status sociale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118
+    m_Localized: Guerrieri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119
+    m_Localized: Contadini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120
+    m_Localized: Scribi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121
+    m_Localized: Architetti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122
+    m_Localized: Qual era la principale fonte di manodopera utilizzata per la costruzione
+      di edifici monumentali nell'antico Egitto?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123
+    m_Localized: 'Erodoto, descrivendo la costruzione delle piramidi, scrisse: "Non
+      schiavi, ma Egizi liberi, che lavoravano in cambio di grano quando il Nilo
+      inondava e non potevano coltivare la terra."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124
+    m_Localized: La maggior parte della forza lavoro proveniva dai contadini che
+      erano impiegati in opere pubbliche durante i periodi di piena del Nilo, quando
+      i loro campi erano sommersi. Ricevevano un pagamento sotto forma di cibo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125
+    m_Localized: Schiavi dalle terre conquistate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126
+    m_Localized: Contadini che lavoravano come parte degli obblighi statali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127
+    m_Localized: Soldati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128
+    m_Localized: Mercenari stranieri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129
+    m_Localized: "Quale divinit\xE0 divenne il pi\xF9 importante dio di stato nel
+      Nuovo Regno d'Egitto, specialmente dopo l'unificazione dell'Alto e Basso Egitto?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130
+    m_Localized: 'Iscrizioni da Karnak proclamavano: "Amon-Ra, re degli dei, signore
+      dei troni del mondo, da cui derivano tutta la vita e il potere del faraone."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131
+    m_Localized: "Originariamente una divinit\xE0 locale di Tebe, dopo l'espulsione
+      degli Hyksos e l'unificazione dell'Egitto da parte dei governanti di Tebe,
+      il suo culto si fuse con il culto di Ra, diventando un elemento centrale della
+      religione di stato."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132
+    m_Localized: Osiride
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133
+    m_Localized: Horus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134
+    m_Localized: Amon-Ra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135
+    m_Localized: Ptah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136
+    m_Localized: Da quale periodo neolitico in Cina provengono alcune delle prime
+      prove di coltivazione del miglio e del riso e lo sviluppo di ceramiche dipinte
+      avanzate?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137
+    m_Localized: L'archeologo Li Ji scrisse di "vasi che raccontano la storia di
+      antichi insediamenti, della loro agricoltura e dell'arte emergente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138
+    m_Localized: "Si trattava di culture neolitiche sviluppatesi nei bacini del Fiume
+      Giallo e del Fiume Azzurro (Yangtze), che posero le basi per la civilt\xE0
+      cinese introducendo l'agricoltura su larga scala e forme artistiche caratteristiche."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139
+    m_Localized: "Et\xE0 della Pietra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140
+    m_Localized: Culture Yangshao e Longshan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141
+    m_Localized: Periodo della dinastia Xia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142
+    m_Localized: Periodo degli Stati Combattenti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143
+    m_Localized: "Quale sovrano, raffigurato nell'immagine, cre\xF2 il primo impero
+      della storia, unificando le citt\xE0-stato mesopotamiche sotto un unico dominio?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144
+    m_Localized: 'Iscrizioni accadiche proclamavano: "Sargon, re di Akkad, re di
+      Kish, conquistatore, che sottomise tutta Sumer e estese il suo regno fino al
+      Mare Superiore e Inferiore."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145
+    m_Localized: "Il suo regno diede inizio al periodo di dominio di Akkad su Sumer
+      intorno al 2334 a.C. Cre\xF2 uno stato centralizzato con un'amministrazione
+      unificata, che divenne un modello per gli imperi successivi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146
+    m_Localized: Hammurabi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147
+    m_Localized: Ur-Nammu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148
+    m_Localized: Sargon il Grande
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149
+    m_Localized: Gudea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150
+    m_Localized: A cosa servivano questi oggetti caratteristici della Mesopotamia,
+      spesso decorati con scene mitologiche o religiose?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151
+    m_Localized: "L'archeologo Henri Frankfort li descrisse come \"mondi in miniatura,
+      portati sulla persona e usati per sigillare documenti, simboleggiando status
+      e autorit\xE0.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152
+    m_Localized: "Erano piccoli oggetti cilindrici fatti di pietra, con disegni incisi.
+      Rotolati sull'argilla, lasciavano un'impronta ripetibile, fungendo da firma
+      personale, sigillo per assicurare la propriet\xE0 e anche come amuleto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153
+    m_Localized: Monete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154
+    m_Localized: Gioielli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155
+    m_Localized: "Sigilli per marcare documenti e propriet\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156
+    m_Localized: Strumenti di scrittura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157
+    m_Localized: "Quale divinit\xE0 egizia simboleggiava la resurrezione, l'aldil\xE0
+      e la fertilit\xE0, agendo come giudice dei morti?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158
+    m_Localized: "Negli inni a Osiride si proclamava: \"Ecco il re dei morti, colui
+      che \xE8 risorto dalla tomba, concedendo la vita eterna a coloro che lo seguono.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159
+    m_Localized: "Il suo mito di morte e rinascita era centrale per le credenze egizie
+      sull'aldil\xE0. Era anche associato alle inondazioni del Nilo e alla natura
+      che si rigenera, e il suo culto era diffuso in tutte le classi sociali."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160
+    m_Localized: Ra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161
+    m_Localized: Seth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162
+    m_Localized: Anubi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163
+    m_Localized: Osiride
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164
+    m_Localized: "Qual era la ragione principale della costruzione di monumentali
+      mura difensive intorno a citt\xE0 e insediamenti nell'antica Cina?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 165
+    m_Localized: "Come sottolineavano gli antichi strateghi cinesi: \"Le mura sono
+      la forza dello stato, protezione contro i barbari e un segno di civilt\xE0
+      di fronte al caos.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166
+    m_Localized: Durante le prime dinastie e in seguito, la minaccia dei popoli nomadi
+      del nord e i conflitti interni tra gli stati favorirono lo sviluppo di potenti
+      sistemi difensivi fatti di terra battuta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 167
+    m_Localized: Proteggevano dalle inondazioni dei fiumi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 168
+    m_Localized: Servivano come simbolo di status.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 169
+    m_Localized: Difesa contro invasioni e nemici interni.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170
+    m_Localized: Erano un luogo per i templi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 171
+    m_Localized: "Qual era il principale significato economico delle rotte commerciali,
+      come quelle dalla Mesopotamia alla Valle dell'Indo, durante l'Et\xE0 del Bronzo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 172
+    m_Localized: "Antichi mercanti dicevano: \"La strada \xE8 lunga, ma le merci
+      sono preziose, e la ricchezza deriva dallo scambio di ci\xF2 che ci manca con
+      ci\xF2 che hanno gli altri.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173
+    m_Localized: Permettevano lo scambio di materie prime (es. metalli, pietre preziose,
+      legno), che erano scarse in una data regione, con prodotti finiti, cibo o altri
+      beni. Erano il motore dello sviluppo economico e culturale.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 174
+    m_Localized: Hanno facilitato le migrazioni di popolazioni.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175
+    m_Localized: Hanno fornito accesso a materie prime rare e beni di lusso.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176
+    m_Localized: Erano utilizzate per il movimento delle truppe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177
+    m_Localized: Erano rotte per i pellegrinaggi religiosi.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

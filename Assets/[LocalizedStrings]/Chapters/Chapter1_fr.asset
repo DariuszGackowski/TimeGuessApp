@@ -1,0 +1,903 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Chapter1_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 89c6d6642ba1ce6448b0ef3110967008, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9
+    m_Localized: Chinois de la dynastie Shang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: "Anciens \xC9gyptiens"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Harappa et Mohenjo-Daro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: "Sum\xE9riens et Akkadiens"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: "Le d\xE9veloppement de l'agriculture \xE0 grande \xE9chelle dans
+      cette r\xE9gion \xE9tait impossible sans des syst\xE8mes complexes de canaux,
+      de barrages et de digues, qui permettaient de contr\xF4ler les crues des fleuves
+      et d'irriguer de vastes zones cultiv\xE9es, cr\xE9ant ainsi des surplus alimentaires."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: "La professeure Gwendolyn Leick \xE9crivit : \"Leur vie \xE9tait
+      inextricablement li\xE9e au rythme de deux fleuves, et leur ing\xE9nierie hydraulique
+      \xE9tait la cl\xE9 de leur survie et de leur prosp\xE9rit\xE9.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1
+    m_Localized: "Naissance de la Civilisation (env. 3000\u2013800 av. J.-C.)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: "Quel r\xF4le jouait le \"Nil G\xE9n\xE9reux\" dans l'\xC9gypte
+      ancienne, dont les crues annuelles \xE9taient si cruciales pour l'agriculture
+      ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Nippur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Ur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Lagash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Uruk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: "C'\xE9tait l'une des plus importantes cit\xE9s-\xE9tats sum\xE9riennes,
+      situ\xE9e sur l'Euphrate, c\xE9l\xE8bre pour son impressionnant ziggourat et
+      ses tombes royales, qui ont fourni de nombreuses informations sur la culture
+      et l'art de l'\xE9poque."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: "Sir Leonard Woolley, qui y fit des d\xE9couvertes, la qualifia
+      de \"plus grand tr\xE9sor de M\xE9sopotamie, t\xE9moin de la richesse et de
+      l'artisanat in\xE9gal\xE9s des Sum\xE9riens de la p\xE9riode dynastique ancienne.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: Hittites
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Assyriens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: Babyloniens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: "Sum\xE9riens"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: "Ils croyaient en de nombreuses divinit\xE9s qui contr\xF4laient
+      divers aspects de la vie et de la nature. La religion \xE9tait fortement li\xE9e
+      \xE0 l'\xC9tat, et les temples servaient de centres administratifs et \xE9conomiques,
+      ce qui \xE9tait typique de cette r\xE9gion."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: "Comme l'a d\xE9clar\xE9 Thorkild Jacobsen, chercheur en mythologie
+      m\xE9sopotamienne, \"Leur panth\xE9on refl\xE9tait l'impr\xE9visibilit\xE9
+      de la nature, avec des divinit\xE9s puissantes telles qu'Enlil, Enki ou la
+      d\xE9esse de l'amour et de la guerre, qui exigeaient une v\xE9n\xE9ration constante.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: "\xC0 laquelle des civilisations de M\xE9sopotamie est associ\xE9
+      le culte de divinit\xE9s telles qu'Enlil, Enki ou la d\xE9esse de l'amour et
+      de la guerre ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: "Quelles civilisations, bas\xE9es sur une gestion avanc\xE9e des
+      ressources en eau, furent les pionni\xE8res de l'ing\xE9nierie hydraulique
+      \xE0 grande \xE9chelle ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: "C'est une \xE9poque o\xF9 l'homme commen\xE7a \xE0 b\xE2tir les
+      premi\xE8res villes, \xE0 organiser des \xC9tats et \xE0 cr\xE9er des syst\xE8mes
+      d'\xE9criture. Dans les vall\xE9es fluviales \u2013 le Nil, l'Euphrate, l'Indus
+      et le Huang He \u2013 de grandes civilisations se d\xE9velopp\xE8rent. Des
+      religions complexes, des lois et des structures sociales virent le jour. L'agriculture,
+      l'artisanat et le commerce form\xE8rent les fondements d'un monde qui commen\xE7ait
+      tout juste \xE0 se comprendre et \xE0 comprendre ses possibilit\xE9s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: "Plutarque, bien qu'il \xE9crivit plus tard, cita les \xC9gyptiens
+      : \"Le Nil est la vie, et sa crue - une b\xE9n\xE9diction des dieux, dont d\xE9pend
+      notre destin.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: "De quelle c\xE9l\xE8bre cit\xE9-\xE9tat, connue pour ses richesses
+      fun\xE9raires et son administration d\xE9velopp\xE9e, proviennent ces artefacts
+      ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: "Les crues du fleuve, transportant un limon fertile, \xE9taient
+      un engrais naturel. Sans elles, la culture des c\xE9r\xE9ales (principalement
+      l'orge et le bl\xE9) aurait \xE9t\xE9 impossible \xE0 une telle \xE9chelle,
+      et par cons\xE9quent, toute la civilisation \xE9gyptienne n'aurait pu s'\xE9panouir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: "C'\xE9tait principalement une route commerciale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: "Il servait de barri\xE8re d\xE9fensive."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: "Il permettait des r\xE9coltes abondantes gr\xE2ce au limon d\xE9pos\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: "C'\xE9tait une source de pierre de construction."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: "Lequel des pharaons de la IVe dynastie est traditionnellement li\xE9
+      \xE0 la construction de la deuxi\xE8me plus grande pyramide de Gizeh et du
+      Grand Sphinx ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: "Man\xE9thon, un historien antique, le mentionna comme un souverain
+      qui \"\xE9rigea la deuxi\xE8me pyramide, ainsi que le Sphinx, gardant son repos
+      \xE9ternel.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: "Son complexe fun\xE9raire \xE0 Gizeh est l'un des symboles les
+      plus reconnaissables de l'\xC9gypte ancienne, et le souverain lui-m\xEAme \xE9tait
+      le fils de Kh\xE9ops (Khufu)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34
+    m_Localized: "Dj\xE9ser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: "Kh\xE9ops (Khufu)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: "Kh\xE9phren (Khafre)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: "Myk\xE9rinos (Menkaure)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: "Quel \xE9tait le but principal du \"Livre des Morts\" et \xE0 quoi
+      servait-il dans les croyances des anciens \xC9gyptiens ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: "Comme le proclamait le texte du Papyrus d'Ani : \"\xD4, Osiris,
+      Seigneur de l'\xC9ternit\xE9, permets-moi de passer tes portes, que mon c\u0153ur
+      ne t\xE9moigne pas contre moi.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40
+    m_Localized: "C'\xE9tait un recueil de sorts, de pri\xE8res et d'hymnes destin\xE9s
+      \xE0 aider le d\xE9funt \xE0 traverser en toute s\xE9curit\xE9 l'au-del\xE0
+      et \xE0 r\xE9ussir le jugement devant Osiris, ce qui lui assurerait la vie
+      \xE9ternelle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: L'enregistrement des lois royales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42
+    m_Localized: La tenue de chroniques de guerre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: "Un guide de l'au-del\xE0 pour les morts"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: Les registres administratifs des temples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: "Quelle est la plus grande \xE9nigme concernant la civilisation
+      de la vall\xE9e de l'Indus, qui emp\xEAche toujours une pleine compr\xE9hension
+      de leur culture ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: "Sir Mortimer Wheeler, bien qu'il admir\xE2t leurs cit\xE9s, admit
+      : \"Leur \xE9criture reste pour nous un hi\xE9roglyphe \xE9nigmatique, un t\xE9moin
+      silencieux d'une langue perdue.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: "Malgr\xE9 la d\xE9couverte de milliers de sceaux et d'artefacts
+      portant des inscriptions, les tentatives de d\xE9chiffrement de ce syst\xE8me
+      d'\xE9criture n'ont jusqu'\xE0 pr\xE9sent donn\xE9 aucun r\xE9sultat univoque,
+      ce qui entrave la connaissance de leur histoire et de leurs croyances."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48
+    m_Localized: Manque de constructions monumentales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: Manque de preuves de commerce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: "\xC9criture non d\xE9chiffr\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: Manque de preuves de l'existence de souverains
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52
+    m_Localized: "Quelle ancienne dynastie chinoise \xE9tait connue pour ses extraordinaires
+      artefacts en bronze et l'utilisation d'ossements oraculaires pour communiquer
+      avec les anc\xEAtres ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: "L'historien Kwang-chih Chang nota : \"Pendant cette dynastie, l'art
+      du bronze atteignit une ma\xEEtrise sans pr\xE9c\xE9dent, et les rituels des
+      ossements oraculaires constituaient l'axe de leur religion et de leur politique.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: "C'\xE9tait la premi\xE8re dynastie dont l'existence est confirm\xE9e
+      par les d\xE9couvertes arch\xE9ologiques. Sa culture \xE9tait bas\xE9e sur
+      le culte des anc\xEAtres et du dieu Shangdi, et les artisans cr\xE9aient des
+      r\xE9cipients rituels complexes en bronze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Dynastie Xia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: Dynastie Zhou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Dynastie Qin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58
+    m_Localized: Dynastie Shang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: "Quelle \xE9tait la principale signification religieuse et sociale
+      des constructions telles que celles-ci, \xE9rig\xE9es en M\xE9sopotamie ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60
+    m_Localized: "Les anciens Sum\xE9riens, dans leurs hymnes, les appelaient \"la
+      montagne des dieux, reliant le ciel \xE0 la terre, o\xF9 les hommes peuvent
+      se rapprocher de leurs cr\xE9ateurs.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: "Ces tours de temple monumentales et \xE9tag\xE9es constituaient
+      le point central de chaque cit\xE9-\xE9tat. Elles \xE9taient des lieux de culte
+      pour les divinit\xE9s les plus importantes, des entrep\xF4ts de nourriture
+      et des symboles de la puissance du pouvoir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62
+    m_Localized: Tombes des rois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: Observatoires astronomiques
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64
+    m_Localized: Demeures des dieux et centres de culte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: "Fortifications d\xE9fensives"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66
+    m_Localized: Quelle approche novatrice du droit le Code d'Hammurabi introduisit-il
+      dans l'ancienne Babylone ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: "Hammurabi, dans la pr\xE9face du Code, d\xE9clara : \"Afin que
+      le fort n'opprime pas le faible, que la justice brille dans le pays, et que
+      chacun connaisse ses droits et ses devoirs.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68
+    m_Localized: "C'\xE9tait l'un des premiers codes juridiques \xE9crits, couvrant
+      presque tous les aspects de la vie sociale, du droit de la famille au droit
+      commercial, et \xE9tablissant le principe du \"\u0153il pour \u0153il, dent
+      pour dent\" (lex talionis), bien qu'avec des diff\xE9rences de classe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69
+    m_Localized: "D\xE9mocratie juridique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70
+    m_Localized: "Droit bas\xE9 sur la tradition orale"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71
+    m_Localized: "Droit unifi\xE9 et \xE9crit, publiquement accessible"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: "Droit r\xE9glement\xE9 exclusivement par les pr\xEAtres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: "Lequel des pharaons du Nouvel Empire \xE9gyptien fut surnomm\xE9
+      le \"Napol\xE9on de l'\xC9gypte\" en raison de ses nombreuses et victorieuses
+      campagnes militaires qui \xE9tendirent l'empire \xE9gyptien ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: "Sam a inscrit sur la st\xE8le : \"Mes victoires sont sans \xE9gal,
+      et les terres conquises sont aussi nombreuses que le sable du d\xE9sert.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75
+    m_Localized: "Il r\xE9gna pendant la XVIIIe dynastie et mena au moins dix-sept
+      campagnes militaires, principalement en Asie, acqu\xE9rant d'\xE9normes richesses
+      et \xE9tablissant l'\xC9gypte comme une puissance r\xE9gionale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76
+    m_Localized: "Rams\xE8s II"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77
+    m_Localized: Akhenaton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78
+    m_Localized: "Thoutm\xF4sis III"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79
+    m_Localized: "S\xE9thi Ier"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80
+    m_Localized: "Dans quelle c\xE9l\xE8bre bataille de l'\xC9gypte ancienne, livr\xE9e
+      contre les Hittites, eut lieu probablement le plus grand affrontement de chars
+      de l'histoire ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81
+    m_Localized: "Rams\xE8s II, le roi victorieux d'\xC9gypte, la d\xE9crivit : \"J'\xE9tais
+      seul avec mes chars contre des milliers d'ennemis, mais Amon \xE9tait avec
+      moi.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82
+    m_Localized: "Elle se d\xE9roula vers 1274 av. J.-C. sur le territoire de l'actuelle
+      Syrie et, bien que les deux parties aient revendiqu\xE9 la victoire, il s'agissait
+      en r\xE9alit\xE9 d'un match nul, conduisant au premier trait\xE9 de paix connu
+      de l'histoire."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83
+    m_Localized: Bataille de Megiddo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84
+    m_Localized: Bataille de Qadesh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85
+    m_Localized: "Bataille de Pi-Rams\xE8s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86
+    m_Localized: Bataille de Tanis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87
+    m_Localized: "Quelle fut la caract\xE9ristique urbanistique la plus unique et
+      la plus avanc\xE9e des villes de la civilisation de la vall\xE9e de l'Indus,
+      telles que Mohenjo-Daro ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88
+    m_Localized: "Le professeur Gregory Possehl, arch\xE9ologue, souligna : \"Leur
+      souci de la propret\xE9 et leur ing\xE9nierie hydraulique, avec un r\xE9seau
+      de puits et d'\xE9gouts, avaient des mill\xE9naires d'avance sur leur \xE9poque.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89
+    m_Localized: "Ces villes, construites en briques cuites, avaient un plan en damier,
+      ce qui \xE9tait rare \xE0 l'\xE9poque. Leurs habitants utilisaient des bains
+      publics, et les maisons poss\xE9daient souvent leurs propres salles de bain
+      et latrines reli\xE9es au r\xE9seau urbain."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90
+    m_Localized: Temples monumentaux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91
+    m_Localized: Pyramides en pierre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92
+    m_Localized: "Syst\xE8me d'\xE9gouts et d'approvisionnement en eau \xE9tendu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93
+    m_Localized: "Fortifications m\xE9talliques"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94
+    m_Localized: Quelle fut l'importance de la technologie du bronze pour le pouvoir
+      et la culture de la dynastie Shang en Chine ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95
+    m_Localized: "Le philosophe chinois Mencius (vivant plus tard, mais se r\xE9f\xE9rant
+      \xE0 la tradition) parla de \"vases rituels en bronze, qui \xE9taient un signe
+      du ciel et du pouvoir du souverain.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96
+    m_Localized: "Les artisans de cette dynastie atteignirent la ma\xEEtrise dans
+      la fonte de vases rituels, d'armes et d'outils complexes en bronze. La possession
+      et le contr\xF4le de cette technologie \xE9taient un symbole de pouvoir, de
+      richesse et du statut sacr\xE9 de la dynastie r\xE9gnante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97
+    m_Localized: "Elle \xE9tait principalement utilis\xE9e pour la production d'outils
+      agricoles."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98
+    m_Localized: "Elle servait \xE0 la construction de fortifications d\xE9fensives."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99
+    m_Localized: "Elle \xE9tait la base de la production de vases rituels, d'armes
+      et de symboles de pouvoir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100
+    m_Localized: Elle constituait la principale marchandise d'exportation vers l'Europe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101
+    m_Localized: "Lequel des pharaons tenta, bri\xE8vement, d'introduire une r\xE9volution
+      religieuse en \xC9gypte ancienne, en promouvant le culte monolatrique d'un
+      seul dieu ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102
+    m_Localized: "Lui-m\xEAme proclama : \"Il n'y a qu'un seul dieu, Aton, et je
+      suis son seul proph\xE8te sur terre.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103
+    m_Localized: "C'\xE9tait un souverain de la XVIIIe dynastie, qui changea son
+      nom d'Amenhotep IV, d\xE9pla\xE7a la capitale \xE0 Amarna et concentra le culte
+      sur la divinit\xE9 solaire Aton, \xE9liminant l'influence des pr\xEAtres d'Amon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104
+    m_Localized: Toutankhamon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105
+    m_Localized: "Rams\xE8s II"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106
+    m_Localized: Hatchepsout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107
+    m_Localized: Akhenaton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108
+    m_Localized: "Quelle ancienne \xE9pop\xE9e, originaire de M\xE9sopotamie, raconte
+      l'histoire d'un roi-h\xE9ros en qu\xEAte d'immortalit\xE9 et contient une description
+      du d\xE9luge ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109
+    m_Localized: "Les anciens scribes \xE9crivirent : \"Son voyage fut long et douloureux,
+      il chercha la vie \xE9ternelle, et le r\xE9cit du grand d\xE9luge coula des
+      l\xE8vres d'Utnapishtim.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110
+    m_Localized: "C'est l'une des plus anciennes \u0153uvres litt\xE9raires du monde,
+      qui raconte les destins du roi mythique d'Uruk et de son ami Enkidu. Elle contient
+      de nombreux motifs universels, dont le r\xE9cit d'une inondation catastrophique."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111
+    m_Localized: "L'Odyss\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112
+    m_Localized: Le Livre des Morts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113
+    m_Localized: "L'\xC9pop\xE9e de Gilgamesh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114
+    m_Localized: Le Mahabharata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115
+    m_Localized: "Qui, dans l'\xC9gypte ancienne, exer\xE7ait le r\xF4le de scribe,
+      juriste, comptable et souvent fonctionnaire, \xE9tant essentiel au fonctionnement
+      de l'\xC9tat ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116
+    m_Localized: "Le sage Amenemop\xE9 conseilla \xE0 son fils : \"Sois scribe, et
+      tu seras ma\xEEtre de ton destin, tu si\xE9geras avec respect, et tes paroles
+      auront du pouvoir.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117
+    m_Localized: "C'\xE9tait un groupe de personnes \xE9duqu\xE9es qui poss\xE9daient
+      la capacit\xE9 de lire et d'\xE9crire les hi\xE9roglyphes, ce qui \xE9tait
+      rare. Leur travail \xE9tait la base de l'administration, de la religion et
+      de l'\xE9conomie, leur assurant un statut social \xE9lev\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118
+    m_Localized: Guerriers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119
+    m_Localized: Agriculteurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120
+    m_Localized: Scribes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121
+    m_Localized: Architectes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122
+    m_Localized: "Quelle \xE9tait la principale source de main-d'\u0153uvre utilis\xE9e
+      pour la construction de b\xE2timents monumentaux dans l'\xC9gypte ancienne
+      ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123
+    m_Localized: "H\xE9rodote, d\xE9crivant la construction des pyramides, \xE9crivit
+      : \"Non pas des esclaves, mais des \xC9gyptiens libres, qui travaillaient en
+      \xE9change de c\xE9r\xE9ales lorsque le Nil inondait et qu'ils ne pouvaient
+      pas cultiver la terre.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124
+    m_Localized: "La majeure partie de la main-d'\u0153uvre provenait de paysans
+      qui \xE9taient employ\xE9s dans des travaux publics pendant les p\xE9riodes
+      de crue du Nil, lorsque leurs champs \xE9taient inond\xE9s. Ils recevaient
+      une r\xE9mun\xE9ration sous forme de nourriture."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125
+    m_Localized: Esclaves des terres conquises
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126
+    m_Localized: "Paysans travaillant dans le cadre d'obligations \xE9tatiques"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127
+    m_Localized: Soldats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128
+    m_Localized: "Mercenaires \xE9trangers"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129
+    m_Localized: "Quelle divinit\xE9 devint le dieu d'\xC9tat le plus important du
+      Nouvel Empire \xE9gyptien, surtout apr\xE8s l'unification de la Haute et de
+      la Basse-\xC9gypte ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130
+    m_Localized: "Des inscriptions de Karnak proclamaient : \"Amon-R\xEA, roi des
+      dieux, seigneur des tr\xF4nes du monde, de qui proviennent toute vie et le
+      pouvoir du pharaon.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131
+    m_Localized: "Initialement une divinit\xE9 locale de Th\xE8bes, apr\xE8s l'expulsion
+      des Hyksos et l'unification de l'\xC9gypte par les souverains de Th\xE8bes,
+      son culte fusionna avec le culte de R\xEA, devenant un \xE9l\xE9ment central
+      de la religion d'\xC9tat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132
+    m_Localized: Osiris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133
+    m_Localized: Horus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134
+    m_Localized: "Amon-R\xEA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135
+    m_Localized: Ptah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136
+    m_Localized: "De quelle p\xE9riode n\xE9olithique en Chine proviennent les premi\xE8res
+      preuves de la culture du millet et du riz et du d\xE9veloppement d'une c\xE9ramique
+      peinte avanc\xE9e ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137
+    m_Localized: "L'arch\xE9ologue Li Ji \xE9crivit \xE0 propos de \"r\xE9cipients
+      qui racontent l'histoire des anciennes colonies, de leur agriculture et de
+      l'art naissant.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138
+    m_Localized: "Il s'agissait de cultures n\xE9olithiques se d\xE9veloppant dans
+      les bassins du fleuve Jaune et du Yangts\xE9, qui pos\xE8rent les fondations
+      de la civilisation chinoise en introduisant l'agriculture \xE0 grande \xE9chelle
+      et des formes artistiques caract\xE9ristiques."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139
+    m_Localized: "\xC2ge de pierre taill\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140
+    m_Localized: Cultures de Yangshao et Longshan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141
+    m_Localized: "P\xE9riode de la dynastie Xia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142
+    m_Localized: "P\xE9riode des Royaumes Combattants"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143
+    m_Localized: "Quel souverain, repr\xE9sent\xE9 sur l'image, cr\xE9a le premier
+      empire de l'histoire, unifiant les cit\xE9s-\xE9tats de M\xE9sopotamie sous
+      une seule domination ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144
+    m_Localized: "Des inscriptions akkadiennes proclamaient : \"Sargon, roi d'Akkad,
+      roi de Kish, conqu\xE9rant, qui soumit tout Sumer et \xE9tendit son r\xE8gne
+      jusqu'\xE0 la Mer Sup\xE9rieure et Inf\xE9rieure.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145
+    m_Localized: "Son r\xE8gne initia la p\xE9riode de domination d'Akkad sur Sumer
+      vers 2334 av. J.-C. Il cr\xE9a un \xC9tat centralis\xE9 avec une administration
+      unifi\xE9e, qui devint un mod\xE8le pour les empires ult\xE9rieurs."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146
+    m_Localized: Hammurabi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147
+    m_Localized: Ur-Nammu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148
+    m_Localized: Sargon le Grand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149
+    m_Localized: Gudea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150
+    m_Localized: "\xC0 quoi servaient ces objets caract\xE9ristiques de la M\xE9sopotamie,
+      souvent orn\xE9s de sc\xE8nes mythologiques ou religieuses ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151
+    m_Localized: "L'arch\xE9ologue Henri Frankfort les d\xE9crivit comme \"des mondes
+      miniatures, port\xE9s sur soi et utilis\xE9s pour sceller des documents, symbolisant
+      le statut et l'autorit\xE9.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152
+    m_Localized: "C'\xE9taient de petits objets cylindriques en pierre, avec des
+      motifs grav\xE9s. Roul\xE9s sur l'argile, ils laissaient une empreinte r\xE9p\xE9table,
+      servant de signature personnelle, de sceau pour s\xE9curiser la propri\xE9t\xE9,
+      et aussi d'amulette."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153
+    m_Localized: Monnaies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154
+    m_Localized: "\xC9l\xE9ments de bijoux"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155
+    m_Localized: "Sceaux pour marquer les documents et la propri\xE9t\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156
+    m_Localized: "Outils d'\xE9criture"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157
+    m_Localized: "Quelle divinit\xE9 \xE9gyptienne symbolisait la r\xE9surrection,
+      la vie apr\xE8s la mort et la fertilit\xE9, agissant comme juge des morts ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158
+    m_Localized: "Dans les hymnes \xE0 Osiris, il \xE9tait proclam\xE9 : \"Voici
+      le roi des morts, celui qui est ressuscit\xE9 du tombeau, accordant la vie
+      \xE9ternelle \xE0 ceux qui le suivent.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159
+    m_Localized: "Son mythe de mort et de renaissance \xE9tait central aux croyances
+      \xE9gyptiennes concernant la vie apr\xE8s la mort. Il \xE9tait \xE9galement
+      associ\xE9 aux crues du Nil et \xE0 la nature qui rena\xEEt, et son culte \xE9tait
+      r\xE9pandu dans toutes les couches sociales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160
+    m_Localized: "R\xE2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161
+    m_Localized: Seth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162
+    m_Localized: Anubis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163
+    m_Localized: Osiris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164
+    m_Localized: "Quelle \xE9tait la principale raison de la construction de murs
+      d\xE9fensifs monumentaux autour des villes et des colonies dans l'ancienne
+      Chine ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 165
+    m_Localized: "Comme l'ont soulign\xE9 les strat\xE8ges chinois antiques : \"Les
+      murs sont la force de l'\xC9tat, la protection contre les barbares et un signe
+      de civilisation face au chaos.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166
+    m_Localized: "Durant les premi\xE8res dynasties et plus tard, la menace des peuples
+      nomades du nord et les conflits internes entre les \xC9tats favoris\xE8rent
+      le d\xE9veloppement de puissants syst\xE8mes d\xE9fensifs en terre dam\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 167
+    m_Localized: "Ils prot\xE9geaient des crues des fleuves."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 168
+    m_Localized: Ils servaient de symbole de statut.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 169
+    m_Localized: "D\xE9fense contre les invasions et les ennemis internes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170
+    m_Localized: "Ils \xE9taient un lieu pour les temples."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 171
+    m_Localized: "Quelle \xE9tait la principale importance \xE9conomique des routes
+      commerciales, telles que celles de la M\xE9sopotamie \xE0 la vall\xE9e de l'Indus,
+      \xE0 l'\xE2ge du bronze ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 172
+    m_Localized: "Les marchands antiques disaient : \"La route est longue, mais les
+      marchandises sont pr\xE9cieuses, et la richesse d\xE9coule de l'\xE9change
+      de ce qui nous manque avec ce que les autres ont.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173
+    m_Localized: "Elles permettaient l'\xE9change de mati\xE8res premi\xE8res (par
+      exemple, m\xE9taux, pierres pr\xE9cieuses, bois), qui \xE9taient rares dans
+      une r\xE9gion donn\xE9e, contre des produits finis, de la nourriture ou d'autres
+      biens. Elles furent le moteur du d\xE9veloppement \xE9conomique et culturel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 174
+    m_Localized: Elles facilitaient les migrations de populations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175
+    m_Localized: "Elles fournissaient l'acc\xE8s \xE0 des mati\xE8res premi\xE8res
+      rares et des produits de luxe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176
+    m_Localized: "Elles \xE9taient utilis\xE9es pour le d\xE9placement des troupes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177
+    m_Localized: "Elles \xE9taient des routes de p\xE8lerinages religieux."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

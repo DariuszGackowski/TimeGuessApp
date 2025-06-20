@@ -1,0 +1,888 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Chapter1_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 89c6d6642ba1ce6448b0ef3110967008, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9
+    m_Localized: Chinesen aus der Shang-Dynastie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: "Alte \xC4gypter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Harappa und Mohenjo-Daro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Sumerer und Akkader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: "Die gro\xDFfl\xE4chige landwirtschaftliche Entwicklung in dieser
+      Region war ohne komplexe Systeme von Kan\xE4len, D\xE4mmen und Deichen unm\xF6glich,
+      die die Kontrolle von Fluss\xFCberschwemmungen und die Bew\xE4sserung gro\xDFer
+      Anbaufl\xE4chen erm\xF6glichten und Nahrungsmittel\xFCbersch\xFCsse schufen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: "Professor Gwendolyn Leick schrieb: \"Ihr Leben war untrennbar mit
+      dem Rhythmus zweier Fl\xFCsse verbunden, und ihr Wasserbau war der Schl\xFCssel
+      zum \xDCberleben und Wohlstand.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1
+    m_Localized: "Geburt der Zivilisation (ca. 3000\u2013800 v. Chr.)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: "Welche Rolle spielte der \"Gro\xDFz\xFCgige Nil\" im alten \xC4gypten,
+      dessen j\xE4hrliche \xDCberschwemmungen f\xFCr die Landwirtschaft so entscheidend
+      waren?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Nippur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Ur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Lagash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Uruk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: "Es war eine der wichtigsten sumerischen Stadtstaaten, am Euphrat
+      gelegen, ber\xFChmt f\xFCr seinen beeindruckenden Ziggurat und k\xF6nigliche
+      Gr\xE4ber, die viele Informationen \xFCber die lokale Kultur und Kunst lieferten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: "Sir Leonard Woolley, der dort Entdeckungen machte, nannte es \"den
+      gr\xF6\xDFten Schatz Mesopotamiens, ein Zeugnis des unglaublichen Reichtums
+      und der Kunstfertigkeit der Sumerer in der fr\xFChdynastischen Zeit.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: Hethiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Assyrer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: Babylonier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Sumerer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: "Sie glaubten an zahlreiche Gottheiten, die verschiedene Aspekte
+      des Lebens und der Natur kontrollierten. Die Religion war eng mit dem Staat
+      verbunden, und Tempel dienten als administrative und wirtschaftliche Zentren,
+      was typisch f\xFCr diese Region war."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: "Wie Thorkild Jacobsen, ein Forscher der mesopotamischen Mythologie,
+      feststellte: \"Ihr Pantheon spiegelte die Unberechenbarkeit der Natur wider,
+      mit m\xE4chtigen Gottheiten wie Enlil, Enki oder der G\xF6ttin der Liebe und
+      des Krieges, die st\xE4ndige Verehrung forderten.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: "Mit welcher mesopotamischen Zivilisation ist der Kult von Gottheiten
+      wie Enlil, Enki oder der G\xF6ttin der Liebe und des Krieges verbunden?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: "Welche Zivilisationen waren, basierend auf fortschrittlichem Wassermanagement,
+      Pioniere im gro\xDF angelegten Wasserbau?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: "Dies war eine Zeit, in der die Menschen begannen, die ersten St\xE4dte
+      zu bauen, Staaten zu organisieren und Schriftsysteme zu entwickeln. In den
+      Flusst\xE4lern \u2013 dem Nil, Euphrat, Indus und Huang He \u2013 entstanden
+      gro\xDFe Zivilisationen. Komplexe Religionen, Gesetze und soziale Strukturen
+      entwickelten sich. Landwirtschaft, Handwerk und Handel bildeten die Grundlagen
+      einer Welt, die gerade erst begann, sich selbst und ihre M\xF6glichkeiten zu
+      verstehen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: "Plutarch zitierte, obwohl er sp\xE4ter schrieb, die \xC4gypter:
+      \"Der Nil ist Leben, und seine Flut \u2013 ein Segen der G\xF6tter, von dem
+      unser Schicksal abh\xE4ngt.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: "Aus welcher ber\xFChmten Stadtstaaten, bekannt f\xFCr ihren Grabreichtum
+      und ihre umfassende Verwaltung, stammen diese Artefakte?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: "Die \xDCberschwemmungen des Flusses, die fruchtbaren Schlamm mit
+      sich f\xFChrten, waren ein nat\xFCrlicher D\xFCnger. Ohne sie w\xE4re der Anbau
+      von Getreide (haupts\xE4chlich Gerste und Weizen) in diesem Ausma\xDF unm\xF6glich
+      gewesen, und folglich h\xE4tte die gesamte \xE4gyptische Zivilisation nicht
+      aufbl\xFChen k\xF6nnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: "Er war haupts\xE4chlich eine Handelsroute."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: Er diente als Verteidigungsbarriere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: "Er erm\xF6glichte dank des abgelagerten Schlamms reiche Ernten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: "Er war eine Quelle f\xFCr Bausteine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: "Welcher der Pharaonen der IV. Dynastie wird traditionell mit dem
+      Bau der zweitgr\xF6\xDFten Pyramide in Gizeh und der Gro\xDFen Sphinx in Verbindung
+      gebracht?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: "Manetho, ein antiker Historiker, erw\xE4hnte ihn als Herrscher,
+      der \"die zweite Pyramide und auch die Sphinx errichtete, die seine ewige Ruhe
+      bewacht.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: "Sein Grabkomplex in Gizeh ist eines der bekanntesten Symbole des
+      alten \xC4gypten, und der Herrscher selbst war der Sohn von Cheops (Khufu)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34
+    m_Localized: Djoser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: Cheops (Khufu)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: Chefren (Khafre)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: Mykerinos (Menkaure)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: "Was war der Hauptzweck des \"Totenbuches\" und wozu diente es in
+      den Glaubensvorstellungen der alten \xC4gypter?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: "Wie der Text aus dem Ani-Papyrus verk\xFCndete: \"Oh, Osiris, Herr
+      der Ewigkeit, gib mir Zugang durch deine Tore, lass mein Herz nicht gegen mich
+      zeugen.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40
+    m_Localized: "Es war eine Sammlung von Spr\xFCchen, Gebeten und Hymnen, die dem
+      Verstorbenen helfen sollten, sicher durch das Jenseits zu gelangen und erfolgreich
+      das Urteil vor Osiris zu bestehen, was ewiges Leben sichern w\xFCrde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: "Aufzeichnung k\xF6niglicher Gesetze"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42
+    m_Localized: "F\xFChrung von Kriegs-Chroniken"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: "Ein Leitfaden f\xFCr das Jenseits f\xFCr die Verstorbenen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: Administrative Aufzeichnungen der Tempel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: "Was ist das gr\xF6\xDFte Geheimnis der Indus-Zivilisation, das
+      immer noch ein vollst\xE4ndiges Verst\xE4ndnis ihrer Kultur verhindert?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: "Sir Mortimer Wheeler bewunderte zwar ihre St\xE4dte, gab aber zu:
+      \"Ihre Schrift bleibt uns ein r\xE4tselhaftes Hieroglyphen, ein stummer Zeuge
+      einer verlorenen Sprache.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: "Trotz der Entdeckung Tausender von Siegeln und Artefakten mit Inschriften
+      haben Versuche, dieses Schriftsystem zu entziffern, bisher keine eindeutigen
+      Ergebnisse geliefert, was das Verst\xE4ndnis ihrer Geschichte und \xDCberzeugungen
+      behindert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48
+    m_Localized: "Fehlen monumentaler Geb\xE4ude"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: Fehlen von Handelsbeweisen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: Unentzifferte Schrift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: "Fehlen von Beweisen f\xFCr Herrscher"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52
+    m_Localized: "Welche alte chinesische Dynastie war bekannt f\xFCr ihre au\xDFergew\xF6hnlichen
+      Bronze-Artefakte und die Verwendung von Orakelknochen zur Kommunikation mit
+      den Ahnen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: "Der Historiker Kwang-chih Chang bemerkte: \"W\xE4hrend dieser Dynastie
+      erreichte die Bronzekunst eine beispiellose Meisterschaft, und die Orakelknochenrituale
+      bildeten die Achse ihrer Religion und Politik.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: "Es war die erste Dynastie, deren Existenz durch arch\xE4ologische
+      Funde best\xE4tigt ist. Ihre Kultur basierte auf Ahnenverehrung und dem Gott
+      Shangdi, und Kunsthandwerker schufen komplizierte rituelle Bronzegef\xE4\xDFe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Xia-Dynastie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: Zhou-Dynastie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Qin-Dynastie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58
+    m_Localized: Shang-Dynastie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: "Welche religi\xF6se und soziale Hauptbedeutung hatten diese in
+      Mesopotamien errichteten Bauwerke?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60
+    m_Localized: "Die alten Sumerer nannten sie in ihren Hymnen \"den Berg der G\xF6tter,
+      der Himmel und Erde verbindet, wo die Menschen ihren Sch\xF6pfern n\xE4herkommen
+      k\xF6nnen.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: "Diese monumentalen, gestuften Tempelt\xFCrme bildeten den Mittelpunkt
+      jeder Stadtstaat. Sie waren Kultst\xE4tten f\xFCr die wichtigsten Gottheiten,
+      Lagerst\xE4tten f\xFCr Nahrungsmittel und Symbole der Macht der Obrigkeit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62
+    m_Localized: "Gr\xE4ber der K\xF6nige"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: Astronomische Observatorien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64
+    m_Localized: "Wohnst\xE4tten der G\xF6tter und Kultzentren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: Verteidigungsanlagen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66
+    m_Localized: "Welchen innovativen Rechtsansatz f\xFChrte der Kodex Hammurabis
+      im alten Babylonien ein?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: "Hammurabi erkl\xE4rte im Vorwort zum Kodex: \"Damit der Starke
+      den Schwachen nicht sch\xE4dige, damit die Gerechtigkeit im Land erstrahle
+      und jeder seine Rechte und Pflichten kenne.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68
+    m_Localized: Es war einer der ersten geschriebenen Rechtskodexe, der fast alle
+      Aspekte des gesellschaftlichen Lebens abdeckte, vom Familienrecht bis zum Handelsrecht,
+      und das Prinzip "Auge um Auge, Zahn um Zahn" (lex talionis) festlegte, wenn
+      auch mit Klassenunterschieden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69
+    m_Localized: Rechtsdemokratie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70
+    m_Localized: "Recht basierend auf m\xFCndlicher Tradition"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71
+    m_Localized: "Vereinheitlichtes und \xF6ffentlich zug\xE4ngliches schriftliches
+      Recht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: "Ausschlie\xDFlich von Priestern reguliertes Recht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: "Welcher der Pharaonen des Neuen Reiches \xC4gyptens wurde aufgrund
+      seiner zahlreichen und siegreichen Milit\xE4rkampagnen, die das \xE4gyptische
+      Reich erweiterten, der \"Napoleon \xC4gyptens\" genannt?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: "Sam schrieb auf die Stele: \u201EMeine Siege sind beispiellos,
+      und die eroberten L\xE4nder sind so zahlreich wie der Sand in der W\xFCste.\u201C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75
+    m_Localized: "Er regierte in der 18. Dynastie und f\xFChrte mindestens siebzehn
+      Milit\xE4rkampagnen, haupts\xE4chlich in Asien, durch, wodurch er enorme Reicht\xFCmer
+      erwarb und \xC4gypten als regionale Macht etablierte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76
+    m_Localized: Ramses II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77
+    m_Localized: Echnaton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78
+    m_Localized: Thutmosis III
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79
+    m_Localized: Sethos I
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80
+    m_Localized: "In welcher ber\xFChmten Schlacht des alten \xC4gypten, die mit
+      den Hethitern ausgetragen wurde, kam es wahrscheinlich zum gr\xF6\xDFten Streitwagenkampf
+      der Geschichte?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81
+    m_Localized: "Ramses II., der siegreiche K\xF6nig \xC4gyptens, beschrieb es so:
+      \"Ich war allein mit meinen Streitwagen gegen Tausende von Feinden, aber Amun
+      war mit mir.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82
+    m_Localized: "Sie fand um 1274 v. Chr. im heutigen Syrien statt, und obwohl beide
+      Seiten den Sieg f\xFCr sich beanspruchten, war es tats\xE4chlich ein Unentschieden,
+      das zum ersten bekannten Friedensvertrag der Geschichte f\xFChrte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83
+    m_Localized: Schlacht von Megiddo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84
+    m_Localized: Schlacht bei Kadesch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85
+    m_Localized: Schlacht von Pi-Ramses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86
+    m_Localized: Schlacht von Tanis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87
+    m_Localized: "Was war das einzigartigste und fortschrittlichste st\xE4dtische
+      Merkmal der St\xE4dte der Indus-Zivilisation, wie Mohenjo-Daro?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88
+    m_Localized: "Professor Gregory Possehl, ein Arch\xE4ologe, betonte: \"Ihr Augenmerk
+      auf Sauberkeit und Wasserbau, mit einem Netzwerk von Brunnen und Abwassersystemen,
+      waren Jahrtausende ihrer Zeit voraus.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89
+    m_Localized: "Diese aus gebrannten Ziegeln gebauten St\xE4dte hatten einen Rasterplan,
+      was zu dieser Zeit selten war. Ihre Bewohner nutzten \xF6ffentliche B\xE4der,
+      und die H\xE4user hatten oft eigene Badezimmer und Latrinen, die an das st\xE4dtische
+      Netz angeschlossen waren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90
+    m_Localized: Monumentale Tempel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91
+    m_Localized: Steinpyramiden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92
+    m_Localized: Umfassendes Abwasser- und Wasserversorgungssystem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93
+    m_Localized: Metallbefestigungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94
+    m_Localized: "Welche Bedeutung hatte die Bronzetechnologie f\xFCr die Macht und
+      Kultur der Shang-Dynastie in China?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95
+    m_Localized: "Der chinesische Philosoph Menzius (lebte sp\xE4ter, aber bezog
+      sich auf die Tradition) sprach von \"rituellen Bronzegef\xE4\xDFen, die ein
+      Zeichen des Himmels und der Macht des Herrschers waren.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96
+    m_Localized: "Die Handwerker dieser Dynastie erreichten Meisterschaft im Guss
+      komplizierter Ritualgef\xE4\xDFe, Waffen und Werkzeuge aus Bronze. Der Besitz
+      und die Kontrolle dieser Technologie waren ein Symbol f\xFCr Macht, Reichtum
+      und den sakralen Status der herrschenden Dynastie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97
+    m_Localized: "Sie wurde haupts\xE4chlich f\xFCr die Herstellung von landwirtschaftlichen
+      Ger\xE4ten verwendet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98
+    m_Localized: "Sie wurde f\xFCr den Bau von Verteidigungsanlagen verwendet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99
+    m_Localized: "Sie war die Grundlage f\xFCr die Herstellung von Ritualgef\xE4\xDFen,
+      Waffen und Symbolen der Macht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100
+    m_Localized: Sie war das wichtigste Exportgut nach Europa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101
+    m_Localized: "Welcher der Pharaonen versuchte f\xFCr kurze Zeit, eine religi\xF6se
+      Revolution im alten \xC4gypten einzuleiten, indem er den monolathistischen
+      Kult eines Gottes f\xF6rderte?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102
+    m_Localized: "Er selbst verk\xFCndete: \"Es gibt nur einen Gott, Aton, und ich
+      allein bin sein einziger Prophet auf Erden.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103
+    m_Localized: "Er war ein Herrscher der 18. Dynastie, der seinen Namen von Amenophis
+      IV. \xE4nderte, die Hauptstadt nach Amarna verlegte und den Kult auf die Sonnengottheit
+      Aton konzentrierte, wodurch der Einfluss der Priester des Amun beseitigt wurde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104
+    m_Localized: Tutanchamun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105
+    m_Localized: Ramses II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106
+    m_Localized: Hatschepsut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107
+    m_Localized: Echnaton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108
+    m_Localized: "Welches antike Epos, das aus Mesopotamien stammt, erz\xE4hlt von
+      einem K\xF6nigshelden, der Unsterblichkeit sucht, und enth\xE4lt eine Beschreibung
+      der gro\xDFen Flut?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109
+    m_Localized: "Alte Schreiber schrieben: \"Seine Reise war lang und schmerzhaft,
+      er suchte ewiges Leben, und die Geschichte der gro\xDFen Flut floss von den
+      Lippen Utnapischtims.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110
+    m_Localized: "Es ist eines der \xE4ltesten literarischen Werke der Welt, das
+      von den Schicksalen des mythischen K\xF6nigs von Uruk und seines Freundes Enkidu
+      erz\xE4hlt. Es enth\xE4lt viele universelle Motive, darunter die Geschichte
+      einer katastrophalen Flut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111
+    m_Localized: Odyssee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112
+    m_Localized: Totenbuch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113
+    m_Localized: Gilgamesch-Epos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114
+    m_Localized: Mahabharata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115
+    m_Localized: "Wer diente im alten \xC4gypten als Schreiber, Anwalt, Buchhalter
+      und oft als Beamter und war entscheidend f\xFCr das Funktionieren des Staates?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116
+    m_Localized: 'Der weise Amenemope riet seinem Sohn: "Sei ein Schreiber, und du
+      wirst Meister deines Schicksals sein, du wirst mit Respekt sitzen, und deine
+      Worte werden Macht haben."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117
+    m_Localized: "Dies war eine Gruppe gebildeter Menschen, die die F\xE4higkeit
+      besa\xDFen, Hieroglyphen zu lesen und zu schreiben, was selten war. Ihre Arbeit
+      war die Grundlage von Verwaltung, Religion und Wirtschaft und sicherte ihnen
+      einen hohen sozialen Status."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118
+    m_Localized: Krieger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119
+    m_Localized: Bauern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120
+    m_Localized: Schreiber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121
+    m_Localized: Architekten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122
+    m_Localized: "Was war die Hauptquelle der Arbeitskr\xE4fte, die f\xFCr den Bau
+      monumentaler Geb\xE4ude im alten \xC4gypten verwendet wurden?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123
+    m_Localized: "Herodot beschrieb den Bau der Pyramiden: \"Nicht Sklaven, sondern
+      freie \xC4gypter, die im Austausch f\xFCr Getreide arbeiteten, wenn der Nil
+      \xFCber die Ufer trat und sie das Land nicht bebauen konnten.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124
+    m_Localized: "Der Gro\xDFteil der Arbeitskr\xE4fte stammte von Bauern, die w\xE4hrend
+      der Nil\xFCberschwemmungen, als ihre Felder \xFCberschwemmt waren, bei \xF6ffentlichen
+      Arbeiten eingesetzt wurden. Sie erhielten die Bezahlung in Form von Nahrungsmitteln."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125
+    m_Localized: "Sklaven aus eroberten L\xE4ndern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126
+    m_Localized: Bauern, die im Rahmen staatlicher Verpflichtungen arbeiteten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127
+    m_Localized: Soldaten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128
+    m_Localized: "Ausl\xE4ndische S\xF6ldner"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129
+    m_Localized: "Welche Gottheit wurde im Neuen Reich \xC4gyptens zum wichtigsten
+      Staatsgott, insbesondere nach der Vereinigung Ober- und Unter\xE4gyptens?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130
+    m_Localized: "Inschriften aus Karnak verk\xFCndeten: \"Amun-Re, K\xF6nig der
+      G\xF6tter, Herr der Throne der Welt, von dem alles Leben und die Macht des
+      Pharaos ausgeht.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131
+    m_Localized: "Urspr\xFCnglich eine lokale Gottheit aus Theben, verschmolz sein
+      Kult nach der Vertreibung der Hyksos und der Vereinigung \xC4gyptens durch
+      die thebanischen Herrscher mit dem Kult des Re und wurde zu einem zentralen
+      Element der Staatsreligion."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132
+    m_Localized: Osiris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133
+    m_Localized: Horus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134
+    m_Localized: Amun-Re
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135
+    m_Localized: Ptah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136
+    m_Localized: "Aus welcher neolithischen Periode in China stammen einige der fr\xFChesten
+      Belege f\xFCr den Anbau von Hirse und Reis sowie die Entwicklung fortgeschrittener
+      bemalter Keramik?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137
+    m_Localized: "Der Arch\xE4ologe Li Ji schrieb \xFCber \"Gef\xE4\xDFe, die die
+      Geschichte alter Siedlungen, ihrer Landwirtschaft und der aufkommenden Kunst
+      erz\xE4hlen.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138
+    m_Localized: "Dies waren neolithische Kulturen, die sich in den Becken des Gelben
+      Flusses und des Jangtse-Flusses entwickelten und die Grundlagen der chinesischen
+      Zivilisation legten, indem sie gro\xDFfl\xE4chige Landwirtschaft und charakteristische
+      k\xFCnstlerische Formen einf\xFChrten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139
+    m_Localized: Steinzeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140
+    m_Localized: Yangshao- und Longshan-Kulturen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141
+    m_Localized: Xia-Dynastie-Periode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142
+    m_Localized: Zeit der Streitenden Reiche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143
+    m_Localized: Welcher auf dem Bild dargestellte Herrscher schuf das erste Reich
+      der Geschichte, indem er die mesopotamischen Stadtstaaten unter einer Herrschaft
+      vereinte?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144
+    m_Localized: "Akkadische Inschriften verk\xFCndeten: \"Sargon, K\xF6nig von Akkad,
+      K\xF6nig von Kisch, Eroberer, der ganz Sumer unterwarf und seine Herrschaft
+      bis zum Oberen und Unteren Meer ausdehnte.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145
+    m_Localized: "Seine Herrschaft leitete um 2334 v. Chr. die Periode der Akkad-Dominanz
+      \xFCber Sumer ein. Er schuf einen zentralisierten Staat mit einer einheitlichen
+      Verwaltung, der zum Vorbild f\xFCr sp\xE4tere Reiche wurde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146
+    m_Localized: Hammurabi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147
+    m_Localized: Ur-Nammu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148
+    m_Localized: "Sargon der Gro\xDFe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149
+    m_Localized: Gudea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150
+    m_Localized: "Wozu dienten diese f\xFCr Mesopotamien charakteristischen Objekte,
+      die oft mit mythologischen oder religi\xF6sen Szenen verziert waren?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151
+    m_Localized: "Der Arch\xE4ologe Henri Frankfort beschrieb sie als \"Miniaturwelten,
+      die am K\xF6rper getragen und zum Versiegeln von Dokumenten verwendet wurden,
+      symbolisierten Status und Autorit\xE4t.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152
+    m_Localized: "Dies waren kleine, zylindrische Objekte aus Stein mit eingravierten
+      Mustern. Beim Abrollen \xFCber Ton hinterlie\xDFen sie einen wiederholbaren
+      Abdruck und dienten als pers\xF6nliche Unterschrift, als Siegel zur Sicherung
+      von Eigentum und auch als Amulett."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153
+    m_Localized: "M\xFCnzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154
+    m_Localized: "Schmuckst\xFCcke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155
+    m_Localized: Siegel zum Kennzeichnen von Dokumenten und Eigentum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156
+    m_Localized: Schreibwerkzeuge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157
+    m_Localized: "Welche \xE4gyptische Gottheit symbolisierte Auferstehung, Jenseits
+      und Fruchtbarkeit und fungierte als Richter der Toten?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158
+    m_Localized: "In Hymnen an Osiris wurde verk\xFCndet: \"Siehe den K\xF6nig der
+      Toten, der aus dem Grab auferstanden ist und denen, die ihm folgen, ewiges
+      Leben schenkt.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159
+    m_Localized: "Sein Mythos von Tod und Wiedergeburt war zentral f\xFCr die \xE4gyptischen
+      Jenseitsvorstellungen. Er wurde auch mit den Nil\xFCberschwemmungen und der
+      sich regenerierenden Natur in Verbindung gebracht, und sein Kult war in allen
+      sozialen Schichten weit verbreitet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160
+    m_Localized: Re
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161
+    m_Localized: Seth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162
+    m_Localized: Anubis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163
+    m_Localized: Osiris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164
+    m_Localized: "Was war der Hauptgrund f\xFCr den Bau monumentaler Verteidigungsmauern
+      um St\xE4dte und Siedlungen im alten China?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 165
+    m_Localized: "Wie alte chinesische Strategen betonten: \"Mauern sind die St\xE4rke
+      des Staates, Schutz vor Barbaren und ein Zeichen der Zivilisation angesichts
+      des Chaos.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166
+    m_Localized: "W\xE4hrend der fr\xFChen Dynastien und sp\xE4ter beg\xFCnstigte
+      die Bedrohung durch nomadische V\xF6lker aus dem Norden und interne Konflikte
+      zwischen den Staaten die Entwicklung m\xE4chtiger Verteidigungssysteme aus
+      gestampfter Erde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 167
+    m_Localized: "Sie sch\xFCtzten vor Fluss\xFCberschwemmungen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 168
+    m_Localized: Sie dienten als Statussymbol.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 169
+    m_Localized: Verteidigung gegen Invasionen und innere Feinde.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170
+    m_Localized: "Sie waren ein Ort f\xFCr Tempel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 171
+    m_Localized: "Was war die Hauptwirtschaftliche Bedeutung von Handelsrouten, wie
+      denen von Mesopotamien zum Industal, w\xE4hrend der Bronzezeit?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 172
+    m_Localized: "Alte Kaufleute sagten: \"Der Weg ist lang, aber die G\xFCter sind
+      wertvoll, und Reichtum flie\xDFt aus dem Austausch dessen, was uns fehlt, gegen
+      das, was andere haben.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173
+    m_Localized: "Sie erm\xF6glichten den Austausch von Rohstoffen (z.B. Metalle,
+      Edelsteine, Holz), die in einer bestimmten Region knapp waren, gegen Fertigprodukte,
+      Nahrungsmittel oder andere G\xFCter. Sie waren der Motor der wirtschaftlichen
+      und kulturellen Entwicklung."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 174
+    m_Localized: Sie erleichterten die Wanderung von Populationen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175
+    m_Localized: "Sie erm\xF6glichten den Zugang zu seltenen Rohstoffen und Luxusg\xFCtern."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176
+    m_Localized: "Sie wurden f\xFCr Truppenbewegungen genutzt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177
+    m_Localized: "Sie waren Routen f\xFCr religi\xF6se Pilgerfahrten."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

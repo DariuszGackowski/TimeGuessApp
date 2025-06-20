@@ -1,6 +1,7 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Localization;
+using Random = UnityEngine.Random;
 
 namespace Core
 {
@@ -9,18 +10,19 @@ namespace Core
     {
         public Sprite Icon;
 
-        public LocalizedString Quote;
-        public LocalizedString HistoricalBackground;
+        public string QuestionTextID;
+        public string QuoteID;
+        public string HistoricalBackgroundID;
 
         public List<Answer> Answers = new List<Answer>();
 
-        public bool HintQuoteUsed = false;
-        public bool HintBackgroundUsed = false;
-        public bool HintFiftyFiftyUsed = false;
+        [NonSerialized] public bool HintQuoteUsed = false;
+        [NonSerialized] public bool HintBackgroundUsed = false;
+        [NonSerialized] public bool HintFiftyFiftyUsed = false;
 
-        public float Points = 1f;
-        public float ScoredPoints = 0f;
-        public float HintValue = 0.25f;
+        [NonSerialized] public float Points = 1f;
+        [NonSerialized] public float ScoredPoints = 0f;
+        [NonSerialized] public float HintValue = 0.25f;
 
         public void ShuffleAnswers()
         {

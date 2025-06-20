@@ -6,7 +6,7 @@ namespace Core
     [System.Serializable]
     public class Answer
     {
-        public LocalizedString AnswerText;
+        public string AnswerID;
         public bool IsCorrect;
     }
 }

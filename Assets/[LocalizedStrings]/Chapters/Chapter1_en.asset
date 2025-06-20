@@ -1,0 +1,856 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Chapter1_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 89c6d6642ba1ce6448b0ef3110967008, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9
+    m_Localized: Chinese from the Shang Dynasty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Ancient Egyptians
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Harappa and Mohenjo-Daro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Sumerians and Akkadians
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Large-scale agricultural development in this region was impossible
+      without complex systems of canals, dams, and dikes, which allowed for the control
+      of river floods and the irrigation of vast cultivated areas, creating food
+      surpluses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: 'Professor Gwendolyn Leick wrote: "Their life was inextricably linked
+      with the rhythm of two rivers, and their hydraulic engineering was key to survival
+      and prosperity."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1
+    m_Localized: "Birth of Civilization (c. 3000\u2013800 BCE)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: What role did the "Generous Nile" play in ancient Egypt, whose annual
+      floods were so crucial for agriculture?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Nippur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Ur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Lagash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Uruk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: It was one of the most important Sumerian city-states, located on
+      the Euphrates, famous for its impressive ziggurat and royal tombs, which provided
+      much information about the local culture and art.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: Sir Leonard Woolley, who made discoveries there, called it "the
+      greatest treasure of Mesopotamia, a testament to the incredible wealth and
+      artistry of the Sumerians in the Early Dynastic period."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: Hittites
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Assyrians
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: Babylonians
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Sumerians
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: They believed in numerous deities who controlled various aspects
+      of life and nature. Religion was strongly linked to the state, and temples
+      served as administrative and economic centers, which was typical for this region.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: As Thorkild Jacobsen, a scholar of Mesopotamian mythology, stated,
+      "Their pantheon reflected the unpredictability of nature, with powerful deities
+      such as Enlil, Enki or the goddess of love and war, who demanded constant worship."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: With which of the Mesopotamian civilizations is the cult of deities
+      such as Enlil, Enki, or the goddess of love and war associated?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Which civilizations, based on advanced water resource management,
+      were pioneers in large-scale hydraulic engineering?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: "This was a time when humans began to build the first cities, organize
+      states, and create writing systems. Great civilizations developed in river
+      valleys \u2013 the Nile, Euphrates, Indus, and Huang He. Complex religions,
+      laws, and social structures emerged. Agriculture, crafts, and trade formed
+      the foundations of a world that was just beginning to understand itself and
+      its possibilities."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: 'Plutarch, though writing later, quoted Egyptians: "The Nile is
+      life, and its flood - a blessing from the gods, from which our fate depends."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: From which famous city-state, known for its grave riches and extensive
+      administration, do these artifacts originate?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: The river's floods, carrying fertile silt, were a natural fertilizer.
+      Without them, the cultivation of cereals (mainly barley and wheat) would have
+      been impossible on such a scale, and consequently, the entire Egyptian civilization
+      could not have flourished.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: It was mainly a trade route.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: It served as a defensive barrier.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: It enabled abundant harvests thanks to the deposited silt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: It was a source of building stone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: Which of the pharaohs from the IV dynasty is traditionally linked
+      with the construction of the second largest pyramid in Giza and the Great Sphinx?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: Manethon, an ancient historian, mentioned him as a ruler who "erected
+      the second pyramid, and also the Sphinx, guarding his eternal rest."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: His tomb complex in Giza is one of the most recognizable symbols
+      of ancient Egypt, and the ruler himself was the son of Cheops (Khufu).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34
+    m_Localized: Djoser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: Cheops (Khufu)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: Chefren (Khafre)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: Mykerinos (Menkaure)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: What was the main purpose of the "Book of the Dead" and what was
+      its use in the beliefs of ancient Egyptians?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: 'As the text from the Papyrus of Ani proclaimed: "Oh, Osiris, Lord
+      of Eternity, give me passage through Your gates, let my heart not testify against
+      me."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40
+    m_Localized: It was a collection of spells, prayers, and hymns that were intended
+      to help the deceased safely pass through the afterlife and successfully pass
+      judgment before Osiris, which would ensure eternal life.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: Recording royal laws
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42
+    m_Localized: Keeping war chronicles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: A guide to the afterlife for the deceased
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: Administrative records of temples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: What is the biggest mystery concerning the Indus Valley Civilization,
+      which still prevents a full understanding of their culture?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: 'Sir Mortimer Wheeler, though he admired their cities, admitted:
+      "Their script remains to us an enigmatic hieroglyph, a silent witness to a
+      lost language."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: Despite the discovery of thousands of seals and artifacts with inscriptions,
+      attempts to decipher this writing system have so far yielded no unambiguous
+      results, which hinders the understanding of their history and beliefs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48
+    m_Localized: Lack of monumental buildings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: Lack of evidence of trade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: Undeciphered script
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: Lack of evidence of rulers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52
+    m_Localized: Which ancient Chinese dynasty was known for its extraordinary bronze
+      artifacts and the use of oracle bones for communication with ancestors?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: 'Historian Kwang-chih Chang noted: "During this dynasty, bronze
+      craftsmanship reached unprecedented mastery, and oracle bone rituals formed
+      the axis of their religion and politics."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: It was the first dynasty whose existence is confirmed by archaeological
+      findings. Its culture was based on ancestor worship and the god Shangdi, and
+      artisans created intricate bronze ritual vessels.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Xia Dynasty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: Zhou Dynasty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Qin Dynasty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58
+    m_Localized: Shang Dynasty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: What was the main religious and social significance of structures
+      like these, erected in Mesopotamia?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60
+    m_Localized: The old Sumerians in their hymns called them "the mountain of gods,
+      connecting heaven with earth, where people can draw closer to their creators."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: These monumental, stepped temple towers constituted the central
+      point of every city-state. They were places of worship for the most important
+      deities, food storage, and symbols of the power of authority.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62
+    m_Localized: Tombs of kings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: Astronomical observatories
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64
+    m_Localized: Dwellings of gods and centers of worship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: Defensive fortifications
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66
+    m_Localized: What innovative approach to law did the Code of Hammurabi introduce
+      in ancient Babylonia?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: 'Hammurabi, in the preface to the Code, declared: "So that the strong
+      may not harm the weak, that justice may shine in the land, and that everyone
+      may know their rights and duties."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68
+    m_Localized: It was one of the first written legal codes, covering almost all
+      aspects of social life, from family law to commercial law, and established
+      the principle of "an eye for an eye, a tooth for a tooth" (lex talionis), though
+      with class differences.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69
+    m_Localized: Legal democracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70
+    m_Localized: Law based on oral tradition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71
+    m_Localized: Unified and publicly available written law
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: Law regulated exclusively by priests
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: Which of the pharaohs of the New Kingdom of Egypt was called the
+      "Napoleon of Egypt" due to his numerous and victorious military campaigns that
+      expanded the Egyptian empire?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: "\u201CMy victories are unparalleled, and the lands I have conquered
+      are as numerous as the sand in the desert.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75
+    m_Localized: He ruled in the 18th Dynasty and conducted at least seventeen military
+      campaigns, mainly in Asia, acquiring enormous wealth and establishing Egypt
+      as a regional power.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76
+    m_Localized: Ramesses II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77
+    m_Localized: Akhenaten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78
+    m_Localized: Thutmose III
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79
+    m_Localized: Seti I
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80
+    m_Localized: In what famous battle of ancient Egypt, fought with the Hittites,
+      did probably the largest chariot clash in history occur?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81
+    m_Localized: 'Ramesses II, the victorious king of Egypt, described it: "I was
+      alone with my chariots against thousands of enemies, but Amun was with me."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82
+    m_Localized: It took place around 1274 BCE in present-day Syria, and although
+      both sides declared victory, it was actually a draw, leading to the first known
+      peace treaty in history.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83
+    m_Localized: Battle of Megiddo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84
+    m_Localized: Battle of Kadesh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85
+    m_Localized: Battle of Pi-Ramesses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86
+    m_Localized: Battle of Tanis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87
+    m_Localized: What was the most unique and advanced urban feature of the Indus
+      Valley Civilization cities, such as Mohenjo-Daro?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88
+    m_Localized: 'Professor Gregory Possehl, an archaeologist, emphasized: "Their
+      concern for cleanliness and water engineering, with a network of wells and
+      sewage systems, were millennia ahead of their time."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89
+    m_Localized: These cities, built of fired brick, had a grid plan, which was rare
+      at the time. Their inhabitants used public baths, and houses often had their
+      own bathrooms and latrines connected to the city network.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90
+    m_Localized: Monumental temples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91
+    m_Localized: Stone pyramids
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92
+    m_Localized: Extensive sewage and water supply system
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93
+    m_Localized: Metal fortifications
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94
+    m_Localized: What was the significance of bronze technology for the power and
+      culture of the Shang Dynasty in China?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95
+    m_Localized: The Chinese philosopher Mencius (living later, but referring to
+      tradition) spoke of "bronze ritual vessels, which were a sign of heaven and
+      the ruler's power."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96
+    m_Localized: The artisans of this dynasty achieved mastery in casting intricate
+      ritual vessels, weapons, and tools from bronze. Possessing and controlling
+      this technology was a symbol of power, wealth, and the sacred status of the
+      ruling dynasty.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97
+    m_Localized: It was mainly used for the production of agricultural tools.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98
+    m_Localized: It was used for building defensive fortifications.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99
+    m_Localized: It was the basis for the production of ritual vessels, weapons,
+      and symbols of power.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100
+    m_Localized: It was the main export commodity to Europe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101
+    m_Localized: Which of the pharaohs, for a short time, tried to introduce a religious
+      revolution in ancient Egypt, promoting the monolatristic cult of one god?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102
+    m_Localized: 'He himself proclaimed: "There is only one god, Aten, and I alone
+      am his only prophet on earth."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103
+    m_Localized: He was a ruler of the 18th Dynasty who changed his name from Amenhotep
+      IV, moved the capital to Amarna, and focused the cult on the sun deity Aten,
+      removing the influence of the priests of Amun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104
+    m_Localized: Tutankhamun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105
+    m_Localized: Ramesses II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106
+    m_Localized: Hatshepsut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107
+    m_Localized: Akhenaten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108
+    m_Localized: Which ancient epic, originating from Mesopotamia, tells of a king-hero
+      seeking immortality and contains a description of the great flood?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109
+    m_Localized: 'Ancient scribes wrote: "His journey was long and painful, he sought
+      eternal life, and the story of the great flood flowed from the lips of Utnapishtim."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110
+    m_Localized: It is one of the oldest literary works in the world, telling about
+      the fate of the mythical king of Uruk and his friend Enkidu. It contains many
+      universal motifs, including the story of a catastrophic flood.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111
+    m_Localized: Odyssey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112
+    m_Localized: Book of the Dead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113
+    m_Localized: Epic of Gilgamesh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114
+    m_Localized: Mahabharata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115
+    m_Localized: Who in ancient Egypt served as a scribe, lawyer, accountant, and
+      often an official, being crucial for the functioning of the state?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116
+    m_Localized: 'Wise Amenemope advised his son: "Be a scribe, and you will be master
+      of your destiny, you will sit in respect, and your words will have power."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117
+    m_Localized: This was a group of educated people who had the ability to read
+      and write hieroglyphs, which was rare. Their work was the basis of administration,
+      religion, and economy, ensuring them a high social status.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118
+    m_Localized: Warriors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119
+    m_Localized: Farmers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120
+    m_Localized: Scribes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121
+    m_Localized: Architects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122
+    m_Localized: What was the main source of labor used for the construction of monumental
+      buildings in ancient Egypt?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123
+    m_Localized: 'Herodotus, describing the construction of the pyramids, wrote:
+      "Not slaves, but free Egyptians, who worked in exchange for grain when the
+      Nile flooded and they could not cultivate the land."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124
+    m_Localized: Most of the labor force came from peasants who were employed in
+      public works during the periods of the Nile floods, when their fields were
+      inundated. They received payment in the form of food.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125
+    m_Localized: Slaves from conquered lands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126
+    m_Localized: Peasants working as part of state obligations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127
+    m_Localized: Soldiers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128
+    m_Localized: Foreign mercenaries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129
+    m_Localized: Which deity became the most important state god in the New Kingdom
+      of Egypt, especially after the unification of Upper and Lower Egypt?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130
+    m_Localized: 'Inscriptions from Karnak proclaimed: "Amun-Re, king of the gods,
+      lord of the thrones of the world, from whom all life and the power of the pharaoh
+      come."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131
+    m_Localized: Originally a local deity from Thebes, after the expulsion of the
+      Hyksos and the unification of Egypt by the rulers of Thebes, his cult merged
+      with the cult of Re, becoming a central element of the state religion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132
+    m_Localized: Osiris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133
+    m_Localized: Horus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134
+    m_Localized: Amun-Re
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135
+    m_Localized: Ptah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136
+    m_Localized: From what Neolithic period in China do some of the earliest evidence
+      of millet and rice cultivation and the development of advanced painted pottery
+      originate?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137
+    m_Localized: Archaeologist Li Ji wrote about "vessels that tell the story of
+      ancient settlements, their agriculture, and emerging art."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138
+    m_Localized: These were Neolithic cultures developing in the Yellow River and
+      Yangtze River basins, which laid the foundations for Chinese civilization by
+      introducing large-scale agriculture and characteristic artistic forms.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139
+    m_Localized: Stone Age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140
+    m_Localized: Yangshao and Longshan cultures
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141
+    m_Localized: Xia Dynasty period
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142
+    m_Localized: Warring States period
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143
+    m_Localized: Which ruler, depicted in the image, created the first empire in
+      history, uniting the Mesopotamian city-states under one rule?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144
+    m_Localized: 'Akkadian inscriptions proclaimed: "Sargon, king of Akkad, king
+      of Kish, conqueror, who subdued all Sumer and extended his reign to the Upper
+      and Lower Seas."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145
+    m_Localized: His reign initiated the period of Akkad's dominance over Sumer around
+      2334 BCE. He created a centralized state with a unified administration, which
+      became a model for later empires.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146
+    m_Localized: Hammurabi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147
+    m_Localized: Ur-Nammu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148
+    m_Localized: Sargon the Great
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149
+    m_Localized: Gudea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150
+    m_Localized: What was the purpose of these objects characteristic of Mesopotamia,
+      often decorated with mythological or religious scenes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151
+    m_Localized: Archaeologist Henri Frankfort described them as "miniature worlds,
+      worn on the person and used to seal documents, symbolizing status and authority."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152
+    m_Localized: These were small, cylindrical objects made of stone, with engraved
+      designs. Rolled over clay, they left a repeatable impression, serving as a
+      personal signature, a seal for securing property, and also an amulet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153
+    m_Localized: Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154
+    m_Localized: Jewelry items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155
+    m_Localized: Seals for marking documents and property
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156
+    m_Localized: Writing tools
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157
+    m_Localized: Which Egyptian deity symbolized resurrection, afterlife, and fertility,
+      acting as the judge of the dead?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158
+    m_Localized: 'In hymns to Osiris it was proclaimed: "Behold the king of the dead,
+      he who rose from the grave, bestowing eternal life upon those who follow him."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159
+    m_Localized: His myth of death and rebirth was central to Egyptian beliefs about
+      the afterlife. He was also associated with the Nile floods and regenerating
+      nature, and his cult was widespread among all social classes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160
+    m_Localized: Ra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161
+    m_Localized: Seth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162
+    m_Localized: Anubis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163
+    m_Localized: Osiris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164
+    m_Localized: What was the main reason for building monumental defensive walls
+      around cities and settlements in ancient China?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 165
+    m_Localized: 'As ancient Chinese strategists emphasized: "Walls are the strength
+      of the state, protection against barbarians, and a sign of civilization in
+      the face of chaos."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166
+    m_Localized: During the early dynasties and later, the threat from nomadic peoples
+      from the north and internal conflicts between states favored the development
+      of powerful defensive systems made of rammed earth.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 167
+    m_Localized: They protected against river floods.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 168
+    m_Localized: They served as a symbol of status.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 169
+    m_Localized: Defense against invasions and internal enemies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170
+    m_Localized: They were a place for temples.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 171
+    m_Localized: What was the main economic significance of trade routes, such as
+      those from Mesopotamia to the Indus Valley, during the Bronze Age?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 172
+    m_Localized: 'Ancient merchants used to say: "The road is long, but the goods
+      are valuable, and wealth flows from exchanging what we lack for what others
+      have."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173
+    m_Localized: They enabled the exchange of raw materials (e.g., metals, precious
+      stones, wood), which were scarce in a given region, for finished products,
+      food, or other goods. They were the engine of economic and cultural development.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 174
+    m_Localized: They facilitated population migrations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175
+    m_Localized: They provided access to rare raw materials and luxury goods.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176
+    m_Localized: They were used for moving troops.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177
+    m_Localized: They were routes for religious pilgrimages.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
