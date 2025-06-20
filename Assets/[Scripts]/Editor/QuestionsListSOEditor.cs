@@ -160,5 +160,48 @@ public class QuestionsListSOEditor : Editor
             EditorUtility.SetDirty(questionsList);
             AssetDatabase.SaveAssets();
         }
+
+        EditorGUILayout.Space();
+
+        if (GUILayout.Button("Validate Answers"))
+        {
+            bool allValid = true;
+
+            for (int chapterIndex = 0; chapterIndex < questionsList.Chapters.Count; chapterIndex++)
+            {
+                var chapter = questionsList.Chapters[chapterIndex];
+
+                if (chapter == null || chapter.Questions == null)
+                {
+                    Debug.LogWarning($"Chapter {chapterIndex + 1} is null or has no questions.");
+                    continue;
+                }
+
+                for (int questionIndex = 0; questionIndex < chapter.Questions.Count; questionIndex++)
+                {
+                    var question = chapter.Questions[questionIndex];
+
+                    if (question == null || question.Answers == null || question.Answers.Count == 0)
+                    {
+                        Debug.LogWarning($"Question {questionIndex + 1} in Chapter {chapterIndex + 1} is missing or has no answers.");
+                        allValid = false;
+                        continue;
+                    }
+
+                    int correctCount = question.Answers.Count(a => a != null && a.IsCorrect);
+
+                    if (correctCount != 1)
+                    {
+                        Debug.LogError($"Question {questionIndex + 1} in Chapter {chapterIndex + 1} has {correctCount} correct answers (should be exactly 1).");
+                        allValid = false;
+                    }
+                }
+            }
+
+            if (allValid)
+                Debug.Log("All questions have exactly one correct answer.");
+            else
+                Debug.LogWarning("Some questions have invalid correct answer settings. See logs for details.");
+        }
     }
 }
