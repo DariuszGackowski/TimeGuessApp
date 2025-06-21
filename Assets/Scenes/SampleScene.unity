@@ -119,39 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &386118525 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6156266668621610944, guid: f75dc3244a5b27140ab0e07cb8a3ca01, type: 3}
-  m_PrefabInstance: {fileID: 5007959763823284615}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &386118529
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 386118525}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 56eb0353ae6e5124bb35b17aff880f16, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_StringReference:
-    m_TableReference:
-      m_TableCollectionName: 
-    m_TableEntryReference:
-      m_KeyId: 0
-      m_Key: 
-    m_FallbackState: 0
-    m_WaitForCompletion: 0
-    m_LocalVariables: []
-  m_FormatArguments: []
-  m_UpdateString:
-    m_PersistentCalls:
-      m_Calls: []
-  references:
-    version: 2
-    RefIds: []
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -244,39 +211,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &949414327 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5861116797110194178, guid: f75dc3244a5b27140ab0e07cb8a3ca01, type: 3}
-  m_PrefabInstance: {fileID: 5007959763823284615}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &949414331
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 949414327}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 56eb0353ae6e5124bb35b17aff880f16, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_StringReference:
-    m_TableReference:
-      m_TableCollectionName: 
-    m_TableEntryReference:
-      m_KeyId: 0
-      m_Key: 
-    m_FallbackState: 0
-    m_WaitForCompletion: 0
-    m_LocalVariables: []
-  m_FormatArguments: []
-  m_UpdateString:
-    m_PersistentCalls:
-      m_Calls: []
-  references:
-    version: 2
-    RefIds: []
 --- !u!1 &1107438136
 GameObject:
   m_ObjectHideFlags: 0
@@ -1504,13 +1438,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 6156266668621610944, guid: f75dc3244a5b27140ab0e07cb8a3ca01, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 386118529}
-    - targetCorrespondingSourceObject: {fileID: 5861116797110194178, guid: f75dc3244a5b27140ab0e07cb8a3ca01, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 949414331}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f75dc3244a5b27140ab0e07cb8a3ca01, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
