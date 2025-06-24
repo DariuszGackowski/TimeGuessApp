@@ -1,40 +1,39 @@
 🏛️ TimeGuess App
 
-to edukacyjna gra mobilna, w której gracz zgaduje postacie, wydarzenia i odkrycia historyczne — na podstawie ikon, cytatów oraz krótkiego tła historycznego.
+TimeGuess is an educational mobile game where players guess historical figures, events, and discoveries — using images, quotes, and short historical background as clues.
 
-📚 O grze
+📚 About the Game
 
-Wciel się w rolę odkrywcy historii i sprawdź swoją wiedzę na temat różnych epok — od starożytnych cywilizacji po współczesność. Każde pytanie opiera się na trzech elementach:
+Step into the shoes of a history explorer and test your knowledge across different eras — from ancient civilizations to the modern age. Each quiz card is built from three elements:
+An image or icon representing a person, event, or invention
+A quote or opinion as the first hint
+A historical background (50–70 words) as the second hint
+Your goal is to choose the correct answer from four options.
 
--Obraz lub ikona reprezentująca postać, wydarzenie lub wynalazek
--Cytat lub opinia jako pierwsza podpowiedź
--Tło historyczne (50–70 słów), jako druga podpowiedź
--Twoim zadaniem jest wybrać poprawną odpowiedź z czterech opcji.
+🎮 Question Types
 
-🎮 Typy pytań
+Historical figures (e.g. Julius Caesar, Marie Curie)
+Key events (e.g. Battle of Stalingrad, French Revolution)
+Discoveries and inventions (e.g. printing press, computer, cuneiform script)
 
--Postacie historyczne (np. Juliusz Cezar, Maria Skłodowska-Curie)
--Wydarzenia kluczowe (np. Bitwa pod Stalingradem, Rewolucja Francuska)
--Odkrycia i wynalazki (np. druk, komputer, pismo klinowe)
+🧠 Features
 
-🧠 Funkcje
+Quiz mode divided by historical eras
+4 types of hints (image, quote, background, 50/50 lifeline)
+Randomized answer positions each time
+History told through visuals and short narratives
+Offline mode (planned)
+Ad-free experience via premium version (planned)
 
--Tryb quizowy z podziałem na epoki historyczne
--4 typy podpowiedzi (obraz, cytat, tło, pół na pół)
--Losowe pozycje odpowiedzi przy każdym uruchomieniu pytania
--Historia opowiedziana poprzez symbole i krótkie narracje
--Tryb offline (planowany)
--Możliwość wyłączenia reklam przez zakup wersji premium (planowane)
+📆 Project Status
 
-📆 Status projektu
-
-🛠️ W trakcie produkcji
-Aktualnie gra jest rozwijana w silniku Unity, a dane quizów bazują na systemie Scriptable Objects.
+🛠️ Currently in development.
+The game is being built in Unity using a Scriptable Object–based system for managing quiz data.
 
 🚀 Roadmap
 
-- Podział na epoki historyczne
--Losowanie pozycji odpowiedzi
--UI i system przejść między rozdziałami
--Integracja z reklamami i systemem premium
--Publikacja na Android/iOS
+Historical era structure
+Randomized answer placement logic
+UI and chapter navigation system
+Ads and premium features integration
+Launch on Android and iOS
