@@ -21,6 +21,7 @@ namespace UI
 
         public GameObject MainSegment;
         public GameObject ChapterSegment;
+        public GameObject QuestionSegment;
 
         [Header("Chapter Setup")]
         public TextMeshProUGUI ChapterNameText;
@@ -31,13 +32,14 @@ namespace UI
 
         public void Awake()
         {
-            if (MainSegment == null || ChapterSegment == null)
+            if (MainSegment == null || ChapterSegment == null || QuestionSegment == null)
             {
                 Debug.LogError("Segment is not assigned in the UIManager.");
                 return;
             }
             MainSegment.SetActive(true);
             ChapterSegment.SetActive(false);
+            QuestionSegment.SetActive(false);
         }
         public void Start()
         {

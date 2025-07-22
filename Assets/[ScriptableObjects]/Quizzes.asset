@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d217e140f6e82cc459154dcbcc16e822, type: 3}
-  m_Name: Questions
+  m_Name: Quizzes
   m_EditorClassIdentifier: 
   Chapters:
   - Icon: {fileID: -7431931245510559275, guid: b2285da73658fe744ad25efaa973c961, type: 3}

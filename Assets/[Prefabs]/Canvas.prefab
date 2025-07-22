@@ -227,6 +227,7 @@ MonoBehaviour:
   - {fileID: 7873282917842847719}
   MainSegment: {fileID: 5266674198325969634}
   ChapterSegment: {fileID: 2699692862592225860}
+  QuestionSegment: {fileID: 138128056271691182}
   ChapterNameText: {fileID: 3149443786452802886}
   ChapterDescriptionText: {fileID: 7131834256138955128}
   ChapterMaxPointsText: {fileID: 3014947395323948634}
@@ -1748,7 +1749,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7545190449435486670, guid: fba7acf8d624df3448d0350035a39e29, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4256803083130373875}
   m_SourcePrefab: {fileID: 100100000, guid: fba7acf8d624df3448d0350035a39e29, type: 3}
 --- !u!224 &235653146838112182 stripped
 RectTransform:
@@ -1760,6 +1764,36 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7545190449435486670, guid: fba7acf8d624df3448d0350035a39e29, type: 3}
   m_PrefabInstance: {fileID: 2423810691265391404}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &4256803083130373875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5266674198325969634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.9098039, g: 0.85490197, b: 0.76862746, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
 --- !u!114 &7873282917842847719 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5539603335642246347, guid: fba7acf8d624df3448d0350035a39e29, type: 3}
@@ -2032,6 +2066,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7167144bddb86214280b896439ba028f, type: 3}
+--- !u!1 &138128056271691182 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2631114475534196833, guid: 7167144bddb86214280b896439ba028f, type: 3}
+  m_PrefabInstance: {fileID: 2695723307865243087}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &8654161759832231838 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6733128095133184593, guid: 7167144bddb86214280b896439ba028f, type: 3}

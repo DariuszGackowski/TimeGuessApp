@@ -13,7 +13,6 @@ namespace UI
         {
             UIManager.OnChapterSelect.Invoke(ChapterIndex);
         }
-
         public void SetMaxScoredPoints(int maxScoredPoints) 
         {
             MaxScoredPointsText.SetText(maxScoredPoints.ToString());
