@@ -489,10 +489,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2514749885846650010}
     m_Modifications:
-    - target: {fileID: 256324841638328372, guid: 35f1410e4cf0f174bafd2e7b6c1f1aba, type: 3}
-      propertyPath: m_text
-      value: TimeGuessApp
-      objectReference: {fileID: 0}
     - target: {fileID: 5062579557914226642, guid: 35f1410e4cf0f174bafd2e7b6c1f1aba, type: 3}
       propertyPath: m_Name
       value: TopBar

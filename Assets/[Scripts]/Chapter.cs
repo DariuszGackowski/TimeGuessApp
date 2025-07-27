@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 namespace Core
 {
@@ -20,16 +21,17 @@ namespace Core
         [NonSerialized] public int ScoredPoints = 0;
         [NonSerialized] public int MaxScoredPoints = 0;
 
-        public void GetScoredPoints()
+        public List<Question> ShuffleQuestions()
         {
-            ScoredPoints = 0;
-
-            foreach (var question in Questions)
+            for (int i = 0; i < Questions.Count; i++)
             {
-                ScoredPoints += (int)question.ScoredPoints;
+                Question question = Questions[i];
+                int randomIndex = Random.Range(i, Questions.Count);
+                Questions[i] = Questions[randomIndex];
+                Questions[randomIndex] = question;
             }
 
-            MaxScoredPoints = Mathf.Max(MaxScoredPoints, ScoredPoints);
+            return Questions;
         }
     }
 }

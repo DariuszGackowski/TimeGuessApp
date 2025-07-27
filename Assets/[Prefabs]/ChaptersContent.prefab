@@ -403,10 +403,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: ChapterButton (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 2684536992049874159, guid: a1282a0d47e18bf44893bfabde795c07, type: 3}
-      propertyPath: m_text
-      value: 0/25
-      objectReference: {fileID: 0}
     - target: {fileID: 7231117800774862727, guid: a1282a0d47e18bf44893bfabde795c07, type: 3}
       propertyPath: m_text
       value: " Staro\u017Cytne imperia i filozofia\n (800 p.n.e.\u2013 476 n.e.)"
