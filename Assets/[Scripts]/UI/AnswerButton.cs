@@ -9,6 +9,7 @@ namespace UI
     public class AnswerButton : MonoBehaviour
     {
         public bool IsCorrect;
+        public bool IsClickBlocked;
         public string AnswerID;
         public TextMeshProUGUI AnswerText;
 
@@ -16,6 +17,14 @@ namespace UI
         public Image AnswerImage;
         public Color CorrectColor;
         public Color IncorrectColor;
+        private void Awake()
+        {
+            UIManager.OnSelectionBlocked.AddListener(SwitchBlockSelect);
+        }
+        private void OnDestroy()
+        {
+            UIManager.OnSelectionBlocked.RemoveListener(SwitchBlockSelect);
+        }
         public void SetupAnswer(Answer answer, string table)
         {
             ResetButton();
@@ -29,9 +38,16 @@ namespace UI
         }
         public void OnClick()
         {
+            if (IsClickBlocked) return;
+
+            UIManager.OnSelectionBlocked.Invoke(true);
+
             StartCoroutine(HandleClick());
         }
-
+        private void SwitchBlockSelect(bool isClickBlocked) 
+        {
+            IsClickBlocked = isClickBlocked;
+        }
         private IEnumerator HandleClick()
         {
             if (IsCorrect)
@@ -40,6 +56,7 @@ namespace UI
             }
             else
             {
+                UIManager.OnBadAnswerSelect.Invoke();
                 AnswerImage.color = IncorrectColor;
             }
             yield return new WaitForSeconds(1f);

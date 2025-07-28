@@ -1,5 +1,7 @@
 using Core;
+using DG.Tweening;
 using ScriptableObjects;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using TMPro;
@@ -24,6 +26,8 @@ namespace UI
         public static UnityEvent<HintType> OnHintSelect = new();
         public static UnityEvent<HintType> OnHintCheck = new();
         public static UnityEvent<bool> OnAnswerSelect = new();
+        public static UnityEvent OnBadAnswerSelect = new();
+        public static UnityEvent<bool> OnSelectionBlocked = new();
 
         [Header("Main Setup")]
         public QuestionsListSO QuestionsData;
@@ -32,6 +36,8 @@ namespace UI
         public GameObject ChapterSegment;
         public GameObject QuestionSegment;
         public GameObject SettingsSegment;
+        public GameObject LoadingSegment;
+        public GameObject LoadingCircle;
 
         [Header("Settings Setup")]
         public TMP_Dropdown LanguageDropdown;
@@ -48,6 +54,7 @@ namespace UI
         public TextMeshProUGUI QuestionValueText1;
         public TextMeshProUGUI QuestionValueText2;
         public TextMeshProUGUI QuestionValueText3;
+        public TextMeshProUGUI ScoredPointsText;
         public AnswerButton Answer1;
         public AnswerButton Answer2;
         public AnswerButton Answer3;
@@ -66,6 +73,7 @@ namespace UI
         public GameObject AnswerBarObject;
         public GameObject HintBarObject;
         public GameObject DescriptionBarObject;
+        public GameObject ScorePopup;
         public Image QuestionImage;
 
         private List<Question> _currentQuestions;
@@ -73,17 +81,21 @@ namespace UI
         private float _scoredPoints;
         private Chapter _currentChapter;
         private List<Locale> _availableLocales;
+
         public void Awake()
         {
+            Application.targetFrameRate = 60;
+
+            ShowLoadingCircle(MainSegment);
+
             ShowMainSegment();
             InitializeLanguageDropdown();
-        }
-        public void Start()
-        {
+
             OnChapterSelect.AddListener(ChapterSegmentSetup);
             OnAnswerSelect.AddListener(CheckAnswer);
             OnHintSelect.AddListener(HintSetup);
             OnHintCheck.AddListener(CheckHint);
+            OnBadAnswerSelect.AddListener(ShowCorrectAnswer);
 
             RefreshChapterButtons();
         }
@@ -96,9 +108,55 @@ namespace UI
                 uiText.SetText(handle.Result);
             };
         }
-
         #region Main Segment UI
         //event in buttons
+        private void OpenAllSegments()
+        {
+            MainSegment.SetActive(true);
+            ChapterSegment.SetActive(true);
+            QuestionSegment.SetActive(true);
+            SettingsSegment.SetActive(true);
+            LoadingSegment.SetActive(true);
+
+            ScorePopup.SetActive(true);
+        }
+        private void HideAllSegments(GameObject segmentToActivate)
+        {
+            MainSegment.SetActive(false);
+            ChapterSegment.SetActive(false);
+            QuestionSegment.SetActive(false);
+            SettingsSegment.SetActive(false);
+            LoadingSegment.SetActive(false);
+
+            ScorePopup.SetActive(false);
+
+            segmentToActivate.SetActive(true);
+        }
+        private void ShowLoadingCircle(GameObject segmentToActivate)
+        {
+            OpenAllSegments();
+
+            LoadingCircle.SetActive(true);
+            float singleRotationDuration = 1f;
+            int loops = Mathf.RoundToInt(0.5f / singleRotationDuration);
+
+            LoadingCircle.transform.DORotate(
+                new Vector3(0, 0, -360),
+                singleRotationDuration,
+                RotateMode.LocalAxisAdd)
+                .SetLoops(loops, LoopType.Incremental)
+                .SetEase(Ease.Linear)
+                .OnComplete(() =>
+                {
+                    HideLoadingCircle();
+                    HideAllSegments(segmentToActivate);
+                });
+        }
+        private void HideLoadingCircle()
+        {
+            LoadingCircle.transform.DOKill();
+            LoadingCircle.SetActive(false);
+        }
         public void BackToMainMenu()
         {
             MainSegment.SetActive(true);
@@ -146,6 +204,9 @@ namespace UI
                 Debug.LogError($"Chapter at index {chapterIndex} is null.");
                 return;
             }
+
+            ShowLoadingCircle(ChapterSegment);
+
             _currentChapter = chapter;
 
             SetLocalizedTextOnce(ChapterNameText, chapter.LocalizationTableName, chapter.NameID);
@@ -176,11 +237,11 @@ namespace UI
         }
         private void CheckAnswer(bool isCorrect)
         {
-            float pointsToScore = _currentQuestions[_currentQuestion].Points;
-            float hintValue = _currentQuestions[_currentQuestion].HintValue;
-
             if (isCorrect)
             {
+                float pointsToScore = _currentQuestions[_currentQuestion].Points;
+                float hintValue = _currentQuestions[_currentQuestion].HintValue;
+
                 _scoredPoints += pointsToScore - (HintButton1.IsUsed ? hintValue : 0f) - (HintButton2.IsUsed ? hintValue : 0f) - (HintButton3.IsUsed ? hintValue : 0f);
             }
             else
@@ -189,6 +250,18 @@ namespace UI
             }
 
             SetNextQuestion();
+        }
+        private void ShowCorrectAnswer()
+        {
+            List<AnswerButton> allAnswers = new List<AnswerButton> { Answer1, Answer2, Answer3, Answer4 };
+            foreach (var answer in allAnswers)
+            {
+                if (answer.IsCorrect)
+                {
+                    answer.AnswerImage.color = answer.CorrectColor;
+                }
+            }
+            ShowAnswerBar();
         }
         private void QuestionSegmentSetup()
         {
@@ -216,7 +289,7 @@ namespace UI
             SetLocalizedTextOnce(BackgroundHintText1, table, question.HistoricalBackgroundID);
             SetLocalizedTextOnce(BackgroundHintText2, table, question.HistoricalBackgroundID);
 
-            List<Answer> answers = question.ShuffleAnswers();        
+            List<Answer> answers = question.ShuffleAnswers();
 
             Answer1.SetupAnswer(answers[0], table);
             Answer2.SetupAnswer(answers[1], table);
@@ -231,6 +304,9 @@ namespace UI
             QuoteHintObject2.SetActive(false);
             BackgroundHintObject1.SetActive(false);
             BackgroundHintObject2.SetActive(false);
+            ScorePopup.SetActive(false);
+
+            OnSelectionBlocked.Invoke(false);
         }
         private void SetNextQuestion()
         {
@@ -247,6 +323,16 @@ namespace UI
         private void EndChapter()
         {
             _currentChapter.MaxScoredPoints = Mathf.Max(_currentChapter.MaxScoredPoints, (int)_scoredPoints);
+
+            ScoredPointsText.SetText(_scoredPoints.ToString());
+            ScorePopup.SetActive(true);
+
+            StartCoroutine(DelayedPostScoreActions());
+        }
+        private IEnumerator DelayedPostScoreActions()
+        {
+            yield return new WaitForSeconds(2f);
+
             RefreshChapterButtons();
             BackToMainMenu();
         }
@@ -363,6 +449,8 @@ namespace UI
         }
         private void OnLanguageSelected(int index)
         {
+            ShowLoadingCircle(SettingsSegment);
+
             SetLocaleByIndex(index);
 
             string code = _availableLocales[index].Identifier.Code;
@@ -377,7 +465,7 @@ namespace UI
             }
         }
         //event in buttons
-        public void ResetChapters() 
+        public void ResetChapters()
         {
             foreach (var chapter in QuestionsData.Chapters)
             {

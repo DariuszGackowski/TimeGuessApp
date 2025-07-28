@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 5422eac9126ccda48af8dafcb6a3b1e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5263177223324661382
+    second: LoadingCircle_0
+  - first:
+      213: 7284005098737000140
+    second: LoadingCircle_1
+  - first:
+      213: -452167891170400977
+    second: LoadingCircle_2
+  - first:
+      213: -2274638870112081573
+    second: LoadingCircle_3
+  - first:
+      213: -5544292132465641621
+    second: LoadingCircle_4
+  - first:
+      213: 197560908246237486
+    second: LoadingCircle_5
+  - first:
+      213: -7659296032016746
+    second: LoadingCircle_6
+  - first:
+      213: -5574144899298048026
+    second: LoadingCircle_7
+  - first:
+      213: 9194830009321964887
+    second: LoadingCircle_8
+  - first:
+      213: 338592587235727980
+    second: LoadingCircle_9
+  - first:
+      213: 3636686589170416867
+    second: LoadingCircle_10
+  - first:
+      213: 8510694775058361217
+    second: LoadingCircle_11
+  - first:
+      213: -7699946650064321995
+    second: LoadingCircle_12
+  - first:
+      213: 7584081874994664629
+    second: LoadingCircle_13
+  - first:
+      213: 3442742124746893901
+    second: LoadingCircle_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LoadingCircle_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 353
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68671329ccf8a0940800000000000000
+      internalID: 5263177223324661382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 401
+        width: 40
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce5a548b0cf51560800000000000000
+      internalID: 7284005098737000140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 389
+        width: 67
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2563fbd2b399b9f0800000000000000
+      internalID: -452167891170400977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 353
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b596caacffbde60e0800000000000000
+      internalID: -2274638870112081573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 299
+        width: 107
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6774613ea7be03b0800000000000000
+      internalID: -5544292132465641621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 299
+        width: 107
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21458d6990edb200800000000000000
+      internalID: 197560908246237486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69638cc29e9c4eff0800000000000000
+      internalID: -7659296032016746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 236
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7c8c64fb8a4a2b0800000000000000
+      internalID: -5574144899298048026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 147
+        width: 107
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755ccbb5d299a9f70800000000000000
+      internalID: 9194830009321964887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a14c50a2ce2b400800000000000000
+      internalID: 338592587235727980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 68
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecfde25f2b187230800000000000000
+      internalID: 3636686589170416867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 147
+        width: 107
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b602b6ecf0c1670800000000000000
+      internalID: 8510694775058361217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 16
+        width: 67
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532057d515b442590800000000000000
+      internalID: -7699946650064321995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 40
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4198a7842104960800000000000000
+      internalID: 7584081874994664629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingCircle_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 16
+        width: 67
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4aefc6d8b317cf20800000000000000
+      internalID: 3442742124746893901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LoadingCircle_0: 5263177223324661382
+      LoadingCircle_1: 7284005098737000140
+      LoadingCircle_10: 3636686589170416867
+      LoadingCircle_11: 8510694775058361217
+      LoadingCircle_12: -7699946650064321995
+      LoadingCircle_13: 7584081874994664629
+      LoadingCircle_14: 3442742124746893901
+      LoadingCircle_2: -452167891170400977
+      LoadingCircle_3: -2274638870112081573
+      LoadingCircle_4: -5544292132465641621
+      LoadingCircle_5: 197560908246237486
+      LoadingCircle_6: -7659296032016746
+      LoadingCircle_7: -5574144899298048026
+      LoadingCircle_8: 9194830009321964887
+      LoadingCircle_9: 338592587235727980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
