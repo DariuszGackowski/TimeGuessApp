@@ -10,18 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: chapters_ja
+  m_Name: UI_es
   m_EditorClassIdentifier: 
   m_LocaleId:
-    m_Code: ja
-  m_SharedData: {fileID: 11400000, guid: f6d28f657f4ec4249ab802fa0c40ec8a, type: 2}
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 214942160eef21c4fae81bee2deb3309, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData:
-  - m_Id: 10859102208
-    m_Localized: "\u6587\u660E\u306E\u8A95\u751F\n\uFF08\u7D00\u5143\u524D3000\u5E74\u9803\uFF5E\u7D00\u5143\u524D800\u5E74\uFF09"
-    m_Metadata:
-      m_Items: []
+  m_TableData: []
   references:
     version: 2
     RefIds: []
