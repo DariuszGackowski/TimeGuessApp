@@ -16,8 +16,98 @@ MonoBehaviour:
     m_Code: en
   m_SharedData: {fileID: 11400000, guid: 214942160eef21c4fae81bee2deb3309, type: 2}
   m_Metadata:
-    m_Items: []
-  m_TableData: []
+    m_Items:
+    - rid: 6148630989898776663
+  m_TableData:
+  - m_Id: 1
+    m_Localized: "Thank you for downloading the app! If you have ideas, suggestions,
+      or would like to see new features \u2014 write to me: dariusz.gackowski@interia.pl
+      The app contains ads, which help it sustain itself and enable further development.
+      Depending on the number of downloads and interest, further updates are planned.
+      Your opinion really matters \u2014 thank you for being here!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Selected Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Reset Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: 'Congratulations, your score is:'
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776663
+  - m_Id: 7
+    m_Localized: 'Question: {number}/25'
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776663
+  - m_Id: 8
+    m_Localized: 'Quote:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: 'Historical Background:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: 'Number of questions: 25'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Introduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: GuessHistory App
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9997215907840
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12404301807616
+    m_Localized: 'Choose an answer:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13503805046784
+    m_Localized: A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13635967565824
+    m_Localized: B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13759716311040
+    m_Localized: C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13860421550080
+    m_Localized: D
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 6148630989898776663
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 6
+        - id: 7

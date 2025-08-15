@@ -16,13 +16,19 @@ MonoBehaviour:
   m_GUID: d93bb8892c935624eb6e158f252c3d93
   m_SerializeEntries:
   - m_GUID: 3f8aa24c7d0f5104098274afdf39476e
-    m_Address: chapters_zh-Hans
+    m_Address: UI_Chapters_zh-Hans
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-zh-Hans
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e14ec79a0e9e1804ea7bf1b8f6ae2a66
     m_Address: chapter1_zh-Hans
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh-Hans
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef6239c2564d60a49a27e3ff62905b3b
+    m_Address: UI_zh-Hans
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-zh-Hans

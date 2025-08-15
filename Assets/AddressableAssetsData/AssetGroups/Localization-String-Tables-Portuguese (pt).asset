@@ -16,13 +16,19 @@ MonoBehaviour:
   m_GUID: 51c5e7d295e3f8246944d7bd58c6d912
   m_SerializeEntries:
   - m_GUID: 1a3016a433b15084b9bc210e9d62a79a
-    m_Address: chapters_pt
+    m_Address: UI_Chapters_pt
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-pt
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 89ae25ca82701e7438d6ea5d17fb56b6
     m_Address: chapter1_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e428af593d2eccb46a67af20bdf13be7
+    m_Address: UI_pt
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-pt

@@ -16,8 +16,100 @@ MonoBehaviour:
     m_Code: fr
   m_SharedData: {fileID: 11400000, guid: 214942160eef21c4fae81bee2deb3309, type: 2}
   m_Metadata:
-    m_Items: []
-  m_TableData: []
+    m_Items:
+    - rid: 6148630989898776664
+  m_TableData:
+  - m_Id: 1
+    m_Localized: "Merci d'avoir t\xE9l\xE9charg\xE9 l'application ! Si vous avez
+      des id\xE9es, suggestions ou souhaitez voir de nouvelles fonctionnalit\xE9s
+      \u2014 \xE9crivez-moi : dariusz.gackowski@interia.pl L'application contient
+      des publicit\xE9s, ce qui l'aide \xE0 s'autofinancer et \xE0 permettre un d\xE9veloppement
+      ult\xE9rieur. En fonction du nombre de t\xE9l\xE9chargements et de l'int\xE9r\xEAt,
+      d'autres mises \xE0 jour sont pr\xE9vues. Votre avis compte vraiment \u2014
+      merci d'\xEAtre l\xE0 !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: "Langue s\xE9lectionn\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: "R\xE9initialiser les points"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: "R\xE9initialiser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Informations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: "F\xE9licitations, votre score est:"
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776664
+  - m_Id: 7
+    m_Localized: 'Question: {number}/25'
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776664
+  - m_Id: 8
+    m_Localized: 'Citation:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: 'Contexte historique:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: "D\xE9marrer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: 'Nombre de questions: 25'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Introduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: GuessHistory App
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9997215907840
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12404301807616
+    m_Localized: "Choisissez une r\xE9ponse:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13503805046784
+    m_Localized: A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13635967565824
+    m_Localized: B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13759716311040
+    m_Localized: C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13860421550080
+    m_Localized: D
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 6148630989898776664
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 6
+        - id: 7

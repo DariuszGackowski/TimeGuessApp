@@ -16,8 +16,99 @@ MonoBehaviour:
     m_Code: pt
   m_SharedData: {fileID: 11400000, guid: 214942160eef21c4fae81bee2deb3309, type: 2}
   m_Metadata:
-    m_Items: []
-  m_TableData: []
+    m_Items:
+    - rid: 6148630989898776669
+  m_TableData:
+  - m_Id: 1
+    m_Localized: "Obrigado por baixar o aplicativo! Se voc\xEA tiver ideias, sugest\xF5es
+      ou quiser ver novos recursos \u2014 escreva para mim: dariusz.gackowski@interia.pl
+      O aplicativo cont\xE9m an\xFAncios, que ajudam a sustent\xE1-lo e permitem
+      seu desenvolvimento futuro. Dependendo do n\xFAmero de downloads e do interesse,
+      est\xE3o planejadas mais atualiza\xE7\xF5es. A sua opini\xE3o \xE9 muito importante
+      \u2014 obrigado por estar aqui!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Idioma selecionado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Redefinir pontos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Redefinir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: "Informa\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: "Parab\xE9ns, sua pontua\xE7\xE3o \xE9:"
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776669
+  - m_Id: 7
+    m_Localized: 'Pergunta: {number}/25'
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776669
+  - m_Id: 8
+    m_Localized: "Cita\xE7\xE3o:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: "Contexto hist\xF3rico:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Iniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: "N\xFAmero de perguntas: 25"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: "Introdu\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: GuessHistory App
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9997215907840
+    m_Localized: "Configura\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12404301807616
+    m_Localized: 'Escolha uma resposta:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13503805046784
+    m_Localized: A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13635967565824
+    m_Localized: B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13759716311040
+    m_Localized: C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13860421550080
+    m_Localized: D
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 6148630989898776669
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 6
+        - id: 7

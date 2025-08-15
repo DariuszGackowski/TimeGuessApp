@@ -6,7 +6,7 @@ Texture2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: NotoSansJP-Medium Atlas
+  m_Name: NotoSansJP-Medium SDF Atlas
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -37,10 +37,10 @@ Texture2D:
     m_WrapV: 0
     m_WrapW: 0
   m_LightmapFormat: 0
-  m_ColorSpace: 1
+  m_ColorSpace: 0
   m_PlatformBlob: 
   image data: 1
-  _typelessdata: cd
+  _typelessdata: 00
   m_StreamData:
     serializedVersion: 2
     offset: 0
@@ -109,7 +109,7 @@ Material:
     - _GlowOffset: 0
     - _GlowOuter: 0.05
     - _GlowPower: 0.75
-    - _GradientScale: 10
+    - _GradientScale: 6
     - _LightAngle: 3.1416
     - _MaskSoftnessX: 0
     - _MaskSoftnessY: 0
@@ -132,8 +132,8 @@ Material:
     - _StencilOp: 0
     - _StencilReadMask: 255
     - _StencilWriteMask: 255
-    - _TextureHeight: 1024
-    - _TextureWidth: 1024
+    - _TextureHeight: 8192
+    - _TextureWidth: 8192
     - _UnderlayDilate: 0
     - _UnderlayOffsetX: 0
     - _UnderlayOffsetY: 0
@@ -172,24 +172,24 @@ MonoBehaviour:
     m_FaceIndex: 0
     m_FamilyName: Noto Sans JP
     m_StyleName: Medium
-    m_PointSize: 90
+    m_PointSize: 64
     m_Scale: 1
     m_UnitsPerEM: 1000
-    m_LineHeight: 130.32
-    m_AscentLine: 104.4
-    m_CapLine: 67
-    m_MeanLine: 50
+    m_LineHeight: 92.672
+    m_AscentLine: 74.24
+    m_CapLine: 48
+    m_MeanLine: 36
     m_Baseline: 0
-    m_DescentLine: -25.92
-    m_SuperscriptOffset: 104.4
+    m_DescentLine: -18.432
+    m_SuperscriptOffset: 74.24
     m_SuperscriptSize: 0.5
-    m_SubscriptOffset: -25.92
+    m_SubscriptOffset: -18.432
     m_SubscriptSize: 0.5
-    m_UnderlineOffset: -13.500001
-    m_UnderlineThickness: 4.5
-    m_StrikethroughOffset: 20
-    m_StrikethroughThickness: 4.5
-    m_TabWidth: 20
+    m_UnderlineOffset: -9.6
+    m_UnderlineThickness: 3.2
+    m_StrikethroughOffset: 14.4
+    m_StrikethroughThickness: 3.2
+    m_TabWidth: 14
   m_Material: {fileID: -2552313875710835738}
   m_SourceFontFileGUID: a9810a58462168642ba36ce2f24c5d23
   m_CreationSettings:
@@ -197,15 +197,15 @@ MonoBehaviour:
     sourceFontFileGUID: a9810a58462168642ba36ce2f24c5d23
     faceIndex: 0
     pointSizeSamplingMode: 0
-    pointSize: 90
-    padding: 9
+    pointSize: 64
+    padding: 5
     paddingMode: 2
     packingMode: 0
-    atlasWidth: 1024
-    atlasHeight: 1024
-    characterSetSelectionMode: 7
-    characterSequence: 
-    referencedFontAssetGUID: 
+    atlasWidth: 8192
+    atlasHeight: 8192
+    characterSetSelectionMode: 6
+    characterSequence: 3000-303F,3040-309F,30A0-30FF,4E00-9FAF
+    referencedFontAssetGUID: 790ce06200d164f40a446c34a56342c0
     referencedTextAssetGUID: 
     fontStyle: 0
     fontStyleModifier: 0
@@ -223,16 +223,16 @@ MonoBehaviour:
   m_IsMultiAtlasTexturesEnabled: 0
   m_GetFontFeatures: 1
   m_ClearDynamicDataOnBuild: 1
-  m_AtlasWidth: 1024
-  m_AtlasHeight: 1024
-  m_AtlasPadding: 9
+  m_AtlasWidth: 8192
+  m_AtlasHeight: 8192
+  m_AtlasPadding: 5
   m_AtlasRenderMode: 4165
   m_UsedGlyphRects: []
   m_FreeGlyphRects:
   - m_X: 0
     m_Y: 0
-    m_Width: 1023
-    m_Height: 1023
+    m_Width: 8191
+    m_Height: 8191
   m_FontFeatureTable:
     m_MultipleSubstitutionRecords: []
     m_LigatureSubstitutionRecords: []

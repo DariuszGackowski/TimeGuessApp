@@ -22,7 +22,13 @@ MonoBehaviour:
     - Locale-en
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 78ffcbc3deed4c349a7dfaa6ed87ba11
-    m_Address: chapters_en
+    m_Address: UI_Chapters_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2b670a051745674da03a62897204104
+    m_Address: UI_en
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en

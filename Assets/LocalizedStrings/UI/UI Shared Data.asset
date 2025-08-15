@@ -13,8 +13,84 @@ MonoBehaviour:
   m_Name: UI Shared Data
   m_EditorClassIdentifier: 
   m_TableCollectionName: UI
-  m_TableCollectionNameGuidString: 00000000000000000000000000000000
-  m_Entries: []
+  m_TableCollectionNameGuidString: 214942160eef21c4fae81bee2deb3309
+  m_Entries:
+  - m_Id: 1
+    m_Key: app_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Key: selected_language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Key: reset_points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Key: reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Key: information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Key: congratulations_score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Key: question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Key: quote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Key: historical_background
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Key: start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Key: number_of_questions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Key: introduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Key: guesshistory_app
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9997215907840
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12404301807616
+    m_Key: select_answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13503805046784
+    m_Key: answer_a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13635967565824
+    m_Key: answer_b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13759716311040
+    m_Key: answer_c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13860421550080
+    m_Key: answer_d
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

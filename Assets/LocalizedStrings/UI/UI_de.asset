@@ -16,8 +16,99 @@ MonoBehaviour:
     m_Code: de
   m_SharedData: {fileID: 11400000, guid: 214942160eef21c4fae81bee2deb3309, type: 2}
   m_Metadata:
-    m_Items: []
-  m_TableData: []
+    m_Items:
+    - rid: 6148630989898776665
+  m_TableData:
+  - m_Id: 1
+    m_Localized: "Vielen Dank f\xFCr das Herunterladen der App! Wenn Sie Ideen, Vorschl\xE4ge
+      haben oder neue Funktionen sehen m\xF6chten \u2014 schreiben Sie mir: dariusz.gackowski@interia.pl
+      Die App enth\xE4lt Werbung, die hilft, sich selbst zu finanzieren und eine
+      Weiterentwicklung zu erm\xF6glichen. Abh\xE4ngig von der Anzahl der Downloads
+      und dem Interesse sind weitere Updates geplant. Ihre Meinung ist wirklich wichtig
+      \u2014 danke, dass Sie hier sind!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: "Ausgew\xE4hlte Sprache"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: "Punkte zur\xFCcksetzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: "Zur\xFCcksetzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Informationen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: "Gl\xFCckwunsch, Ihre Punktzahl ist:"
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776665
+  - m_Id: 7
+    m_Localized: 'Frage: {number}/25'
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776665
+  - m_Id: 8
+    m_Localized: 'Zitat:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: 'Historischer Hintergrund:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Starten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: 'Anzahl der Fragen: 25'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: "Einf\xFChrung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: GuessHistory App
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9997215907840
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12404301807616
+    m_Localized: "W\xE4hlen Sie eine Antwort:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13503805046784
+    m_Localized: A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13635967565824
+    m_Localized: B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13759716311040
+    m_Localized: C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13860421550080
+    m_Localized: D
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 6148630989898776665
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 6
+        - id: 7

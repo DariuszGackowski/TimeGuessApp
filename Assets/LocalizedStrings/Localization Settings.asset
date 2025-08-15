@@ -88,7 +88,7 @@ MonoBehaviour:
         - rid: 5813119550454497542
         - rid: 5813119550454497543
         - rid: 5813119550454497544
-        - rid: 5813119550454497545
+        - rid: 6148630989898776681
         m_Formatters:
         - rid: 5813119550454497539
         - rid: 5813119550454497546
@@ -99,6 +99,7 @@ MonoBehaviour:
         - rid: 5813119550454497551
         - rid: 5813119550454497552
         - rid: 5813119550454497553
+        - rid: 6148630989898776696
     - rid: 5813119550454497537
       type: {class: SmartSettings, ns: UnityEngine.Localization.SmartFormat.Core.Settings, asm: Unity.Localization}
       data:
@@ -142,9 +143,6 @@ MonoBehaviour:
       data: 
     - rid: 5813119550454497544
       type: {class: ReflectionSource, ns: UnityEngine.Localization.SmartFormat.Extensions, asm: Unity.Localization}
-      data: 
-    - rid: 5813119550454497545
-      type: {class: DefaultSource, ns: UnityEngine.Localization.SmartFormat.Extensions, asm: Unity.Localization}
       data: 
     - rid: 5813119550454497546
       type: {class: PluralLocalizationFormatter, ns: UnityEngine.Localization.SmartFormat.Extensions, asm: Unity.Localization}
@@ -204,4 +202,14 @@ MonoBehaviour:
         m_Names:
         - default
         - d
+        - 
+    - rid: 6148630989898776681
+      type: {class: DefaultSource, ns: UnityEngine.Localization.SmartFormat.Extensions, asm: Unity.Localization}
+      data: 
+    - rid: 6148630989898776696
+      type: {class: MyLocalizedNumberFormatter, ns: , asm: Assembly-CSharp}
+      data:
+        m_Names:
+        - localizedNumber
+        - l
         - 

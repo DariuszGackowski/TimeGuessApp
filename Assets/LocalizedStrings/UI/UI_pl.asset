@@ -16,8 +16,100 @@ MonoBehaviour:
     m_Code: pl
   m_SharedData: {fileID: 11400000, guid: 214942160eef21c4fae81bee2deb3309, type: 2}
   m_Metadata:
-    m_Items: []
-  m_TableData: []
+    m_Items:
+    - rid: 6148630989898776668
+  m_TableData:
+  - m_Id: 1
+    m_Localized: "Dzi\u0119kuj\u0119 za pobranie aplikacji! Je\u015Bli masz pomys\u0142y,
+      sugestie lub chcia\u0142by\u015B zobaczy\u0107 nowe funkcje \u2014 napisz do
+      mnie: dariusz.gackowski@interia.pl Aplikacja zawiera reklamy, kt\xF3re pomagaj\u0105
+      jej zarabia\u0107 na siebie i umo\u017Cliwiaj\u0105 dalszy rozw\xF3j. W zale\u017Cno\u015Bci
+      od liczby pobra\u0144 i zainteresowania, planowane s\u0105 kolejne aktualizacje.
+      Twoja opinia naprawd\u0119 ma znaczenie \u2014 dzi\u0119kuj\u0119, \u017Ce
+      jeste\u015B!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: "Wybrany j\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: "Resetowanie punkt\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Resetuj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Informacje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: "Gratulacje tw\xF3j wynik to:"
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776668
+  - m_Id: 7
+    m_Localized: 'Pytanie: {number}/25'
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776668
+  - m_Id: 8
+    m_Localized: 'Cytat:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: "T\u0142o historyczne:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Rozpocznij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: "Ilo\u015B\u0107 pyta\u0144: 25"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Wprowadzenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: GuessHistory App
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9997215907840
+    m_Localized: Ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12404301807616
+    m_Localized: "Wybierz odpowied\u017A:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13503805046784
+    m_Localized: A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13635967565824
+    m_Localized: B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13759716311040
+    m_Localized: C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13860421550080
+    m_Localized: D
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 6148630989898776668
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 6
+        - id: 7
