@@ -47,10 +47,9 @@ MonoBehaviour:
   - m_Id: 6
     m_Localized: "Parab\xE9ns, sua pontua\xE7\xE3o \xE9:"
     m_Metadata:
-      m_Items:
-      - rid: 6148630989898776669
+      m_Items: []
   - m_Id: 7
-    m_Localized: 'Pergunta: {number}/25'
+    m_Localized: 'Pergunta: {:dg(0)}/25'
     m_Metadata:
       m_Items:
       - rid: 6148630989898776669
@@ -69,7 +68,8 @@ MonoBehaviour:
   - m_Id: 11
     m_Localized: "N\xFAmero de perguntas: 25"
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 6148630989898776669
   - m_Id: 12
     m_Localized: "Introdu\xE7\xE3o"
     m_Metadata:
@@ -102,6 +102,16 @@ MonoBehaviour:
     m_Localized: D
     m_Metadata:
       m_Items: []
+  - m_Id: 322411287330816
+    m_Localized: '{:dg(0)}/25'
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776669
+  - m_Id: 2118404534222848
+    m_Localized: '{:dg(0)}/25'
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776669
   references:
     version: 2
     RefIds:
@@ -110,5 +120,7 @@ MonoBehaviour:
       data:
         m_Entries: 
         m_SharedEntries:
-        - id: 6
         - id: 7
+        - id: 322411287330816
+        - id: 11
+        - id: 2118404534222848

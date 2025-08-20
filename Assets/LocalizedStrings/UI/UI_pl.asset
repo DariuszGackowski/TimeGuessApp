@@ -48,10 +48,9 @@ MonoBehaviour:
   - m_Id: 6
     m_Localized: "Gratulacje tw\xF3j wynik to:"
     m_Metadata:
-      m_Items:
-      - rid: 6148630989898776668
+      m_Items: []
   - m_Id: 7
-    m_Localized: 'Pytanie: {number}/25'
+    m_Localized: 'Pytanie: {:dg(0)}/25'
     m_Metadata:
       m_Items:
       - rid: 6148630989898776668
@@ -70,7 +69,8 @@ MonoBehaviour:
   - m_Id: 11
     m_Localized: "Ilo\u015B\u0107 pyta\u0144: 25"
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 6148630989898776668
   - m_Id: 12
     m_Localized: Wprowadzenie
     m_Metadata:
@@ -103,6 +103,16 @@ MonoBehaviour:
     m_Localized: D
     m_Metadata:
       m_Items: []
+  - m_Id: 322411287330816
+    m_Localized: '{:dg(0)}/25'
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776668
+  - m_Id: 2118404534222848
+    m_Localized: '{:dg(0)}/25'
+    m_Metadata:
+      m_Items:
+      - rid: 6148630989898776668
   references:
     version: 2
     RefIds:
@@ -111,5 +121,7 @@ MonoBehaviour:
       data:
         m_Entries: 
         m_SharedEntries:
-        - id: 6
         - id: 7
+        - id: 322411287330816
+        - id: 11
+        - id: 2118404534222848

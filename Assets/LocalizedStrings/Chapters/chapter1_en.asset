@@ -100,7 +100,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 17
     m_Localized: From which famous city-state, known for its grave riches and extensive
-      administration, do these artifacts originate?
+      administration, does this artifact originate?
     m_Metadata:
       m_Items: []
   - m_Id: 18

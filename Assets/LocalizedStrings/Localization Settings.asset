@@ -99,7 +99,7 @@ MonoBehaviour:
         - rid: 5813119550454497551
         - rid: 5813119550454497552
         - rid: 5813119550454497553
-        - rid: 6148630989898776696
+        - rid: 6148631035354546260
     - rid: 5813119550454497537
       type: {class: SmartSettings, ns: UnityEngine.Localization.SmartFormat.Core.Settings, asm: Unity.Localization}
       data:
@@ -206,10 +206,8 @@ MonoBehaviour:
     - rid: 6148630989898776681
       type: {class: DefaultSource, ns: UnityEngine.Localization.SmartFormat.Extensions, asm: Unity.Localization}
       data: 
-    - rid: 6148630989898776696
-      type: {class: MyLocalizedNumberFormatter, ns: , asm: Assembly-CSharp}
+    - rid: 6148631035354546260
+      type: {class: DigitFormatter, ns: UnityEngine.Localization.SmartFormat.Extensions, asm: Assembly-CSharp}
       data:
         m_Names:
-        - localizedNumber
-        - l
-        - 
+        - dg

@@ -17,7 +17,7 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 214942160eef21c4fae81bee2deb3309, type: 2}
   m_Metadata:
     m_Items:
-    - rid: 6148630989898776662
+    - rid: 6148631009938899026
   m_TableData:
   - m_Id: 1
     m_Localized: "\u611F\u8C22\u60A8\u4E0B\u8F7D\u6B64\u5E94\u7528\u7A0B\u5E8F\uFF01\u5982\u679C\u60A8\u6709\u60F3\u6CD5\u3001\u5EFA\u8BAE\u6216\u5E0C\u671B\u770B\u5230\u65B0\u7684\u529F\u80FD\uFF0C\u8BF7\u5199\u4FE1\u7ED9\u6211\uFF1Adariusz.gackowski@interia.pl
@@ -43,13 +43,12 @@ MonoBehaviour:
   - m_Id: 6
     m_Localized: "\u606D\u559C\uFF0C\u4F60\u7684\u5F97\u5206\u662F\uFF1A"
     m_Metadata:
-      m_Items:
-      - rid: 6148630989898776662
+      m_Items: []
   - m_Id: 7
-    m_Localized: "\u95EE\u9898\uFF1A{number:localizedNumber}/\u4E8C\u5341\u4E94"
+    m_Localized: "\u95EE\u9898\uFF1A{:dg(0)}/\u4E8C\u5341\u4E94"
     m_Metadata:
       m_Items:
-      - rid: 6148630989898776662
+      - rid: 6148631009938899026
   - m_Id: 8
     m_Localized: "\u5F15\u7528\uFF1A"
     m_Metadata:
@@ -65,7 +64,8 @@ MonoBehaviour:
   - m_Id: 11
     m_Localized: "\u9898\u76EE\u6570\u91CF\uFF1A\u4E8C\u5341\u4E94"
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 6148631009938899026
   - m_Id: 12
     m_Localized: "\u4ECB\u7ECD"
     m_Metadata:
@@ -98,13 +98,25 @@ MonoBehaviour:
     m_Localized: "\u4E01"
     m_Metadata:
       m_Items: []
+  - m_Id: 322411287330816
+    m_Localized: "{:dg(0)}/\u4E8C\u5341\u4E94"
+    m_Metadata:
+      m_Items:
+      - rid: 6148631009938899026
+  - m_Id: 2118404534222848
+    m_Localized: "{:dg(0)}/\u4E8C\u5341\u4E94"
+    m_Metadata:
+      m_Items:
+      - rid: 6148631009938899026
   references:
     version: 2
     RefIds:
-    - rid: 6148630989898776662
+    - rid: 6148631009938899026
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 
         m_SharedEntries:
-        - id: 6
         - id: 7
+        - id: 322411287330816
+        - id: 11
+        - id: 2118404534222848

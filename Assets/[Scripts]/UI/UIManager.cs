@@ -9,6 +9,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Localization;
+using UnityEngine.Localization.Components;
 using UnityEngine.Localization.Settings;
 using UnityEngine.UI;
 
@@ -45,16 +46,21 @@ namespace UI
         [Header("Chapter Setup")]
         public TextMeshProUGUI ChapterNameText;
         public TextMeshProUGUI ChapterDescriptionText;
-        public TextMeshProUGUI ChapterMaxPointsText;
-        public TextMeshProUGUI QuestionCountText;
         public Image ChapterImage;
+        public LocalizeStringEvent ChapterMaxPointsLSE;
+        private LocalizedString ChapterMaxPointsLS => ChapterMaxPointsLSE.StringReference;
 
         [Header("Question Setup")]
         public TextMeshProUGUI QuestionText;
-        public TextMeshProUGUI QuestionValueText1;
-        public TextMeshProUGUI QuestionValueText2;
-        public TextMeshProUGUI QuestionValueText3;
-        public TextMeshProUGUI ScoredPointsText;
+        public LocalizeStringEvent QuestionValue1LSE;
+        private LocalizedString QuestionValue1LS => QuestionValue1LSE.StringReference;
+        public LocalizeStringEvent QuestionValue2LSE;
+        private LocalizedString QuestionValue2LS => QuestionValue2LSE.StringReference;
+        public LocalizeStringEvent QuestionValue3LSE;
+        private LocalizedString QuestionValue3LS => QuestionValue3LSE.StringReference;
+        public LocalizeStringEvent ScoredPointsLSE;
+        private LocalizedString ScoredPointsLS => ScoredPointsLSE.StringReference;
+
         public AnswerButton Answer1;
         public AnswerButton Answer2;
         public AnswerButton Answer3;
@@ -91,6 +97,8 @@ namespace UI
             ShowMainSegment();
             InitializeLanguageDropdown();
 
+            var smart = LocalizationSettings.StringDatabase.SmartFormatter;
+
             OnChapterSelect.AddListener(ChapterSegmentSetup);
             OnAnswerSelect.AddListener(CheckAnswer);
             OnHintSelect.AddListener(HintSetup);
@@ -107,6 +115,35 @@ namespace UI
             {
                 uiText.SetText(handle.Result);
             };
+        }
+        public static void SetArgumentOnce(LocalizedString localizedString, string argument)
+        {
+            if (localizedString.Arguments == null)
+            {
+                localizedString.Arguments = new List<object>();
+            }
+
+            int existingIndex = -1;
+            for (int i = 0; i < localizedString.Arguments.Count; i++)
+            {
+                var arg = localizedString.Arguments[i];
+                if (arg is KeyValuePair<string, object> pair && pair.Key == "number")
+                {
+                    existingIndex = i;
+                    break;
+                }
+            }
+
+            if (existingIndex == -1)
+            {
+                localizedString.Arguments.Add(new KeyValuePair<string, object>("number", argument));
+            }
+            else
+            {
+                localizedString.Arguments[existingIndex] = new KeyValuePair<string, object>("number", argument);
+            }
+
+            localizedString.RefreshString();
         }
         #region Main Segment UI
         //event in buttons
@@ -180,7 +217,11 @@ namespace UI
         {
             for (int i = 0; i < QuestionsData.Chapters.Count; i++)
             {
-                ChapterButtons.Where(button => button.ChapterIndex == i).FirstOrDefault()?.SetMaxScoredPoints(QuestionsData.Chapters[i].MaxScoredPoints);
+                ChapterButton chapterButton = ChapterButtons.FirstOrDefault(button => button.ChapterIndex == i);
+
+                Debug.Log("MaxScoredPoints " + QuestionsData.Chapters[i].MaxScoredPoints);
+                chapterButton.SetMaxScoredPoints(QuestionsData.Chapters[i].MaxScoredPoints);
+                chapterButton.gameObject.SetActive(true);
             }
         }
         #endregion
@@ -211,9 +252,7 @@ namespace UI
 
             SetLocalizedTextOnce(ChapterNameText, chapter.LocalizationTableName, chapter.NameID);
             SetLocalizedTextOnce(ChapterDescriptionText, chapter.LocalizationTableName, chapter.DescriptionID);
-
-            ChapterMaxPointsText.SetText(chapter.MaxScoredPoints.ToString());
-            QuestionCountText.SetText(chapter.Questions.Count.ToString());
+            SetArgumentOnce(ChapterMaxPointsLS, chapter.MaxScoredPoints.ToString());
 
             ChapterImage.sprite = chapter.Icon;
 
@@ -277,9 +316,9 @@ namespace UI
             string table = _currentChapter.LocalizationTableName;
             string questionNumber = (_currentQuestion + 1).ToString();
 
-            QuestionValueText1.SetText(questionNumber);
-            QuestionValueText2.SetText(questionNumber);
-            QuestionValueText3.SetText(questionNumber);
+            SetArgumentOnce(QuestionValue1LS, questionNumber);
+            SetArgumentOnce(QuestionValue2LS, questionNumber);
+            SetArgumentOnce(QuestionValue3LS, questionNumber);
 
             QuestionImage.sprite = question.Icon;
             SetLocalizedTextOnce(QuestionText, table, question.QuestionTextID);
@@ -324,7 +363,8 @@ namespace UI
         {
             _currentChapter.MaxScoredPoints = Mathf.Max(_currentChapter.MaxScoredPoints, (int)_scoredPoints);
 
-            ScoredPointsText.SetText(_scoredPoints.ToString());
+            SetArgumentOnce(ScoredPointsLS, _scoredPoints.ToString());
+
             ScorePopup.SetActive(true);
 
             StartCoroutine(DelayedPostScoreActions());

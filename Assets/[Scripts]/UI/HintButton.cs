@@ -1,16 +1,37 @@
 using UnityEngine;
+using UnityEngine.UI;
 
-public class HintButton : MonoBehaviour
+namespace UI
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public class HintButton : MonoBehaviour
     {
-        
-    }
+        public HintType HintType;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        public bool IsUsed;
+
+        public Image HintImage;
+        public Sprite UsedHintSprite;
+        public Sprite UnusedHintSprite;
+
+        private void ShowHint()
+        {
+            HintImage.sprite = UsedHintSprite;
+
+            UIManager.OnHintSelect.Invoke(HintType);
+        }
+        public void ResetHintButton() 
+        {
+            HintImage.sprite = UnusedHintSprite;
+
+            IsUsed = false;
+        }
+        public void OnClick() 
+        {
+            if (IsUsed) return;
+
+            ShowHint();
+
+            IsUsed = true;
+        }
     }
 }

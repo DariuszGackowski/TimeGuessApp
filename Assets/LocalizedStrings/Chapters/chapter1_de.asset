@@ -102,8 +102,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 17
-    m_Localized: "Aus welcher ber\xFChmten Stadtstaaten, bekannt f\xFCr ihren Grabreichtum
-      und ihre umfassende Verwaltung, stammen diese Artefakte?"
+    m_Localized: "Aus welchem ber\xFChmten Stadtstaat, bekannt f\xFCr seinen Grabreichtum
+      und seine umfassende Verwaltung, stammt dieses Artefakt?"
     m_Metadata:
       m_Items: []
   - m_Id: 18
